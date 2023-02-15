@@ -2,7 +2,10 @@ const express = require("express");
 const cors = require("cors");
 const app = express();
 
-const domains = ["http://localhost:5173/"];
+const domains = [
+  "http://localhost:5173/",
+  "http://localhost:5173/consoles/game-boy-advance",
+];
 
 app.use(express.json());
 app.use(
