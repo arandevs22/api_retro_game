@@ -85,5 +85,5 @@ app.delete("/api/games/:id", (req, res) => {
   res.send(game);
 });
 
-const PORT = process.env.port || 3197;
+const PORT = process.env.PORT || 3197;
 app.listen(PORT, () => console.log(`Escuchando en el puerto ${PORT}`));
