@@ -67,6 +67,21 @@ const games = [
     rom: "https://arandevs2022.s3.us-west-004.backblazeb2.com/cloud-retro-gaming/roms/gameboy-advance/Dragon+Ball+Z+-+Supersonic+Warriors+(USA).gba",
     favorite: false,
   },
+  {
+    id: 5,
+    reference: "go:gm05",
+    console: "Nintendo DS",
+    genre: "Carreras",
+    title: "Mario Kart DS",
+    year: "2005",
+    poster:
+      "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/3eed6d27b0b2dd008c1be88cce8245fc.jpg",
+    logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/b59c67bf196a4758191e42f76670ceba.png",
+    background:
+      "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/e593c562359c3c2e42a22b808d3383e7.png",
+    rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/nintendo-ds/Mario%20Kart%20DS%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+    favorite: false,
+  },
 ];
 
 app.get("/", (req, res) => {
