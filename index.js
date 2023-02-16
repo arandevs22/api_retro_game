@@ -9,7 +9,7 @@ app.use(cors());
 const games = [
   {
     id: 1,
-    refence: "go:gm01",
+    reference: "go:gm01",
     console: "Game Boy Advance",
     genre: "shooter",
     title: "Metal slug Advance",
@@ -23,7 +23,7 @@ const games = [
   },
   {
     id: 2,
-    refence: "go:gm02",
+    reference: "go:gm02",
     console: "Game Boy Advance",
     genre: "peleas",
     title: "Dragon Ball: Advanced Adventure",
@@ -37,7 +37,7 @@ const games = [
   },
   {
     id: 3,
-    refence: "go:gm03",
+    reference: "go:gm03",
     console: "Game Boy Advance",
     genre: "plataforma",
     title: "Castlevania: Aria Of Sorrow",
