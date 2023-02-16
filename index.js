@@ -13,6 +13,7 @@ const games = [
     console: "Game Boy Advance",
     genre: "shooter",
     title: "Metal slug Advance",
+    year: "2004",
     poster:
       "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/29ab124d059e51600744303ec829069e.jpg",
     logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/66410adefc38da1e9486483597c15518.png",
@@ -26,6 +27,7 @@ const games = [
     console: "Game Boy Advance",
     genre: "peleas",
     title: "Dragon Ball: Advanced Adventure",
+    year: "2004",
     poster:
       "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a7843ff15ebf9f9b7ceda39eb8b1f117.jpg",
     logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/dcb8dc74a2a76e9e90526ddbfd759ba7.png",
@@ -39,6 +41,7 @@ const games = [
     console: "Game Boy Advance",
     genre: "plataforma",
     title: "Castlevania: Aria Of Sorrow",
+    year: "2004",
     poster:
       "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/00a2c01b0d106174280311c645ffe21f.jpg",
     logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/370caceecffaa11d5c0fe2dfefa413c1.png",
