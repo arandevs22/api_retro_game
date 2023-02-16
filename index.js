@@ -41,7 +41,7 @@ const games = [
     id: 3,
     reference: "go:gm03",
     console: "Game Boy Advance",
-    genre: "plataforma",
+    genre: "Plataforma",
     title: "Castlevania: Aria Of Sorrow",
     year: "2004",
     poster:
