@@ -150,6 +150,66 @@ let games = {
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Crash%20of%20the%20Titans%20%28USA%29%20%28En%2CFr%29.gba",
       favorite: false,
     },
+    {
+      id: 11,
+      reference: "go:gba11",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Summon Night: Swordcraft Story",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/756f3da479f67c608b77a871878871ba.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/cebd648f9146a6345d604ab093b02c73.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/201d7288b4c18a679e48b31c72c30ded.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Summon%20Night%20-%20Swordcraft%20Story%202%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 12,
+      reference: "go:gba12",
+      console: "Game Boy Advance",
+      genre: "deportes",
+      title: "FIFA 07",
+      year: "2006",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/2b906aeae02a498d65f341efa8687a22.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/1d075e2fdbc8e2e66a47b39a0652ce31.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/629091c3a8b9231787db45f601722ff6.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/FIFA%202007%20%23%20GBA.GBA",
+      favorite: false,
+    },
+    {
+      id: 13,
+      reference: "go:gba13",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Final Fantasy VI Advance",
+      year: "2006",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/2c45dac604567323aecb4f87467551f3.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/0993b7960f34c29b1fdb6516be27046f.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9229b4855f204052a1ee62f0a06f1cc9.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Final%20Fantasy%206%20Advance%20%23%20GBA.GBA",
+      favorite: false,
+    },
+    {
+      id: 14,
+      reference: "go:gba14",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Final Fantasy IV Advance",
+      year: "2005",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/7b5fb650c7bca123d83dd9cf7f7f9bca.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/a543c921889f9dcddaff0ce4ca955293.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/2ee21a186b613d4ae3f1d77dd07c8fef.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Final%20Fantasy%204%20Advance%20%23%20GBA.GBA",
+      favorite: false,
+    },
   ],
 
   nintendods: [
