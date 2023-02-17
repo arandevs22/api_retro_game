@@ -210,6 +210,36 @@ let games = {
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Final%20Fantasy%204%20Advance%20%23%20GBA.GBA",
       favorite: false,
     },
+    {
+      id: 15,
+      reference: "go:gba15",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Dragon Ball Z: Buu's Fury",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/1dc43796fb1b397a7f2b43180068b580.png",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4ef42b32bccc9485b10b8183507e5d82.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/c7c46d4baf816bfb07c7f3bf96d88544.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Dragonball%20Z%20-%20Buu%27s%20Fury%20%23%20GBA.GBA",
+      favorite: false,
+    },
+    {
+      id: 16,
+      reference: "go:gba16",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "Tom Clancy's Splinter Cell",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f2aa417ab5eec093fb1699b3c789caff.png",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4f6ffe13a5d75b2d6a3923922b3922e5.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f4673e1d559b339a5ad95e54e42f0ae2.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Tom%20Clancy%27s%20Splinter%20Cell%20%28USA%29%20%28En%2CFr%2CEs%29.gba",
+      favorite: false,
+    },
   ],
 
   nintendods: [
