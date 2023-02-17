@@ -255,12 +255,42 @@ let games = {
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/0339%20-%20Sonic%20Advance%20%28E%29%28Lightforce%29.gba",
       favorite: false,
     },
+    {
+      id: 18,
+      reference: "go:gba18",
+      console: "Game Boy Advance",
+      genre: "peleas",
+      title: "Medabots AX: Metabee Version",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/2c09e47a931795292f363b58bf176163.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9a5d1781b5a5cb66c99703c5dee81a1a.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/900e9a6cea0b0ddfecbfba02cc20b13f.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/1037%20-%20Medabots%20AX%20-%20Metabee%20Version%20%28E%29%28Rising%20Sun%29.gba",
+      favorite: false,
+    },
+    {
+      id: 19,
+      reference: "go:gba19",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "Mega Man & Bass",
+      year: "1998",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/5d2fe5897dab4591b33f7b4ac8a1e88b.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9582a4486a56b2b30d8125d7c0701b8a.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/2b1f292723cc6f4ca4761f8710141cbb.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/1046%20-%20MegaMan%20%26%20Bass%20%28E%29%28wC%29.gba",
+      favorite: false,
+    },
   ],
 
   nintendods: [
     {
       id: 1,
-      reference: "go:ds01",
+      reference: "go:nds01",
       console: "nintendo-ds",
       genre: "carreras",
       title: "Mario Kart DS",
