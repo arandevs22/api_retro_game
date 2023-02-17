@@ -240,6 +240,21 @@ let games = {
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Tom%20Clancy%27s%20Splinter%20Cell%20%28USA%29%20%28En%2CFr%2CEs%29.gba",
       favorite: false,
     },
+    {
+      id: 17,
+      reference: "go:gba17",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Sonic Advance",
+      year: "2001",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/1225293648e26d9c5e54e22e92197cb4.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/498f2c21688f6451d9f5fd09d53edda7.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/3fa14ed7b5855de1e9a3cf48677fa60c.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/0339%20-%20Sonic%20Advance%20%28E%29%28Lightforce%29.gba",
+      favorite: false,
+    },
   ],
 
   nintendods: [
