@@ -285,6 +285,126 @@ let games = {
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/1046%20-%20MegaMan%20%26%20Bass%20%28E%29%28wC%29.gba",
       favorite: false,
     },
+    {
+      id: 20,
+      reference: "go:gba20",
+      console: "Game Boy Advance",
+      genre: "cartas",
+      title: "Yu-Gi-Oh! World Championship Tournament 2004",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/7bdb8b4b9cff6547913f30ac00a649a1.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/515b37a5bb29c8ea5c7d919139b22971.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/b4d6cca6f8d9376fd31be2a6c28f308b.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/1435%20-%20Yu-Gi-Oh%21%20-%20World%20Championship%20Tournament%202004%20%28E%29%28GBA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 21,
+      reference: "go:gba21",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Kirby & the Amazing Mirror",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f41f44caa960c51d28fa218af3f05e30.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/ca3a856a28df7d77d948949206ff9fdf.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ee6929cfd8dd567e41e4efe843b42dcd.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/1560%20-%20Kirby%20And%20The%20Amazing%20Mirror%20%28E%29%28Rising%20Sun%29.gba",
+      favorite: false,
+    },
+    {
+      id: 22,
+      reference: "go:gba22",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Rayman: Hoodlums' Revenge",
+      year: "2005",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/67b98e17ed75125c912af26dd15901a9.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/02c1f06978b821b2996ec257932f2947.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f9827b6430547fd3f2c94fabf299fb97.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/1934%20-%20Rayman%20-%20Hoodlums%27%20Revenge%20%28E%29%28Endless%20Piracy%29.gba",
+      favorite: false,
+    },
+    {
+      id: 23,
+      reference: "go:gba23",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Super Mario Advance 4",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/cf87aa07bf4739cd9fed438d1f6c1770.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/59139a91a16c9b09a388091bdfe639de.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/2d36b5821f8affc6868b59dfc9af6c9f.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Super%20Mario%20Advance%204%20-%20Super%20Mario%20Bros%203%20%28E%29%28Menace%29.gba",
+      favorite: false,
+    },
+    {
+      id: 24,
+      reference: "go:gba24",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "007: Everything or Nothing",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/fe4e27da08460834e20042b604be6596.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/51e2038e383ecfc953bf1ab5a0747c63.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/d750dbc5c4510c96e92e256136bdeb73.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/007%20-%20Everything%20or%20Nothing%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%29.gba",
+      favorite: false,
+    },
+    {
+      id: 25,
+      reference: "go:gba25",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "007: Nightfire",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/29ec03bb2d04702c0e22fba276bf9a3e.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/2da5a68c98274485adc266e224d77b0f.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/62c7e20be72c680983e2a2291ab7fcc6.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/007%20-%20NightFire%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%29.gba",
+      favorite: false,
+    },
+    {
+      id: 26,
+      reference: "go:gba26",
+      console: "Game Boy Advance",
+      genre: "estrategia",
+      title: "Advance Wars",
+      year: "2001",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/5cf6e0afb3ace3ff9cc8e3a71dca37e3.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/ebd58b8a3f1d72f4206201da62fb1204.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9d86d83f925f2149e9edb0ac3b49229c.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Advance%20Wars%20%28USA%29%20%28Rev%201%29.gba",
+      favorite: false,
+    },
+    {
+      id: 27,
+      reference: "go:gba27",
+      console: "Game Boy Advance",
+      genre: "estrategia",
+      title: "Advance Wars 2: Black Hole Rising",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/d47f99f437cb40af762031d8d93ec885.png",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/d994e3728ba5e28defb88a3289cd7ee8.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/3d3621cee6f49e93a34f3f0f654ab41a.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Advance%20Wars%202%20-%20Black%20Hole%20Rising%20%28USA%29.gba",
+      favorite: false,
+    },
   ],
 
   nintendods: [
