@@ -480,6 +480,231 @@ let games = {
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Beyblade%20G-Revolution%20%28USA%29.gba",
       favorite: false,
     },
+    {
+      id: 33,
+      reference: "go:gba33",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Bomberman Tournament",
+      year: "2001",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/0a4929b3fe06ab4cd44322f497c78879.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/46d9651681cc411ec0da74848ffb8197.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/022d682784c20ccc9176ceff49b82c0b.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Bomberman%20Tournament%20%28USA%2C%20Europe%29.gba",
+      favorite: false,
+    },
+    {
+      id: 34,
+      reference: "go:gba34",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Breath of Fire",
+      year: "1993",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/310a7bddf9c90499ac797e88c6ae4453.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/1fa734caf1090f7af9249745564ec09b.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/1d7f7d5faea7d8528d45aeaf191868c1.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Breath%20of%20Fire%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 35,
+      reference: "go:gba35",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Castlevania: Circle of the Moon",
+      year: "2001",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/98d18f067382e282b98734bf528b4178.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/b30958093daeed059670b35173654dc9.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9b71706cb7d7b32ad744c88113c7e83a.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Castlevania%20-%20Circle%20of%20the%20Moon%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 36,
+      reference: "go:gba36",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Breath of Fire II",
+      year: "1994",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f817154f97e447b8b003591c9bd5537a.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/54e0e46b6647aa736c13ef9d09eab432.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/16ff2a6adf8f3b8d2ec7bb6777eac8a0.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Breath%20of%20Fire%20II%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 37,
+      reference: "go:gba37",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Castlevania: Harmony of Dissonance",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/c9a82215f8133f873beb8804911eef52.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/87786131694e11c1ba38107de8ffae8e.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/12d836bf64839f987338414ccbec657f.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Castlevania%20-%20Harmony%20of%20Dissonance%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 38,
+      reference: "go:gba38",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Crash Bandicoot: The Huge Adventure",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/af37f5b0de67364f54d9b53d8e8afbfa.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4b34cc1bf1623b6d6532ed63ff6ae276.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ef05b664c6ed342599d949001afa7b4a.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Crash%20Bandicoot%20-%20The%20Huge%20Adventure%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 39,
+      reference: "go:gba39",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Crash Bandicoot 2: N-Tranced",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/5b6ef4c86592199551f2017f5693c3cc.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9f07f48cb91caf26dc0e4d76caac2826.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/18c9da69761a42ae620d9e9b0a57eb56.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Crash%20Bandicoot%202%20-%20N-Tranced%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 40,
+      reference: "go:gba40",
+      console: "Game Boy Advance",
+      genre: "carreras",
+      title: "Crash Nitro Kart",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/305b4101de6e18dd7bf1ca14f0f534eb.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/b1ab8aea23da706493a95512b29c7dd7.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/8e0a27a37a70dfd4ac16e0f57a08b641.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Crash%20Nitro%20Kart%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 41,
+      reference: "go:gba41",
+      console: "Game Boy Advance",
+      genre: "peleas",
+      title: "Digimon: Battle Spirit",
+      year: "2001",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/e5fb4c8a0221ae2e50d3efdbc5a991c3.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/2eb8302605d2cacb6457d1f4af221875.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/23e10f3c6987443b6f6929e72dabbe67.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Digimon%20-%20Battle%20Spirit%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 42,
+      reference: "go:gba42",
+      console: "Game Boy Advance",
+      genre: "peleas",
+      title: "Digimon: Battle Spirit 2",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/2ea77d751f5a0475b34c8e90815d97eb.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/6f871b1338ddda89ec59dc3570858cd9.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6dfbcb8172dbfca2e94b3ec9a99789a5.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Digimon%20-%20Battle%20Spirit%202%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
+      favorite: false,
+    },
+    {
+      id: 43,
+      reference: "go:gba43",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Donkey Kong Country",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/40a8107bf1fd560cd77264cd9d72d9ec.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/0b7a9d54deeb611edc4540d286e9a042.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6524341b411c77cdbd9dbc15f522c7b3.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Donkey%20Kong%20Country%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 44,
+      reference: "go:gba44",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Donkey Kong Country 2",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/e0c3fca242d8b12c40cf7d9057be798c.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/713fd63d76c8a57b16fc433fb4ae718a.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/d8ffe0099bb7e2c98f8e6e5c37baffa2.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Donkey%20Kong%20Country%202%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 45,
+      reference: "go:gba45",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Donkey Kong Country 3",
+      year: "2005",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/3acf3ca403eefd71d9820f4a3910284f.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/8091588a3968da46e3e43a76bf3b3a98.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/a78cd673323dd4da94a6a78acb242ae9.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Donkey%20Kong%20Country%203%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 46,
+      reference: "go:gba46",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "DOOM",
+      year: "1993",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/ef58f7ffe086514aa0164c7fc4f6cea8.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/154aa6866aefb6f8d0b722621fa71e83.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/64c26b2a2dcf068c49894bd07e0e6389.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Doom%20%28USA%2C%20Europe%29.gba",
+      favorite: false,
+    },
+    {
+      id: 47,
+      reference: "go:gba47",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "DOOM II: Hell on Earth",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/200aa768bcab054a00277c796a717919.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/853573b5a907ed8b2f4fec25a92406a2.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ef95afafde712120bb708d12b6217a9a.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Doom%20II%20%28USA%29.gba",
+      favorite: false,
+    },
   ],
 
   nintendods: [
