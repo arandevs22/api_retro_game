@@ -1049,6 +1049,155 @@ let games = {
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Magical%20Quest%203%20Starring%20Mickey%20%26%20Donald%20%28USA%29%20%28En%2CFr%2CDe%29.gba",
       favorite: false,
     },
+    {
+      id: 71,
+      reference: "go:gba71",
+      console: "Game Boy Advance",
+      genre: "deportes",
+      title: "Mario Golf: Advance Tour",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/d4e238509268feb6bacff616f13ab2d7.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/6d65b5ac1f4ec80b9a7309311f4f9b13.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/bb0a313f554c3a2b6e9944368512bb9b.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mario%20Golf%20-%20Advance%20Tour%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 72,
+      reference: "go:gba72",
+      console: "Game Boy Advance",
+      genre: "carreras",
+      title: "Mario Kart: Super Circuit",
+      year: "2001",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/83d788e65786046542c9354d17b92450.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/2404d480bb9068047a2fb584b0c5a44c.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/1144d074f709db094712d5d921d5e52b.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mario%20Kart%20-%20Super%20Circuit%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 73,
+      reference: "go:gba73",
+      console: "Game Boy Advance",
+      genre: "cartas",
+      title: "Mario Party Advance",
+      year: "2005",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/15773140922bf266be5149a9e31b650b.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/28538c394c36e4d5ea8ff5ad60562a93.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/d225f07436e0075a13ffd66eae614707.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mario%20Party%20Advance%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 74,
+      reference: "go:gba74",
+      console: "Game Boy Advance",
+      genre: "deportes",
+      title: "Mario Pinball Land",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/c8ca117e01b1fcf8e0c591df48d0ac3e.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/acf068d3e5e1ab3b6ae7d718587f654e.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/47348419f65e9ff93ab474a090e66a41.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mario%20Pinball%20Land%20%28USA%2C%20Australia%29.gba",
+      favorite: false,
+    },
+    {
+      id: 75,
+      reference: "go:gba75",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Mario vs. Donkey Kong",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/5e80df328f8ea95031018b02920b7cf6.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/ebbdfea212e3a756a1fded7b35578525.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/e53ba686b7ad2ec7825f0f4afff80a1b.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mario%20vs.%20Donkey%20Kong%20%28USA%2C%20Australia%29.gba",
+      favorite: false,
+    },
+    {
+      id: 76,
+      reference: "go:gba76",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Medabots: Metabee",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/5de939108a043bede8e987a80a8ca8d0.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9f91866fed044703e3a6b673ed0c470a.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/140691632b8352f3c2acc83bd4314173.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Medabots%20-%20Metabee%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 77,
+      reference: "go:gba77",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Medabots: Rokusho",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/ec6847f4e5b3aab870c7a34d6090bf69.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9bc792898a1f66e2ed7c2e2407b3fe8c.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6806c6ea50ea2de3df70f5451156cd06.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Medabots%20-%20Rokusho%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 78,
+      reference: "go:gba78",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "Medal of Honor: Infiltrator",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a3d3dbc847cd87afa071a8913e0d12b2.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/ca9f9c4764430f980dca8d70e29d8e5e.png",
+      background: "",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Medal%20of%20Honor%20-%20Infiltrator%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%29.gba",
+      favorite: false,
+    },
+    {
+      id: 79,
+      reference: "go:gba79",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Mega Man Battle Network",
+      year: "2001",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/ac33714c20522712f23f517fc3bbb806.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/596676c0468e1aa77be2d247aa42455e.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/15978ec98cc7fb6d2b95cd397439f23a.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mega%20Man%20Battle%20Network%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 80,
+      reference: "go:gba80",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "Mega Man Zero",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a1d9912bae1066ee6030e8a99bfd2cb7.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/b4892f808f9efbd561cecbfbec3ad20d.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/8e0251b8f27dd86e04c9049a1eeda4a3.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mega%20Man%20Zero%20%28USA%2C%20Europe%29.gba",
+      favorite: false,
+    },
   ],
 
   nintendods: [
