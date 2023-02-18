@@ -405,6 +405,81 @@ let games = {
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Advance%20Wars%202%20-%20Black%20Hole%20Rising%20%28USA%29.gba",
       favorite: false,
     },
+    {
+      id: 28,
+      reference: "go:gba28",
+      console: "Game Boy Advance",
+      genre: "beat em up",
+      title: "Astro Boy: Omega Factor",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/7e97d66f2838c18200788809bbadff71.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/a302e3f3e891a1202046b6046d9bc5b8.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/bd3e776678a01701f968d3cd4b787d39.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Astro%20Boy%20-%20Omega%20Factor%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.gba",
+      favorite: false,
+    },
+    {
+      id: 29,
+      reference: "go:gba29",
+      console: "Game Boy Advance",
+      genre: "beat em up",
+      title: "Baldur's Gate: Dark Alliance",
+      year: "2001",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/c33636bfb33eec213a7c4b4d555ba0ba.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/31716bdf834f7838689285ce155e7a64.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/85e43237b3fb87d881c757f44f1b0357.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Baldur%27s%20Gate%20-%20Dark%20Alliance%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 30,
+      reference: "go:gba30",
+      console: "Game Boy Advance",
+      genre: "beat em up",
+      title: "Batman Begins",
+      year: "2005",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/17952864919f69a30f88845f57405f79.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/715b66f8b96f226789e740c8c9b21153.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/0bdc3edd84a5ad81660345686552f38b.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Batman%20Begins%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.gba",
+      favorite: false,
+    },
+    {
+      id: 31,
+      reference: "go:gba31",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Banjo-Kazooie: Grunty's Revenge",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/1dace4e7efa8893c3b3acd21b3fea13f.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/19d9438c1c41a576fbf6738854a84a28.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/e798a0d5dea21ef441815910d5943598.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Banjo-Kazooie%20-%20Grunty%27s%20Revenge%20%28USA%2C%20Europe%29.gba",
+      favorite: false,
+    },
+    {
+      id: 32,
+      reference: "go:gba32",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Beyblade: G-Revolution",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f4000d714c3b4ac1ceb18f1a44de927a.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/8a89c904021d40e2ef4637468b0107b9.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/1871cafd644dbd065a4def56e8723ab4.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Beyblade%20G-Revolution%20%28USA%29.gba",
+      favorite: false,
+    },
   ],
 
   nintendods: [
