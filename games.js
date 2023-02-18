@@ -950,7 +950,7 @@ let games = {
       console: "Game Boy Advance",
       genre: "rpg",
       title: "The Legend of Zelda: A Link to the Past & Four Swords",
-      year: "rpg",
+      year: "2002",
       poster:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/34100459175cfa8574d285809004d1e7.jpg",
       logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4e0cb6fb5fb446d1c92ede2ed8780188.png",
@@ -965,13 +965,88 @@ let games = {
       console: "Game Boy Advance",
       genre: "rpg",
       title: "The Legend of Zelda: The Minish Cap",
-      year: "rpg",
+      year: "2003",
       poster:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a687f78b9842c87225e74921765feb1b.jpg",
       logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/e1dc4bf1f94e87fdfeb2d91ae3dc10ef.png",
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/786ab8c4d7ee758f80d57e65582e609d.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Legend%20of%20Zelda%2C%20The%20-%20The%20Minish%20Cap%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 66,
+      reference: "go:gba66",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "LEGO Star Wars II: The Original Trilogy",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a4709c38c4d40dd7f64c9d755bf5668a.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/c4bf1e24f3e6f92ca9dfd9a7a1a1049c.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/c678aec6e828c899b32a099c14ee882c.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/LEGO%20Star%20Wars%20II%20-%20The%20Original%20Trilogy%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 67,
+      reference: "go:gba67",
+      console: "Game Boy Advance",
+      genre: "beat em up",
+      title: "The Lord of the Rings: The Return of the King",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/5601077f1cc5aa2ec7bdad06aa84b45f.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/fd03f6198800b312694493f5bbd9407a.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/fc38d019366c0aa622caceb53f7f7a60.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Lord%20of%20the%20Rings%2C%20The%20-%20The%20Return%20of%20the%20King%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
+      favorite: false,
+    },
+    {
+      id: 68,
+      reference: "go:gba68",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "The Lord of the Rings: The Third Age",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/77913fcb87e326ec735c09bba2dc9f1c.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/90e37a86644071dd69d8bba707678996.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9ed8b53fdab5689b9f2f06c170e6fa32.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Lord%20of%20the%20Rings%2C%20The%20-%20The%20Third%20Age%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
+      favorite: false,
+    },
+    {
+      id: 69,
+      reference: "go:gba69",
+      console: "Game Boy Advance",
+      genre: "beat em up",
+      title: "The Lord of the Rings: The Two Towers",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/d6202419157e51298e67fc3eec9ea14f.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/36f4db8ba6172ac7f4d2cc7248b4dc34.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/dbe1eb558c1979553895969f6213a185.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Lord%20of%20the%20Rings%2C%20The%20-%20The%20Two%20Towers%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.gba",
+      favorite: false,
+    },
+    {
+      id: 70,
+      reference: "go:gba70",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Disney's Magical Quest 3 Starring Mickey & Donald",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/013e18a7ba1d69bb9612e3f12fc31270.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/76d77e63456ae93049d2bfe3e7356354.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/e601ac8ec15075e6c6d0831dbd5a9c81.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Magical%20Quest%203%20Starring%20Mickey%20%26%20Donald%20%28USA%29%20%28En%2CFr%2CDe%29.gba",
       favorite: false,
     },
   ],
