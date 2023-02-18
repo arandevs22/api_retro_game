@@ -885,21 +885,6 @@ let games = {
       favorite: false,
     },
     {
-      id: 59,
-      reference: "go:gba59",
-      console: "Game Boy Advance",
-      genre: "rpg",
-      title: "Harvest Moon: More Friends of Mineral Town",
-      year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/ee82cf8f38d81f98c16099d601acf933.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/5b32eb1adf7d661dfc01777ed24cc7ad.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f6968547901182c947e2fe1aa2d27edc.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Harvest%20Moon%20-%20More%20Friends%20of%20Mineral%20Town%20%28USA%29.gba",
-      favorite: false,
-    },
-    {
       id: 60,
       reference: "go:gba60",
       console: "Game Boy Advance",
