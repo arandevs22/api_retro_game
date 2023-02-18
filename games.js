@@ -914,6 +914,66 @@ let games = {
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/King%20of%20Fighters%20EX%202%2C%20The%20-%20Howling%20Blood%20%28USA%29.gba",
       favorite: false,
     },
+    {
+      id: 62,
+      reference: "go:gba62",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Kingdom Hearts: Chain of Memories",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/674872a8edd6d08ff2b1ac2a4ae164b7.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/0d59701b3474225fca5563e015965886.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/18fc3b6cc1e55ccea877c161e2e9ba27.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Kingdom%20Hearts%20-%20Chain%20of%20Memories%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 63,
+      reference: "go:gba63",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Kirby: Nightmare in Dream Land",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/c51ba765433ff00146f22da10ed4f73e.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/d9749cf32d4dfe38ddc695572dd948b9.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/322cd5382c6c967c00ddcb78643884b3.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Kirby%20-%20Nightmare%20in%20Dream%20Land%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 64,
+      reference: "go:gba64",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "The Legend of Zelda: A Link to the Past & Four Swords",
+      year: "rpg",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/34100459175cfa8574d285809004d1e7.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4e0cb6fb5fb446d1c92ede2ed8780188.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/21de0cb3f150ce7676be632a53580651.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20%26%20Four%20Swords%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 65,
+      reference: "go:gba65",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "The Legend of Zelda: The Minish Cap",
+      year: "rpg",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a687f78b9842c87225e74921765feb1b.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/e1dc4bf1f94e87fdfeb2d91ae3dc10ef.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/786ab8c4d7ee758f80d57e65582e609d.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Legend%20of%20Zelda%2C%20The%20-%20The%20Minish%20Cap%20%28USA%29.gba",
+      favorite: false,
+    },
   ],
 
   nintendods: [
