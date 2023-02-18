@@ -705,6 +705,50 @@ let games = {
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Doom%20II%20%28USA%29.gba",
       favorite: false,
     },
+    {
+      id: 48,
+      reference: "go:gba48",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "Duke Nukem Advance",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/158885de844ae92913127bddcebfe2e1.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/d0dcf063a9c7678ef849da47e7b5c359.png",
+      background: "",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Duke%20Nukem%20Advance%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 49,
+      reference: "go:gba49",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Final Fantasy Tactics Advance",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/68e83a098ab85c9ae13d07b6774f5a3b.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/1b246c2b83b7f322480a19abdd2ceff6.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6dd2f7fb9018bfcd8c3be1f8e65224ae.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Final%20Fantasy%20Tactics%20Advance%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 50,
+      reference: "go:gba50",
+      console: "Game Boy Advance",
+      genre: "beat em up",
+      title: "Final Fight One",
+      year: "2001",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/5dc89c28baca43cbed1314fce5c08be5.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/f9c42040716c5ec592a0cd1735e596ff.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/db98dc0dbafde48e8f74c0de001d35e4.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Final%20Fight%20One%20%28USA%29.gba",
+      favorite: false,
+    },
   ],
 
   nintendods: [
