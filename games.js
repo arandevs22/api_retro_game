@@ -749,6 +749,186 @@ let games = {
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Final%20Fight%20One%20%28USA%29.gba",
       favorite: false,
     },
+    {
+      id: 51,
+      reference: "go:gba51",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Fire Emblem: The Sacred Stones",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f3fd691d421ff0115dfc5310d4d3e701.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/838f14a84363d9a7ac1b06ad63fc6fb5.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/713f96370f69fb23e3387062bc914719.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Fire%20Emblem%20-%20The%20Sacred%20Stones%20%28USA%2C%20Australia%29.gba",
+      favorite: false,
+    },
+    {
+      id: 52,
+      reference: "go:gba52",
+      console: "Game Boy Advance",
+      genre: "carreras",
+      title: "F-Zero: Maximum Velocity",
+      year: "2001",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a414c0a69b3e3b87f2f7acdb9e4e2c2b.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/aba2b11d01c3742d77a4391276731579.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/78d69f40906679a976dc4d45cebffbe6.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/F-Zero%20-%20Maximum%20Velocity%20%28USA%2C%20Europe%29.gba",
+      favorite: false,
+    },
+    {
+      id: 53,
+      reference: "go:gba53",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Golden Sun: The Lost Age",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f7a37caa4cff44e1474728478f48630f.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/585eb4127afd003bd784f6e8dc132be2.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f7eaf1a7777e1ac6d3cddd1df25917df.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Golden%20Sun%20-%20The%20Lost%20Age%20%28USA%2C%20Europe%29.gba",
+      favorite: false,
+    },
+    {
+      id: 54,
+      reference: "go:gba54",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Golden Sun",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/705851a22d36a2e9ab6e8e3a11fb515a.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/b5ea9736b6a0b6f8a54f9f27c6e08c3e.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/e633e2ac7a14a4d56384f38df943792b.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Golden%20Sun%20%28USA%2C%20Europe%29.gba",
+      favorite: false,
+    },
+    {
+      id: 55,
+      reference: "go:gba55",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "Gunstar Super Heroes",
+      year: "2005",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/8387df63e8f826f3c23b8875a27059e9.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/55e5ee49a5fc483feb86b0718e1d3716.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/85cc5d67d3e0b0746f7e8796a4566d97.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Gunstar%20Super%20Heroes%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 56,
+      reference: "go:gba56",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Harry Potter and the Chamber of Secrets",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/52953199231420f773349481b159fac2.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4abe8aa8f6fad818f0a9e15f657d75e9.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/342d92157a4240ee35eab60e06a1412e.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%29.gba",
+      favorite: false,
+    },
+    {
+      id: 57,
+      reference: "go:gba57",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Harry Potter and the Prisoner of Azkaban",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a6ebfe17b351634e76d0455d123bcbb1.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4223a1d5b9e017dda51515829140e5d2.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ba48e3bddfd8b7160acdedcad3055780.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.gba",
+      favorite: false,
+    },
+    {
+      id: 58,
+      reference: "go:gba58",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Harry Potter and the Sorcerer's Stone",
+      year: "2001",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/eaea07c9b307dcd104753f3b41eed9d1.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/e2d083a5fd066b082d93042169313e21.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/a0f56bb43799522951d7a3d3a5b4e597.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Harry%20Potter%20and%20the%20Sorcerer%27s%20Stone%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%29.gba",
+      favorite: false,
+    },
+    {
+      id: 59,
+      reference: "go:gba59",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Harvest Moon: More Friends of Mineral Town",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/ee82cf8f38d81f98c16099d601acf933.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/5b32eb1adf7d661dfc01777ed24cc7ad.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f6968547901182c947e2fe1aa2d27edc.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Harvest%20Moon%20-%20More%20Friends%20of%20Mineral%20Town%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 59,
+      reference: "go:gba59",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Harvest Moon: More Friends of Mineral Town",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/ee82cf8f38d81f98c16099d601acf933.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/5b32eb1adf7d661dfc01777ed24cc7ad.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f6968547901182c947e2fe1aa2d27edc.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Harvest%20Moon%20-%20More%20Friends%20of%20Mineral%20Town%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 60,
+      reference: "go:gba60",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "The Incredible Hulk",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/15dcbf18337d54ac76f9bd023c409064.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/bbd318427404a9653b8760a576a50c26.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/8eb6c13d87ba59b39ba6d8f03f47dcbd.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Incredible%20Hulk%2C%20The%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 61,
+      reference: "go:gba61",
+      console: "Game Boy Advance",
+      genre: "peleas",
+      title: "The King of Fighters EX2: Howling Blood",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/84bafb37661859dac5d78025e1aac995.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a522566787b294b2e70ea3d6b8a393d6.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/427d46205152382d9d20f64490c8cce0.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/King%20of%20Fighters%20EX%202%2C%20The%20-%20Howling%20Blood%20%28USA%29.gba",
+      favorite: false,
+    },
   ],
 
   nintendods: [
