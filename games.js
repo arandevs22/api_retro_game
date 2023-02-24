@@ -1693,6 +1693,276 @@ let games = {
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Tactics%20Ogre%20-%20The%20Knight%20of%20Lodis%20%28USA%29.gba",
       favorite: false,
     },
+    {
+      id: 114,
+      reference: "go:gba114",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Tales of Phantasia",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/bb4e19183188f766073a21cecb4590a9.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/873111dfe6a0f5f2008f00687567e5d8.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/306be5c84f4338ff865ca4793fb328f3.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Tales%20of%20Phantasia%20%28USA%2C%20Australia%29.gba",
+      favorite: false,
+    },
+    {
+      id: 115,
+      reference: "go:gba115",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Tarzan: Return to the Jungle",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/fbffd6d4a9f2da1b76159d1d6a81a9d1.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9b3933639a931223d3f78f0dffc61254.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/1c616801a555cd123704636785ad3915.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Tarzan%20-%20Return%20to%20the%20Jungle%20%28USA%2C%20Europe%29.gba",
+      favorite: false,
+    },
+    {
+      id: 116,
+      reference: "go:gba116",
+      console: "Game Boy Advance",
+      genre: "beat em up",
+      title: "Teen Titans",
+      year: "2005",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/c73fc3dea6689aacbf97773ad1038288.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9ea2a3d45a641fd927eda133e9c1c248.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/c209163f3e310b6c0a9a2c6489e22a8e.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Teen%20Titans%20%28USA%29%20%28En%2CFr%29.gba",
+      favorite: false,
+    },
+    {
+      id: 117,
+      reference: "go:gba117",
+      console: "Game Boy Advance",
+      genre: "beat em up",
+      title: "Teen Titans 2",
+      year: "2006",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/b3a8a798108ed8871a61ebbb4130f80d.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/2782a1d5af12f430289b3d1db5218e1c.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/5d3e52e7bf675beec8e3426f67c2c901.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Teen%20Titans%202%20%28USA%29%20%28En%2CFr%29.gba",
+      favorite: false,
+    },
+    {
+      id: 118,
+      reference: "go:gba118",
+      console: "Game Boy Advance",
+      genre: "beat em up",
+      title: "Teenage Mutant Ninja Turtles",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/97e1a9031470e7883fd2ecaa6623f723.png",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/004dbbb73c0e3933d191fa195500d018.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/dd363b260a3b26e9ebdc93193730e961.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Teenage%20Mutant%20Ninja%20Turtles%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 119,
+      reference: "go:gba119",
+      console: "Game Boy Advance",
+      genre: "beat em up",
+      title: "Teenage Mutant Ninja Turtles 2: Battle Nexus",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/ca5b2e4666ebb0827a4029a43ca321fb.png",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/ec571ab7b4d7949853f9bf65e19442d5.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/76565ca91f9be8650a0f81f0d5de106b.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Teenage%20Mutant%20Ninja%20Turtles%202%20-%20Battle%20Nexus%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 120,
+      reference: "go:gba120",
+      console: "Game Boy Advance",
+      genre: "peleas",
+      title: "Tekken Advance",
+      year: "2001",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/6dccafe6d4eb21b987afc940e3f788a5.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9d5cc282ed8d39ab1f15b2338af14cb2.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/d597e048314596beebb1dba1248fc184.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Tekken%20Advance%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 121,
+      reference: "go:gba121",
+      console: "Game Boy Advance",
+      genre: "deportes",
+      title: "Tony Hawk's Pro Skater 3",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/bcc3bc4b265dd4f13ba2296293cec2d9.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4b0a59ddf11c58e7446c9df0da541a84.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/b458201027eb55a7a6dcb41b0af61993.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Tony%20Hawk%27s%20Pro%20Skater%203%20%28USA%2C%20Europe%29.gba",
+      favorite: false,
+    },
+    {
+      id: 122,
+      reference: "go:gba122",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "Turok: Evolution",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/7d1d8bfc2e16c69a17ac833597e2a9b0.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/52c2edca4131f0eeaff48a3f9a99bce0.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6b19397c392fd148c5873c9ca2a87f26.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Turok%20-%20Evolution%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 123,
+      reference: "go:gba123",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Ultimate Spider-Man",
+      year: "2005",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f97e386698e9a9a85d3c5604c042db95.png",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/583cf6a4542809a64ad14586ec00ebe0.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/cede2d63a7c04ebd4cb55a2228c7141a.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Ultimate%20Spider-Man%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 124,
+      reference: "go:gba124",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "Van Helsing",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/834bb7008bd1aaac887ffa69a7e86885.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/eab4f7ba2d678729fc5d205b33bceedd.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/56f2adb3621e53ea278ae1abba795d50.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Van%20Helsing%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 125,
+      reference: "go:gba125",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Wario Land 4",
+      year: "2001",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f5aa887b05d60fa00919f3d378816010.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/1a47e38c424a51aba827f45d77a438b1.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6c2fdcf862a752ca2c9e49866a05e1df.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Wario%20Land%204%20%28USA%2C%20Europe%29.gba",
+      favorite: false,
+    },
+    {
+      id: 126,
+      reference: "go:gba126",
+      console: "Game Boy Advance",
+      genre: "beat em up",
+      title: "X-Men: Reign of Apocalypse",
+      year: "2001",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/bddcc5065237c686cb4d89dba8b276f2.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/0d69c6dac2867bd073ec7e4c3df11665.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f328f10044c92a93ed15a76cd6c0058a.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/X-Men%20-%20Reign%20of%20Apocalypse%20%28USA%2C%20Europe%29.gba",
+      favorite: false,
+    },
+    {
+      id: 127,
+      reference: "go:gba127",
+      console: "Game Boy Advance",
+      genre: "cartas",
+      title: "Yu-Gi-Oh! Reshef of Destruction",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/10d7dfa268a7c0ba1b29ba3da5d6100a.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/f637a1490bb06969dd619e1854ee2ebc.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/733bf40648f654e2a0f367c8cb16856a.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Yu-Gi-Oh%21%20-%20Reshef%20of%20Destruction%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 128,
+      reference: "go:gba128",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Yu-Gi-Oh! The Eternal Duelist Soul",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/d7483430ef03eca02442c0e9969836fe.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/65556ffd720276df70c1553bc19168f4.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero_thumb/013d54a73fa466f8e8fe15b32976c8a4.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Yu-Gi-Oh%21%20-%20The%20Eternal%20Duelist%20Soul%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 129,
+      reference: "go:gba129",
+      console: "Game Boy Advance",
+      genre: "cartas",
+      title: "Yu-Gi-Oh! The Sacred Cards",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/9f2671e8ae16ceaedcbe315379cfd9f8.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/300813552e095326d31cdd855b300fbf.png",
+      background:
+        "",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Yu-Gi-Oh%21%20-%20The%20Sacred%20Cards%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 130,
+      reference: "go:gba130",
+      console: "Game Boy Advance",
+      genre: "cartas",
+      title: "Yu-Gi-Oh! GX Duel Academy",
+      year: "2006",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/7dbcbe42d4804b5b53ccfbb446052f0e.jpg",
+      logo: "",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/34657b087cb522ecec1cc1ead4026974.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Yu-Gi-Oh%21%20GX%20-%20Duel%20Academy%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 131,
+      reference: "go:gba131",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Zoids: Legacy",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/0278edddd8a644613430170b1e9ad893.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4585ad1e2cbe41891c011a3e0e73e1d4.png",
+      background:
+        "",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Zoids%20Legacy%20%28USA%29.gba",
+      favorite: false,
+    },
   ],
 
   nintendods: [
