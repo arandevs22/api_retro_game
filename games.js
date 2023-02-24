@@ -1258,6 +1258,246 @@ let games = {
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mortal%20Kombat%20-%20Deadly%20Alliance%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
       favorite: false,
     },
+    {
+      id: 85,
+      reference: "go:gba85",
+      console: "Game Boy Advance",
+      genre: "beat em up",
+      title: "Naruto: Ninja Council",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/7e27224842c691af53ac7220aa094d83.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4fadcbb166741cb5e0e1d874f2772fb6.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ccf1db324b72a6343a422a52bed9aac7.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Naruto%20-%20Ninja%20Council%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 86,
+      reference: "go:gba86",
+      console: "Game Boy Advance",
+      genre: "beat em up",
+      title: "Naruto: Ninja Council 2",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/866e042118c685314d9cf790d2842a37.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/179ddc389a9324cebba038fb4ac783d5.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/3debb4bd1655948a1be4894bdb47f60c.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Naruto%20-%20Ninja%20Council%202%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 87,
+      reference: "go:gba87",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "One Piece",
+      year: "2005",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f9a9d8ff10c0344b8e946c54d70d694a.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/90d2301e323b1809708324229782def2.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ad9a866c59fa615f586374a79bfa69f1.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Naruto%20-%20Ninja%20Council%202%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 88,
+      reference: "go:gba88",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Onimusha Tactics",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/b683f19ac02d2d1911cf2e4fc24ff3c3.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/5b47e496430dde1ee7c597dca0e2f57d.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/a7849da26d77b0a04581a4ff2d238957.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Onimusha%20Tactics%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 89,
+      reference: "go:gba89",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Pokémon Emerald",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/052938e7b425df3acdd9dc4be44404ef.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/69ec5030f78a9b735402d133317bf5f6.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/66bd939ad7010829ab65a6aaf28c9a96.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Pokemon%20-%20Emerald%20Version%20%28USA%2C%20Europe%29.gba",
+      favorite: false,
+    },
+    {
+      id: 90,
+      reference: "go:gba90",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Pokémon FireRed",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/02364616164166b84371270ca2e6eda2.png",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/dbec0010cebb295ffb1d96b0af9d77f8.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/fca4c59fd05e82348d82e41f72911993.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Pokemon%20-%20FireRed%20Version%20%28USA%2C%20Europe%29%20%28Rev%201%29.gba",
+      favorite: false,
+    },
+    {
+      id: 91,
+      reference: "go:gba91",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Pokémon Mystery Dungeon: Red Rescue Team",
+      year: "2005",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/08973de6b97df266ebbf555c69294d77.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9ed27554c893b5bad850a422c3538c15.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/97c81649fa58303996aaf556b17043ca.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Pokemon%20Mystery%20Dungeon%20-%20Red%20Rescue%20Team%20%28USA%2C%20Australia%29.gba",
+      favorite: false,
+    },
+    {
+      id: 92,
+      reference: "go:gba92",
+      console: "Game Boy Advance",
+      genre: "aventura",
+      title: "Power Rangers: Dino Thunder",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a6ae3a0017dbb3c58acb05c5e6fc8cd3.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/c4efc214b3e14109e4619773eb3fd469.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/2782a1d5af12f430289b3d1db5218e1c.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Power%20Rangers%20-%20Dino%20Thunder%20%28USA%2C%20Europe%29.gba",
+      favorite: false,
+    },
+    {
+      id: 93,
+      reference: "go:gba93",
+      console: "Game Boy Advance",
+      genre: "beat em up",
+      title: "Power Rangers: Wild Force",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/b2fc570ceb42f465b7a296f9ea80c639.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/0e25d64a0f4e667f8839de12e2e25d4e.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/abd9d609346bb9043efb0b93aab2cedb.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Power%20Rangers%20-%20Wild%20Force%20%28USA%2C%20Europe%29.gba",
+      favorite: false,
+    },
+    {
+      id: 94,
+      reference: "go:gba94",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Prince of Persia: The Sands of Time",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/6a8cfab2aa11fbb342063df25c16a5f1.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/22f2729737ae3dc9702e4cee0eb3e900.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/c4211b6fddf7ddf821087989ae514550.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Prince%20of%20Persia%20-%20The%20Sands%20of%20Time%20%28USA%29%20%28En%2CFr%2CEs%29.gba",
+      favorite: false,
+    },
+    {
+      id: 95,
+      reference: "go:gba95",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Rayman Advance",
+      year: "2001",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/24b94f325c82cbbc6b84223b961a2d78.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/f46a7537f2a4d9cb860b5969ed5da1db.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/7c3349793d7221d1d89a6f9853009048.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Rayman%20Advance%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
+      favorite: false,
+    },
+    {
+      id: 96,
+      reference: "go:gba96",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Riviera: The Promised Land",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/81126014e2d1cec348b14ee2805e6a12.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/7b889da86fa368b083e6b41f1c879fa9.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/5e7d82fb40873235efb87212f67b1181.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Riviera%20-%20The%20Promised%20Land%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 97,
+      reference: "go:gba97",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Shaman King: Master of Spirits",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/89bfc07b9b24c27ba06628bc3289bfa2.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/eb3ecc0748da0f58287794ef8a55aac4.png",
+      background:
+        "",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Shaman%20King%20-%20Master%20of%20Spirits%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 98,
+      reference: "go:gba98",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Shaman King: Master of Spirits 2",
+      year: "2005",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/c0dd4d251ad3de4a67f2d7664af91cab.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/556fe7056165f3f6490139ca118e1c49.png",
+      background:
+        "",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Shaman%20King%20-%20Master%20of%20Spirits%202%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 99,
+      reference: "go:gba99",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Shining Soul",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/ad22a0d4e39a7c158e3c167be6322c9c.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/2bd17730427116dbfd936f57fbca0237.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/897f32f21090e0f077c7a4dc93a47994.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Shining%20Soul%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 100,
+      reference: "go:gba100",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Shining Soul II",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/1e6db62bfdf5b1b27b753066a757d2ff.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/045a1fb3d059ec8dbeefa2a4b616e511.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/4fa0a0925c9527b40fb2353fc03e2bf0.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Shining%20Soul%20II%20%28USA%29.gba",
+      favorite: false,
+    },
   ],
 
   nintendods: [
