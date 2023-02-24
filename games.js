@@ -1498,6 +1498,201 @@ let games = {
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Shining%20Soul%20II%20%28USA%29.gba",
       favorite: false,
     },
+    {
+      id: 101,
+      reference: "go:gba101",
+      console: "Game Boy Advance",
+      genre: "carreras",
+      title: "The Simpson's Road Rage",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/b56086d2aeaac8ca31834f58bf7af9b6.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/6b62583978106bff7ad1ab4fabd10d19.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ee228bd5b36762c84cd0641eb267440b.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Simpsons%2C%20The%20-%20Road%20Rage%20%28USA%2C%20Europe%29.gba",
+      favorite: false,
+    },
+    {
+      id: 102,
+      reference: "go:gba102",
+      console: "Game Boy Advance",
+      genre: "simulator",
+      title: "The Sims 2",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/7641de3ae38ab9e744ff12296ae27608.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/83cbc5e9ad9b537435036c2cdc4b0074.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/185c29dc24325934ee377cfda20e414c.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Sims%202%2C%20The%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.gba",
+      favorite: false,
+    },
+    {
+      id: 103,
+      reference: "go:gba103",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Sonic Advance 2",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f08a3a461da7e79858d92456ec525e33.png",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/959a557f5f6beb411fd954f3f34b21c3.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f05fb18fe7e5de0657e22a1dbd2e3b40.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Sonic%20Advance%202%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.gba",
+      favorite: false,
+    },
+    {
+      id: 104,
+      reference: "go:gba104",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Sonic Advance 3",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/38a53a52f4de3322241231253815e10a.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/7269e7952aa48c4379151a29d01e25dd.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/fd6c128733fc1d31f48a431ee6dfe1bc.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Sonic%20Advance%203%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.gba",
+      favorite: false,
+    },
+    {
+      id: 105,
+      reference: "go:gba105",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "The SpongeBob SquarePants Movie",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/5904581bbdd549b6076ffe870481b1b0.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/34760ceac693e42fec03f15aa139b9e6.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/d22f334e09ef49c292cccb0614f2240f.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/SpongeBob%20SquarePants%20Movie%2C%20The%20%28USA%29%20%28Beta%202%29.gba",
+      favorite: false,
+    },
+    {
+      id: 106,
+      reference: "go:gba106",
+      console: "Game Boy Advance",
+      genre: "beat em up",
+      title: "Star Wars: Episode III - Revenge of the Sith",
+      year: "2005",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/d923cc098f686ed556d96d787e34faaf.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/f3d9de86462c28781cbe5c47ef22c3e5.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/a732804c8566fc8f498947ea59a841f8.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Star%20Wars%20-%20Episode%20III%20-%20Revenge%20of%20the%20Sith%20%28USA%29%20%28En%2CFr%2CEs%29.gba",
+      favorite: false,
+    },
+    {
+      id: 107,
+      reference: "go:gba107",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Star Wars Trilogy: Apprentice of the Force",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/8611a4c6101b756242a6ce9e2e846fb6.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/f732049757d722d433d4033f05714c1d.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/7492e3f46428d17c5be5a83f588ef72a.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Star%20Wars%20Trilogy%20-%20Apprentice%20of%20the%20Force%20%28USA%29%20%28En%2CFr%2CEs%29.gba",
+      favorite: false,
+    },
+    {
+      id: 108,
+      reference: "go:gba108",
+      console: "Game Boy Advance",
+      genre: "peleas",
+      title: "Street Fighter Alpha 3",
+      year: "1998",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/b05aa5ae598aff32ec94a1156bd7132b.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/331cc28f8747a032890d0429b5a5f0e5.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/e0854e3c03ec877be65d351b90680d46.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Street%20Fighter%20Alpha%203%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 109,
+      reference: "go:gba109",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Super Mario Advance 2",
+      year: "2001",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/88caa142c1ac0b8a101b05ddbca39336.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4996dcc43b5be197b5887a4e60817b1c.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ac71e0079799a57cc6616312cbbbaf84.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Super%20Mario%20Advance%202%20-%20Super%20Mario%20World%20%28USA%2C%20Australia%29.gba",
+      favorite: false,
+    },
+    {
+      id: 110,
+      reference: "go:gba110",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Super Mario Advance 3",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/36841e5f7ed7089b83448c537810da13.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/706bf9581a8f1747195e5c190835a9bc.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/70df6d144f02d41e9388530058772c1f.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Super%20Mario%20Advance%203%20-%20Yoshi%27s%20Island%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 111,
+      reference: "go:gba111",
+      console: "Game Boy Advance",
+      genre: "peleas",
+      title: "Super Street Fighter II Turbo Revival",
+      year: "2001",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/737291ac3a9755af620fb94cd91243fe.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/5d36b2dba58acec55fa2a9b197fb3e1d.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6198ed1975c468435895c54b1c19be2d.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Super%20Street%20Fighter%20II%20Turbo%20-%20Revival%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 112,
+      reference: "go:gba112",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Sword of Mana",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/bd315d3230d476a1aeb8f9087a78310f.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/8ac0b7c1385516a341a29ca733144026.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/92420e6fbfb1ab3ecd4bc48b3bfe904b.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Sword%20of%20Mana%20%28USA%2C%20Australia%29.gba",
+      favorite: false,
+    },
+    {
+      id: 113,
+      reference: "go:gba113",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Tactics Ogre: The Knight of Lodis",
+      year: "2001",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/32e38175cc1892e2cc645dd5194d2958.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/66ff0b5dbb060ef47f756d33cf170f97.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/324018b886fd30f134123fdf7304df5d.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Tactics%20Ogre%20-%20The%20Knight%20of%20Lodis%20%28USA%29.gba",
+      favorite: false,
+    },
   ],
 
   nintendods: [
