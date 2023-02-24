@@ -1198,6 +1198,66 @@ let games = {
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mega%20Man%20Zero%20%28USA%2C%20Europe%29.gba",
       favorite: false,
     },
+    {
+      id: 81,
+      reference: "go:gba81",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "Mega Man Zero 2",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/5c75bc339f546fcada58819fe14baa77.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/653c579e3f9ba5c03f2f2f8cf4512b39.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/fe2e8c9e03498e3bd2c4c2205afdfc44.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mega%20Man%20Zero%202%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 82,
+      reference: "go:gba82",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "Metroid: Zero Mission",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/3b03a73fb6c30e47003e5de9ccdb843a.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9c805dcddc7db4e825949f20601fc73b.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/c58a78e3957eed1e6dcf540cda1a05b3.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Metroid%20-%20Zero%20Mission%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 83,
+      reference: "go:gba83",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "Metroid: Fusion",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/1883a19a4983372e803beab695ee77f1.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/33b3214d792caf311e1f00fd22b392c5.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/c31de86411f643ec08e04b38ae397efc.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Metroid%20Fusion%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 84,
+      reference: "go:gba84",
+      console: "Game Boy Advance",
+      genre: "peleas",
+      title: "Mortal Kombat: Deadly Alliance",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/d40b50156193c80de7820961d0956eb3.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/564127c03caab942e503ee6f810f54fd.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9c8f9728c5c3be5ef64f32ed3d49f02e.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mortal%20Kombat%20-%20Deadly%20Alliance%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
+      favorite: false,
+    },
   ],
 
   nintendods: [
