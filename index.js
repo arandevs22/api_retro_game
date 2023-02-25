@@ -17,10 +17,6 @@ app.get("/api/games", (req, res) => {
   res.send(games);
 });
 
-app.get("/api/games/game-boy-advance", (req, res) => {
-  res.send(JSON.stringify(games.gameboyadvance));
-});
-
 app.get("/api/games/game-boy-advance/:genre", (req, res) => {
   const genre = req.params.genre;
   const resultados = games.gameboyadvance.filter(
@@ -33,8 +29,21 @@ app.get("/api/games/game-boy-advance/:genre", (req, res) => {
   res.send(JSON.stringify(resultados));
 });
 
-app.get("/api/games/nintendo-ds", (req, res) => {
-  res.send(JSON.stringify(games.nintendods));
+
+app.get("/api/games/super-nintendo", (req, res) => {
+  res.send(JSON.stringify(games.supernintendo));
+});
+
+app.get("/api/games/super-nintendo/id/:id", (req, res) => {
+  const game = games.supernintendo.find(
+    (c) => c.id === parseInt(req.params.id)
+  );
+  if (!game) return res.status(404).send("Juego no encontrado");
+  else res.send(game);
+})
+
+app.get("/api/games/game-boy-advance", (req, res) => {
+  res.send(JSON.stringify(games.gameboyadvance));
 });
 
 app.get("/api/games/game-boy-advance/id/:id", (req, res) => {
@@ -43,6 +52,10 @@ app.get("/api/games/game-boy-advance/id/:id", (req, res) => {
   );
   if (!game) return res.status(404).send("Juego no encontrado");
   else res.send(game);
+});
+
+app.get("/api/games/nintendo-ds", (req, res) => {
+  res.send(JSON.stringify(games.nintendods));
 });
 
 app.get("/api/games/nintendo-ds/id/:id", (req, res) => {

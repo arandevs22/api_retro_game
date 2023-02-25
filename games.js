@@ -1963,6 +1963,309 @@ let games = {
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Zoids%20Legacy%20%28USA%29.gba",
       favorite: false,
     },
+    {
+      id: 132,
+      reference: "go:gba132",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Pokémon Ruby",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/496ebdc49192930a71a477a6c31f110a.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/d18c255f89434eab3211813c0e765c6b.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ba5e0fe03c25fc5d2e03355af56955e9.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Pokemon%20-%20Ruby%20Version%20%28USA%2C%20Europe%29%20%28Rev%202%29.gba",
+      favorite: false,
+    },
+    {
+      id: 133,
+      reference: "go:gba133",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Pokémon Sapphire",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/8f1fbec081c675cb4641784029247c3b.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/3a2ee1496acdeeece4124055b3799c33.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/847180330e07c93237a52b9e01057785.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Pokemon%20-%20Sapphire%20Version%20%28USA%2C%20Europe%29%20%28Rev%202%29.gba",
+      favorite: false,
+    },
+    {
+      id: 134,
+      reference: "go:gba134",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Harvest Moon: Friends of Mineral Town",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/e955daf28a603289504ea47549b8746a.png",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/b71f5aaf3371c2cdfb7a7c0497f569d4.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/a5451ac57849a2ed0d3938dd4a3efa39.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Harvest%20Moon%20-%20Friends%20of%20Mineral%20Town%20%28U%29%20%5B%21%5D.gba",
+      favorite: false,
+    },
+    {
+      id: 135,
+      reference: "go:gba135",
+      console: "Game Boy Advance",
+      genre: "deportes",
+      title: "Mario Tennis: Power Tour",
+      year: "2005",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/6c1f36320a3167e6c35ecc8975624beb.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/1ce927f875864094e3906a4a0b5ece68.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/fc76dcfc15b6be30b1e6d3c296f19e58.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mario%20Tennis%20Advance%20-%20Power%20Tour%20%28U%29.gba",
+      favorite: false,
+    },
+    {
+      id: 136,
+      reference: "go:gba136",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Mega Man Battle Network 2",
+      year: "2001",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/cb6d627fe0af6e402c4e97bd94ade206.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/ee0c1616bbc82804b2f4b635d4a055fb.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/8ed16b12adc574bb06ec2cb2f5479952.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Megaman%20Battle%20Network%202%20%28U%29%20%5B%21%5D.gba",
+      favorite: false,
+    },
+    {
+      id: 137,
+      reference: "go:gba137",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Mega Man Battle Network 3: Blue",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/b5e2c77e749f83619063552ea95c3bfa.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/64d4f6639c0f1569f2b3736cdc947a69.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6afb45b1fa88e49d68d1ed2c3481a36a.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Megaman%20Battle%20Network%203%20-%20Blue%20Version%20%28U%29.gba",
+      favorite: false,
+    },
+    {
+      id: 138,
+      reference: "go:gba138",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Mega Man Battle Network 6: Cybeast Falzar",
+      year: "2005",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/6404c1c8e70bd8994caf2014003bf0ae.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/5067cd967516f7ee90d0e763afc36f27.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/8321e047fb413f251abf34adf1e49a1b.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Megaman%20Battle%20Network%206%20-%20Cybeast%20Falzar%20%28U%29.gba",
+      favorite: false,
+    },
+    {
+      id: 139,
+      reference: "go:gba139",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "Mega Man Zero 3",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/43eb3391333cc20efbd7f812851447e6.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/1ba0846587744383fa518b7e642ff632.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/63cf8ae5aa08cb59818f341fefa94618.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Megaman%20Zero%203%20%28U%29.gba",
+      favorite: false,
+    },
+    {
+      id: 140,
+      reference: "go:gba140",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "Mega Man Zero 4",
+      year: "2005",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/1a534df4ec7023f89613a24be21a149f.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/d5a1469d699bdf9fdc74cc29643034bf.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/77ecf511cfd57b357a384e225121dc85.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Megaman%20Zero%204%20%28U%29.gba",
+      favorite: false,
+    },
+    {
+      id: 141,
+      reference: "go:gba141",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Pokémon LeafGreen",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/8cc10a343f7cacddbbc5488786f3f22b.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/8ad6635f33710af6a535e8fb8486975e.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9ca63c9e73a047353e17845c6f4cfe5b.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Pokemon%20-%20Leaf%20Green%20Version%20%28U%29%20%28V1.1%29.gba",
+      favorite: false,
+    },
+    {
+      id: 142,
+      reference: "go:gba142",
+      console: "Game Boy Advance",
+      genre: "deportes",
+      title: "Pokémon Pinball: Ruby & Sapphire",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f96678284159ab3ba5de5170864ea9cc.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/f4492508850c58446d4784339470a8f6.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/07193c44ba3be8df1f67e96110c2006e.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Pokemon%20Pinball%20-%20Ruby%20%26%20Sapphire%20%28U%29%20%28V1.0%29%20%5BhI%5D.gba",
+      favorite: false,
+    },
+    {
+      id: 143,
+      reference: "go:gba143",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "SpongeBob SquarePants: Battle for Bikini Bottom",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/734e6a616360c12cbb4777d02010a68d.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/fe2da9ceaf2c691abb706a49c22ba094.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/cdcb2f5c7b071143529ef7f2705dfbc4.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/SpongeBob%20SquarePants%20-%20Battle%20for%20Bikini%20Bottom%20%28U%29%20%5BhI%5D.gba",
+      favorite: false,
+    },
+    {
+      id: 144,
+      reference: "go:gba144",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Super Ghouls 'n Ghosts",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/06dad38c1e8fbf3541863aa38718b4d6.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/1f8107db1348b9e5ddcf83489018a5d2.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/49ad23d1ec9fa4bd8d77d02681df5cfa.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Super%20Ghouls%20%27N%20Ghosts%20%28U%29.gba",
+      favorite: false,
+    },
+    {
+      id: 145,
+      reference: "go:gba145",
+      console: "Game Boy Advance",
+      genre: "beat em up",
+      title: "The Grim Adventures of Billy & Mandy",
+      year: "2006",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/0d30c935315fc29c87bd8d3ada2f1bd3.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/a74c0747f5bc0e2eb5e156ce432a3879.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6c9882bbac1c7093bd25041881277658.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Grim%20Adventures%20of%20Billy%20%26%20Mandy%2C%20The%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 146,
+      reference: "go:gba146",
+      console: "Game Boy Advance",
+      genre: "aventura",
+      title: "Harry Potter and the Goblet of Fire",
+      year: "2005",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/9764313a56bacfec78c4e427b7dd1701.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/62a7e2da310bdb98fb0b60102a6876e2.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/22cd4d66fc24fc0163ac00d27c1433c5.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.gba",
+      favorite: false,
+    },
+    {
+      id: 147,
+      reference: "go:gba147",
+      console: "Game Boy Advance",
+      genre: "aventura",
+      title: "Harry Potter and the Order of the Phoenix",
+      year: "2007",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/819c46cd9742d2ed5cd2a9a5e4060375.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4e6bdf8e5aed24d7a26d7318e0c87417.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/b670dfc593340027581047db105f3347.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.gba",
+      favorite: false,
+    },
+    {
+      id: 148,
+      reference: "go:gba148",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "Tomb Raider: Legend",
+      year: "2006",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a16f1bb307068c3c9e396d49fb9a8e05.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/8c7bbbba95c1025975e548cee86dfadc.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/49ade09afce7a9f8389e13a0a62db65f.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Lara%20Croft%20Tomb%20Raider%20-%20Legend%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
+      favorite: false,
+    },
+    {
+      id: 149,
+      reference: "go:gba149",
+      console: "Game Boy Advance",
+      genre: "beat em up",
+      title: "Spider-man 3",
+      year: "2007",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/9e0a3bbf6b8fabc2edd941c1f9aa2ea0.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/668c7d9d4728fc9eebbe7a8202c95c26.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9ac99aa820030753f4101f35de5ce163.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Spider-Man%203%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 150,
+      reference: "go:gba150",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Super Robot Taisen Original Generation",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/e07bd28857d62b43d0e4b2598a366cce.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9e2c1a75152b64671ddb83ae0a4ee310.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f164ba76f5fba1522bfbb098c4597aa6.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Super%20Robot%20Taisen%20-%20Original%20Generation%202%20%28USA%29.gba",
+      favorite: false,
+    },
+  ],
+
+  supernintendo : [
+    {
+      id: 150,
+      reference: "go:gba150",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Super Robot Taisen Original Generation",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/e07bd28857d62b43d0e4b2598a366cce.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9e2c1a75152b64671ddb83ae0a4ee310.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f164ba76f5fba1522bfbb098c4597aa6.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Super%20Robot%20Taisen%20-%20Original%20Generation%202%20%28USA%29.gba",
+      favorite: false,
+    },
   ],
 
   nintendods: [
