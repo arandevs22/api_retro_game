@@ -2401,6 +2401,156 @@ let games = {
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/super-nintendo/Animaniacs%20%28USA%29.sfc",
       favorite: false,
     },
+    {
+      id: 11,
+      reference: "go:snes11",
+      console: "Super Nintendo",
+      genre: "plataforma",
+      title: "Batman Returns",
+      year: "1992",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/7be44dbf7c1a3d9d3114a5897cfdc8f4.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/d3e0182476466a3c2fcc74778b89ea6b.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/386c6b22e02eeb08bbab3df14165501a.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/super-nintendo/Batman%20Returns%20%28USA%29.sfc",
+      favorite: false,
+    },
+    {
+      id: 12,
+      reference: "go:snes12",
+      console: "Super Nintendo",
+      genre: "beat em up",
+      title: "Battletoads In Battlemaniacs",
+      year: "1993",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/2207e8cc5dccb117cb5d5333761d5055.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9366fb6cdeff0a5d6c1093d1ffcfe458.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/a2a394d317ae9d89985646fa98565f36.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/super-nintendo/Battletoads%20in%20Battlemaniacs%20%28USA%29.sfc",
+      favorite: false,
+    },
+    {
+      id: 13,
+      reference: "go:snes13",
+      console: "Super Nintendo",
+      genre: "beat em up",
+      title: "Battletoads & Double Dragon",
+      year: "1993",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f4e633b10673114696d47aec0fb50c2f.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4fc4c179fdfac274861a90eb3c70aeef.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/669ea75f1504b326e37d132fec021ee8.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/super-nintendo/Battletoads-Double%20Dragon%20%28USA%29.sfc",
+      favorite: false,
+    },
+    {
+      id: 14,
+      reference: "go:snes14",
+      console: "Super Nintendo",
+      genre: "carreras",
+      title: "Biker Mice From Mars",
+      year: "1994",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/be4d9080cd7e71b2838a5b89dce5d83a.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/7ae26cbe9586dea7d1f0fa372aa86811.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/29215b10f38547ecaf0e25d3a2cc1c94.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/super-nintendo/Biker%20Mice%20from%20Mars%20%28USA%29.sfc",
+      favorite: false,
+    },
+    {
+      id: 15,
+      reference: "go:snes15",
+      console: "Super Nintendo",
+      genre: "plataforma",
+      title: "Blackthorne",
+      year: "1994",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/c5ee1592015c9551be876d74c0c15573.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/2f5ee755b7427661b5cdf239ccb371d9.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/15b6f28363206ef318d53ecd59b53dfb.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/super-nintendo/Blackthorne%20%28USA%29.sfc",
+      favorite: false,
+    },
+    {
+      id: 16,
+      reference: "go:snes16",
+      console: "Super Nintendo",
+      genre: "rpg",
+      title: "Breath of Fire",
+      year: "1993",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/310a7bddf9c90499ac797e88c6ae4453.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/1fa734caf1090f7af9249745564ec09b.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero_thumb/b9502764d2a757587e41fcd18c84c78c.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/super-nintendo/Breath%20of%20Fire%20%28USA%29.sfc",
+      favorite: false,
+    },
+    {
+      id: 17,
+      reference: "go:snes17",
+      console: "Super Nintendo",
+      genre: "rpg",
+      title: "Breath of Fire II",
+      year: "1994",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f817154f97e447b8b003591c9bd5537a.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/54e0e46b6647aa736c13ef9d09eab432.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/2cc554edcbef26dedaf4004cfaf4f3d0.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/super-nintendo/Breath%20of%20Fire%20II%20%28USA%29.sfc",
+      favorite: false,
+    },
+    {
+      id: 18,
+      reference: "go:snes18",
+      console: "Super Nintendo",
+      genre: "beat em up",
+      title: "Captain Commando",
+      year: "1991",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/8fc5d420033129923a3d926c38be6bce.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/02c7b9e35b5abe16eff4721993beb0fd.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/84415e4311bde29674303caf3fbad82f.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/super-nintendo/Captain%20Commando%20%28USA%29.sfc",
+      favorite: false,
+    },
+    {
+      id: 19,
+      reference: "go:snes19",
+      console: "Super Nintendo",
+      genre: "plataforma",
+      title: "Castlevania: Dracula X",
+      year: "1995",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/7919939e64bfe012b032a22b851612a0.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/498bce62bd2bda584246701fa0166482.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/486ab59b600e55d3ba1cd240be7483e2.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/super-nintendo/Castlevania%20-%20Dracula%20X%20%28USA%29.sfc",
+      favorite: false,
+    },
+    {
+      id: 20,
+      reference: "go:snes20",
+      console: "Super Nintendo",
+      genre: "rpg",
+      title: "Chrono Trigger",
+      year: "1995",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/b05a96ec38be7e68e21dc58631759f26.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/b7517a0edb64409325721909b041132a.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/8371d58a2140475594cb7a1c22f0baaa.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/super-nintendo/Chrono%20Trigger%20%28USA%29.sfc",
+      favorite: false,
+    },
   ],
 
   nintendods: [
