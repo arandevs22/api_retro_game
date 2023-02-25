@@ -2252,18 +2252,153 @@ let games = {
 
   supernintendo : [
     {
-      id: 150,
-      reference: "go:gba150",
-      console: "Game Boy Advance",
-      genre: "rpg",
-      title: "Super Robot Taisen Original Generation",
-      year: "2002",
+      id: 1,
+      reference: "go:snes01",
+      console: "Super Nintendo",
+      genre: "beat em up",
+      title: "The Amazing Spider-Man: Lethal Foes",
+      year: "1995",
       poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/e07bd28857d62b43d0e4b2598a366cce.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9e2c1a75152b64671ddb83ae0a4ee310.png",
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/0d8f919297a24c7c5223d403735715d7.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/8f646c523a1e5ab4e74f2623573377ae.png",
       background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f164ba76f5fba1522bfbb098c4597aa6.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Super%20Robot%20Taisen%20-%20Original%20Generation%202%20%28USA%29.gba",
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/7e57e1310f10c1a7fea50eb20669b057.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/super-nintendo/Spider-Man%20-%20Lethal%20Foes%20%28J%29.fig",
+      favorite: false,
+    },
+    {
+      id: 2,
+      reference: "go:snes02",
+      console: "Super Nintendo",
+      genre: "plataforma",
+      title: "Super Mario World",
+      year: "1990",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/65bc947e5802af99f2c98229b618cfed.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/a14ac55a4f27472c5d894ec1c3c743d2.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/1e0b98ffbf6e647bbcfb5f1032f21ce5.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/super-nintendo/Super%20Mario%20World%20%28U%29%20%5B%21%5D.smc",
+      favorite: false,
+    },
+    {
+      id: 3,
+      reference: "go:snes03",
+      console: "Super Nintendo",
+      genre: "plataforma",
+      title: "ActRaiser",
+      year: "1990",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/caa7102d9750f0f6f12db162ceb3c128.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/800de15c79c8d840f4e78d3af937d4d4.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/b3746c4a274181d2bcc315ab1f7aa87d.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/super-nintendo/ActRaiser%20%28USA%29.sfc",
+      favorite: false,
+    },
+    {
+      id: 4,
+      reference: "go:snes04",
+      console: "Super Nintendo",
+      genre: "plataforma",
+      title: "ActRaiser 2",
+      year: "1993",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/1f93a5d50953fac07d7e6f54827ce9bc.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/e32cc80bf07915058ce90722ee17bb71.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/8c069f2113cb3eb2f70c608df975e3a6.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/super-nintendo/ActRaiser%202%20%28USA%29.sfc",
+      favorite: false,
+    },
+    {
+      id: 5,
+      reference: "go:snes05",
+      console: "Super Nintendo",
+      genre: "plataforma",
+      title: "The Addams Family",
+      year: "1992",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a77d1d90434235848ed35e091d18fce7.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/5647ed707e5b7b343c59502684365085.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/2f3926f0a9613f3c3cc21d52a3cdb4d9.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/super-nintendo/Addams%20Family%2C%20The%20%28USA%29.sfc",
+      favorite: false,
+    },
+    {
+      id: 6,
+      reference: "go:snes06",
+      console: "Super Nintendo",
+      genre: "plataforma",
+      title: "The Adventures of Batman & Robin",
+      year: "1994",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/97fd6f9d6e9d9e3b0e44b37d020d03d4.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/a6292668b36ef412fa3c4102d1311a62.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/0a7428310ebcbb3b8d6760fe98b7158e.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/super-nintendo/Adventures%20of%20Batman%20%26%20Robin%2C%20The%20%28USA%29.sfc",
+      favorite: false,
+    },
+    {
+      id: 7,
+      reference: "go:snes07",
+      console: "Super Nintendo",
+      genre: "shooter",
+      title: "Aero Fighters",
+      year: "1992",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/e53e03edd43938ff4a9ab125ec2abf6e.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/e9c8064bc8dac39bed69dd1d0158c1cd.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/54f3bc04830d762a3b56a789b6ff62df.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/super-nintendo/Aero%20Fighters%20%28USA%29.sfc",
+      favorite: false,
+    },
+    {
+      id: 8,
+      reference: "go:snes08",
+      console: "Super Nintendo",
+      genre: "plataforma",
+      title: "Aladdin",
+      year: "1993",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/2a4bd625b72b883bb9e60deab080631e.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/beb04c41b45927cf7e9f8fd4bb519e86.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/a4f08f8b59aa3a316ddfa0e47884e118.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/super-nintendo/Aladdin%20%28USA%29.sfc",
+      favorite: false,
+    },
+    {
+      id: 9,
+      reference: "go:snes09",
+      console: "Super Nintendo",
+      genre: "plataforma",
+      title: "Alien vs Predator",
+      year: "1993",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/601d951f4f2552d36955ef1cd551253a.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/eb62088a5edb2addcfd97994f801f253.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/7fd23d812013ce3b530b821d855bccbf.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/super-nintendo/Alien%20vs%20Predator%20%28USA%29.sfc",
+      favorite: false,
+    },
+    {
+      id: 10,
+      reference: "go:snes10",
+      console: "Super Nintendo",
+      genre: "plataforma",
+      title: "Animaniacs",
+      year: "1994",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/3860fd984bfb595af0b498af6ba01e1f.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/e351d553ab36bba1e39fc72bf75d9fda.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/13f161576e1f4325f8b5cf520ebb4b1e.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/super-nintendo/Animaniacs%20%28USA%29.sfc",
       favorite: false,
     },
   ],
