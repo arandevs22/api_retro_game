@@ -153,6 +153,144 @@ let games = {
     },
   ],
 
+  recomendados: [
+    {
+      id: 1,
+      reference: "go:gba01",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "Metal slug Advance",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f98c214ef8193827e331f500d9809c47.png",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/66410adefc38da1e9486483597c15518.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/20877befbd58c865e224346e6b92d772.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Metal%20Slug%20Advance%20%28U%29%20%281%29.gba",
+      favorite: false,
+    },
+    {
+      id: 2,
+      reference: "go:gba02",
+      console: "Game Boy Advance",
+      genre: "peleas",
+      title: "Dragon Ball: Advanced Adventure",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/635132798c93dd6003e732836dcea913.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/dcb8dc74a2a76e9e90526ddbfd759ba7.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/68c16354b766f0b3cb1c00299e08d485.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Dragon%20Ball%20-%20Advanced%20Adventure%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 65,
+      reference: "go:gba65",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "The Legend of Zelda: The Minish Cap",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/e98002ab38ca88f2ca5e461cc99c5d2b.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/e1dc4bf1f94e87fdfeb2d91ae3dc10ef.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/786ab8c4d7ee758f80d57e65582e609d.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Legend%20of%20Zelda%2C%20The%20-%20The%20Minish%20Cap%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 108,
+      reference: "go:gba108",
+      console: "Game Boy Advance",
+      genre: "peleas",
+      title: "Street Fighter Alpha 3",
+      year: "1998",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/e2d9f3fdfe355db5d8c82554c4b2c76e.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/331cc28f8747a032890d0429b5a5f0e5.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/e0854e3c03ec877be65d351b90680d46.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Street%20Fighter%20Alpha%203%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 148,
+      reference: "go:gba148",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "Tomb Raider: Legend",
+      year: "2006",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/cc2de058dab2b9af80711f87d8af9213.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/8c7bbbba95c1025975e548cee86dfadc.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/49ade09afce7a9f8389e13a0a62db65f.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Lara%20Croft%20Tomb%20Raider%20-%20Legend%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
+      favorite: false,
+    },
+    {
+      id: 140,
+      reference: "go:gba140",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "Mega Man Zero 4",
+      year: "2005",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/490584247749e990aa5ae2543215f944.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/d5a1469d699bdf9fdc74cc29643034bf.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/77ecf511cfd57b357a384e225121dc85.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Megaman%20Zero%204%20%28U%29.gba",
+      favorite: false,
+    },
+    {
+      id: 72,
+      reference: "go:gba72",
+      console: "Game Boy Advance",
+      genre: "carreras",
+      title: "Mario Kart: Super Circuit",
+      year: "2001",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/cfd6c82a2b509c9fde692e0bb068f0c3.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/2404d480bb9068047a2fb584b0c5a44c.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/1144d074f709db094712d5d921d5e52b.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mario%20Kart%20-%20Super%20Circuit%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 13,
+      reference: "go:gba13",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Final Fantasy VI Advance",
+      year: "2006",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/ca210a6211cc03cb018d8987e731dad1.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/0993b7960f34c29b1fdb6516be27046f.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9229b4855f204052a1ee62f0a06f1cc9.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Final%20Fantasy%206%20Advance%20%23%20GBA.GBA",
+      favorite: false,
+    },
+    {
+      id: 34,
+      reference: "go:gba34",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Breath of Fire",
+      year: "1993",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/7b992ddf72c167f4788c9c3c8064ddd5.png",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/1fa734caf1090f7af9249745564ec09b.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/1d7f7d5faea7d8528d45aeaf191868c1.jpg",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Breath%20of%20Fire%20%28USA%29.gba",
+      favorite: false,
+    },
+  ],
+
   gameboyadvance: [
     {
       id: 1,

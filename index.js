@@ -33,6 +33,10 @@ app.get('/api/games/top10', (req, res) => {
   res.send(JSON.stringify(games.top10))
 })
 
+app.get('/api/games/recomendados', (req, res) => {
+  res.send(JSON.stringify(games.recomendados))
+})
+
 app.get("/api/games/super-nintendo", (req, res) => {
   res.send(JSON.stringify(games.supernintendo));
 });
