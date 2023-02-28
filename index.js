@@ -29,6 +29,9 @@ app.get("/api/games/game-boy-advance/:genre", (req, res) => {
   res.send(JSON.stringify(resultados));
 });
 
+app.get('/api/games/top10', (req, res) => {
+  res.send(JSON.stringify(games.top10))
+})
 
 app.get("/api/games/super-nintendo", (req, res) => {
   res.send(JSON.stringify(games.supernintendo));

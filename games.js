@@ -1,4 +1,158 @@
 let games = {
+
+  top10: [
+    {
+      id: 51,
+      reference: "go:gba51",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Fire Emblem: The Sacred Stones",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/d830b39fa47bf25be3c789cc23b42f77.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/838f14a84363d9a7ac1b06ad63fc6fb5.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/713f96370f69fb23e3387062bc914719.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Fire%20Emblem%20-%20The%20Sacred%20Stones%20%28USA%2C%20Australia%29.gba",
+      favorite: false,
+    },
+    {
+      id: 3,
+      reference: "go:gba03",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Castlevania: Aria Of Sorrow",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/7565888ea5829b4182f49b156a3aa238.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/370caceecffaa11d5c0fe2dfefa413c1.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/39ecc5282d4511dca4c757113e1312d1.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Castlevania%20-%20Aria%20of%20Sorrow%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 7,
+      reference: "go:gba07",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Fire Emblem: The Binding Blade",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/1a299084801ac0389a0f61d75d0685cd.png",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/65be44ae7088566069cc3bef454174a7.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/5ebf22c8db54637bd581854a01601159.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Fire%20Emblem%20-%20The%20Binding%20Blade%20%28T%29.gba",
+      favorite: false,
+    },
+    {
+      id: 53,
+      reference: "go:gba53",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Golden Sun: The Lost Age",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/28e50b8f4185b367f6b31f9b2151d634.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/585eb4127afd003bd784f6e8dc132be2.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f7eaf1a7777e1ac6d3cddd1df25917df.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Golden%20Sun%20-%20The%20Lost%20Age%20%28USA%2C%20Europe%29.gba",
+      favorite: false,
+    },
+    {
+      id: 5,
+      reference: "go:gba05",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Mario & Luigi: Superstar Saga",
+      year: "2003",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/1df5456e9760c85c7b649fd7961a9f66.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/72c25197b6a491816d9a84b42d7205f0.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/c2090502cd75f701449abad130cce798.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mario%20%26%20Luigi%20-%20Superstar%20Saga%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 82,
+      reference: "go:gba82",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "Metroid: Zero Mission",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/da0198ea02cb283a14672a3837d65d92.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9c805dcddc7db4e825949f20601fc73b.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/c58a78e3957eed1e6dcf540cda1a05b3.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Metroid%20-%20Zero%20Mission%20%28USA%29.gba",
+      favorite: false,
+    },
+    {
+      id: 89,
+      reference: "go:gba89",
+      console: "Game Boy Advance",
+      genre: "rpg",
+      title: "Pokémon Emerald",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/2f4986551f0531b1eb4c6a2c51bc45a3.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/69ec5030f78a9b735402d133317bf5f6.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/66bd939ad7010829ab65a6aaf28c9a96.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Pokemon%20-%20Emerald%20Version%20%28USA%2C%20Europe%29.gba",
+      favorite: false,
+    },
+    {
+      id: 46,
+      reference: "go:gba46",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "DOOM",
+      year: "1993",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/73457d114d8ef9a77dd074185d561e60.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/154aa6866aefb6f8d0b722621fa71e83.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/64c26b2a2dcf068c49894bd07e0e6389.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Doom%20%28USA%2C%20Europe%29.gba",
+      favorite: false,
+    },
+    {
+      id: 80,
+      reference: "go:gba80",
+      console: "Game Boy Advance",
+      genre: "shooter",
+      title: "Mega Man Zero",
+      year: "2002",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/28dc7cc1a8caad07671b5e38ced8a7d5.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/b4892f808f9efbd561cecbfbec3ad20d.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/8e0251b8f27dd86e04c9049a1eeda4a3.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mega%20Man%20Zero%20%28USA%2C%20Europe%29.gba",
+      favorite: false,
+    },
+    {
+      id: 21,
+      reference: "go:gba21",
+      console: "Game Boy Advance",
+      genre: "plataforma",
+      title: "Kirby & the Amazing Mirror",
+      year: "2004",
+      poster:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/978e1dbe92d1bde18868c5a59282844a.jpg",
+      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/ca3a856a28df7d77d948949206ff9fdf.png",
+      background:
+        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ee6929cfd8dd567e41e4efe843b42dcd.png",
+      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/1560%20-%20Kirby%20And%20The%20Amazing%20Mirror%20%28E%29%28Rising%20Sun%29.gba",
+      favorite: false,
+    },
+  ],
+
   gameboyadvance: [
     {
       id: 1,
@@ -2250,7 +2404,7 @@ let games = {
     },
   ],
 
-  supernintendo : [
+  supernintendo: [
     {
       id: 1,
       reference: "go:snes01",
