@@ -319,7 +319,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/68c16354b766f0b3cb1c00299e08d485.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Dragon%20Ball%20-%20Advanced%20Adventure%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Join Goku in his very first epic adventure as he defends the earth from the relentless Red Ribbon Army. Start down his path to power, and help turn an ordinary boy into the ultimate champion."
     },
     {
       id: 3,
@@ -334,7 +334,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/39ecc5282d4511dca4c757113e1312d1.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Castlevania%20-%20Aria%20of%20Sorrow%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "The year is 2035 and Soma Cruz is about to witness the first solar eclipse of the 21st century when he suddenly blacks out -- only to awaken inside a mysterious castle. As Soma, you must navigate the castle's labyrinths while confronting perilous monsters at every turn. But beware, you must escape before the evil consumes you!"
     },
     {
       id: 4,
@@ -349,7 +349,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9be681ea06f52111e4c1ef99d3763770.png",
       rom: "https://arandevs2022.s3.us-west-004.backblazeb2.com/cloud-retro-gaming/roms/gameboy-advance/Dragon+Ball+Z+-+Supersonic+Warriors+(USA).gba",
-      favorite: false,
+      sinopsis: "Pick your DBZ Dream Team and shake the Dragon Ball Z universe with free-flight combat! Bombard opponents with punishing attacks on the ground and in the air. It's thunderous DBZ fighting unlike anything you've ever seen before!"
     },
     {
       id: 5,
@@ -364,7 +364,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/c2090502cd75f701449abad130cce798.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mario%20%26%20Luigi%20-%20Superstar%20Saga%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "An evil witch has replaced Princess Peach's fair speech with explosives! Mario and Luigi must once again come to her rescue, but this time they employ the help of Bowser, their sworn enemy. Mario and Luigi must learn new moves and combine powers to fight off enemies and move closer to the witch's castle. Guide this unlikely bunch through an abundance of minigames such as Border Jump and Mystery Carts. Combine the powers of Mario and Luigi to pull off special tag-team moves. Immerse yourself in this bright, cartoonish, and humorous world, complete with hit music featured in previous Mario games."
     },
     {
       id: 6,
@@ -379,7 +379,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/eae31887c8969d1bde123982d3d43cd2.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Super%20Mario%20Advance%20%28USA%2C%20Europe%29.gba",
-      favorite: false,
+      sinopsis: "An updated re-release of Super Mario Bros. 2 (the American reskin of Yume Kōjō Doki Doki Panic later re-released in Japan as Super Mario USA as a Game Boy Advance launch title. Based heavily on the Super Mario All-Stars version of the game, it also features an updated version of the original Mario Bros. arcade game, which can be played with up to three other players via link cable."
     },
     {
       id: 7,
@@ -394,7 +394,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/5ebf22c8db54637bd581854a01601159.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Fire%20Emblem%20-%20The%20Binding%20Blade%20%28T%29.gba",
-      favorite: false,
+      sinopsis: "Fire Emblem: The Binding Blade is a Japanese tactical role-playing game developed by Intelligent Systems and published by Nintendo. The game was released on March 29, 2002 in Japan, is the sixth game in the Fire Emblem series, and the first of three games in the series that have appeared on Nintendo's Game Boy Advance handheld. It was the last Fire Emblem game to be released exclusively in Japan until the release of Fire Emblem: New Mystery of the Emblem. The Binding Blade was followed by a prequel, Fire Emblem: The Blazing Blade, set twenty years earlier."
     },
     {
       id: 8,
@@ -409,7 +409,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f7e7ab490f2e8981228ca95a758349ea.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Contra%20Advance%20-%20The%20Alien%20Wars%20EX%20%28USA%29.gba",
-      favorite: false,
+
     },
     {
       id: 9,
@@ -424,7 +424,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9c9744d143d2abbe041317b7b76f8e85.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Legend%20of%20Spyro%2C%20The%20-%20The%20Eternal%20Night%20%28USA%29%20%28En%2CFr%29.gba",
-      favorite: false,
+      sinopsis: "In Contra Advance The Alien Wars EX™, take down massive hordes of aliens, robots, and monsters to stop the evil Red Falcon from taking over the world! Featuring all new levels and graphics from the original Super Nintendo® hit, Contra's fast paced shooting action will keep you on the edge of your seat"
     },
     {
       id: 10,
@@ -439,7 +439,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/a754fc1765a45a6bc1a034140afd0669.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Crash%20of%20the%20Titans%20%28USA%29%20%28En%2CFr%29.gba",
-      favorite: false,
+      sinopsis: "Crash of the Titans is the sixth Crash Bandicoot series game. The gameplay has the player explore levels, picking up power-ups to use against enemies as well as for the first time, use fighting combos such as punches and kicks against enemies. When Crash defeats an enemy or destroys an object, a magical substance known as Mojo is released. If the player collects enough Mojo, he will earn either an ability upgrade or a new move."
     },
     {
       id: 11,
@@ -454,7 +454,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/201d7288b4c18a679e48b31c72c30ded.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Summon%20Night%20-%20Swordcraft%20Story%202%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Summon Night: Swordcraft Story is an RPG set in the strange world of Lyndbaum, a sacred land linked to four magical dimensions from which Summoners can call forth spirits called Guardian Beasts to do their bidding."
     },
     {
       id: 12,
@@ -469,7 +469,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/629091c3a8b9231787db45f601722ff6.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/FIFA%202007%20%23%20GBA.GBA",
-      favorite: false,
+      sinopsis: "FIFA 07 (also known as FIFA Football 07 and FIFA 07 Soccer) is the 2006 edition of EA Sports' series of football simulator video games. Developed by EA Canada, it is published by Electronic Arts."
     },
     {
       id: 13,
@@ -484,7 +484,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9229b4855f204052a1ee62f0a06f1cc9.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Final%20Fantasy%206%20Advance%20%23%20GBA.GBA",
-      favorite: false,
+      sinopsis: "Final Fantasy VI Advance is more than a simple port of the SNES classic: every aspect of the games has been reviewed and enhanced. Additionally, a host of brand-new elements has been seamlessly merged with the original game, providing unexpected surprises for longtime fans. With new dungeons, new job classes, and other exciting features, both old-school players and newcomers can enjoy this genre-defining FINAL FANTASY title in a portable format."
     },
     {
       id: 14,
@@ -499,7 +499,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/2ee21a186b613d4ae3f1d77dd07c8fef.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Final%20Fantasy%204%20Advance%20%23%20GBA.GBA",
-      favorite: false,
+      sinopsis: "Final Fantasy IV Advance is largely based on the WonderSwan Color version. Some changes include the addition of character portraits in text boxes, the ability to switch party members, increased difficulty, and new dungeons with new items and weapons along with new bosses. The script received a re-translation more faithful to the original material. The Quicksave, which allows the player to save the current position (regardless of where) in a file that is deleted upon loading, is featured."
     },
     {
       id: 15,
@@ -514,7 +514,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/c7c46d4baf816bfb07c7f3bf96d88544.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Dragonball%20Z%20-%20Buu%27s%20Fury%20%23%20GBA.GBA",
-      favorite: false,
+      sinopsis: "Dragon Ball Z: Buu's Fury is the third and final game in the series. It was released on September 14, 2004 in North America. The game focuses on the final parts of the Dragon Ball Z series (season 7), namely the battles with Majin Buu. The game added several new additions to the series. First, the game added equipment, which could be equipped to characters to alter their stats and provide various other benefits. The game also allowed players to allocate their own stat points, of which three were given per level. Also added was the ability to block by holding the R button, and also to energy block by holding the B button while blocking. Using the energy block slowly drains the user's energy gauge. Both techniques greatly decrease the amount of damage that is received from attacks. The game also added various other features such as fusions and the ability to transform into a Super Saiyan 3. Although many features were added, the ability to use charge attacks by holding and releasing the A button was eliminated."
     },
     {
       id: 16,
@@ -529,7 +529,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f4673e1d559b339a5ad95e54e42f0ae2.jpg",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Tom%20Clancy%27s%20Splinter%20Cell%20%28USA%29%20%28En%2CFr%2CEs%29.gba",
-      favorite: false,
+      sinopsis: "2D versions of the game were released for the Game Boy Advance and N-Gage (the latter as Tom Clancy's Splinter Cell: Team Stealth Action), as well as the mobile phones version developed by Gameloft. A remastered high definition version of Tom Clancy's Splinter Cell was released on the PlayStation 3 in September 2011. The success of the game series spawned a series of novels written under the pseudonym David Michaels."
     },
     {
       id: 17,
@@ -544,7 +544,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/3fa14ed7b5855de1e9a3cf48677fa60c.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/0339%20-%20Sonic%20Advance%20%28E%29%28Lightforce%29.gba",
-      favorite: false,
+      sinopsis: "Sonic Advance features four playable characters and marks the first playable appearance of Amy Rose on a 2D title. The game borrows elements from the original Sonic the Hedgehog titles for the Sega Genesis, but with the post-Dreamcast artstyle for the characters which was introduced in Sonic Adventure. The game also includes multiplayer features and mini-games."
     },
     {
       id: 18,
@@ -559,7 +559,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/900e9a6cea0b0ddfecbfba02cc20b13f.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/1037%20-%20Medabots%20AX%20-%20Metabee%20Version%20%28E%29%28Rising%20Sun%29.gba",
-      favorite: false,
+      sinopsis: "Medabots AX is a 2D fighting game based on Medarot G, released only in North America. There were two versions released, Metabee and Rokusho."
     },
     {
       id: 19,
@@ -574,7 +574,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/2b1f292723cc6f4ca4761f8710141cbb.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/1046%20-%20MegaMan%20%26%20Bass%20%28E%29%28wC%29.gba",
-      favorite: false,
+      sinopsis: "Mega Man & Bass is an entry in the classic Mega Man series, with option for controlling either Mega Man or Bass, due to Dr. Wily and Dr. Light making a truce to fight against King. The game was originally released only in Japan, but a later Game Boy Advance port had an international release."
     },
     {
       id: 20,
@@ -589,7 +589,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/b4d6cca6f8d9376fd31be2a6c28f308b.jpg",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/1435%20-%20Yu-Gi-Oh%21%20-%20World%20Championship%20Tournament%202004%20%28E%29%28GBA%29.gba",
-      favorite: false,
+      sinopsis: "Find out who's the best card-battle player in Yu-Gi-Oh! World Championship Tournament 2004. Construct your monster cards, spell cards, trap cards, and special summon cards into three separate decks for different dueling strategies. You can conquer the tournament solo or link up with a friend in a multiplayer battle. With over 1000 game cards and dozens of popular characters from the Yu-Gi-Oh! TV series, the excitement and exhilaration of the Yu-Gi-Oh trading card game is captured in full force."
     },
     {
       id: 21,
@@ -604,7 +604,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ee6929cfd8dd567e41e4efe843b42dcd.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/1560%20-%20Kirby%20And%20The%20Amazing%20Mirror%20%28E%29%28Rising%20Sun%29.gba",
-      favorite: false,
+      sinopsis: "Once again, Kirby must save the kingdom from evil. But this time he'll need some backup. As Kirby, you can call up one of four alter egos for help during your quest. Each character features new copy abilities that range from arrow-shooting to melee moves. Practice your skills in new side games, such as Crackity Hack and Speed Eaters. In addition to new abilities and subgames, Kirby & the Amazing Mirror also introduces new multiplayer modes."
     },
     {
       id: 22,
@@ -619,7 +619,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f9827b6430547fd3f2c94fabf299fb97.jpg",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/1934%20-%20Rayman%20-%20Hoodlums%27%20Revenge%20%28E%29%28Endless%20Piracy%29.gba",
-      favorite: false,
+      sinopsis: "A spin-off in the Rayman series, Hoodlum's Revenge takes place directly after the events from Rayman 3: Hoodlum Havoc and for the first in the series, aside from multi-player games, Rayman's friend Globox is featured as a playable character."
     },
     {
       id: 23,
@@ -634,7 +634,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/2d36b5821f8affc6868b59dfc9af6c9f.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Super%20Mario%20Advance%204%20-%20Super%20Mario%20Bros%203%20%28E%29%28Menace%29.gba",
-      favorite: false,
+      sinopsis: "Super Mario Advance 4: Super Mario Bros. 3 was originally released for the Game Boy Advance and had physical expansion in the form of a collection of e-Reader cards. When the game was re-released on the Wii U Virtual Console, it included the full game with all of the level expansions found in the World-e. All levels were included in this version, even the ones only released in Japan."
     },
     {
       id: 24,
@@ -649,7 +649,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/d750dbc5c4510c96e92e256136bdeb73.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/007%20-%20Everything%20or%20Nothing%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%29.gba",
-      favorite: false,
+      sinopsis: "Returning as James Bond is Pierce Brosnan, who will lend his cyberscanned likeness and voice to the character. The rest of the cast will include new Bond girls (Shannon Elizabeth and Heidi Klum) as well as old and new Bond villains. The original script will take players through exciting locales in four continents including the Valley of the Kings in Egypt and the French Quarter in New Orleans."
     },
     {
       id: 25,
@@ -664,7 +664,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/62c7e20be72c680983e2a2291ab7fcc6.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/007%20-%20NightFire%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%29.gba",
-      favorite: false,
+      sinopsis: "007: Nightfire is a first-person shooter featuring the character of the British secret agent James Bond and a sequel to Agent Under Fire. The game marked Pierce Brosnan's fourth appearance as James Bond before the release of his fourth and final Bond film Die Another Day. His likeness was featured in the game, but not his voice, which was provided by Maxwell Caulfield. Overall there are many weapons that the player can carry including grenades of various sorts and other types of explosives. In addition, there are numerous amounts of mounted weapons found throughout the game. As with previous James Bond games, the weapons that appear are based on actual weapons, but with the names changed. Some weapons appear in the console version but not the PC version, and vice-versa."
     },
     {
       id: 26,
@@ -679,7 +679,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9d86d83f925f2149e9edb0ac3b49229c.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Advance%20Wars%20%28USA%29%20%28Rev%201%29.gba",
-      favorite: false,
+      sinopsis: "Just because this battle fits in the palm of your hand doesn't mean the stakes are small. On the contrary, this all-or-nothing fight will have you accessing guns, grenades, launchers, and weaponry of all sorts. Players assume command of an army that's out to reclaim a world that's been broken up by warring factions. The battle map is essentially a grid, and moving units is like moving chess pieces on a board -- each of the units can move a specific amount of spaces within this grid, and can only attack at a certain distance from specific enemies. Advance Wars features more than 115 maps, a map editor, head-to-head play via link cable, and an easy-to-understand tutorial mode for beginners."
     },
     {
       id: 27,
@@ -694,7 +694,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/3d3621cee6f49e93a34f3f0f654ab41a.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Advance%20Wars%202%20-%20Black%20Hole%20Rising%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "In Advance Wars 2: Black Hole Rising brings your GBA all-new strategic action and all-new fighting action! Thrilling turn-based strategy gameplay that will put your brain & your reflexes to the test, in this sequel to the original hit!"
     },
     {
       id: 28,
@@ -709,7 +709,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/bd3e776678a01701f968d3cd4b787d39.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Astro%20Boy%20-%20Omega%20Factor%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.gba",
-      favorite: false,
+      sinopsis: "Join Astro, the robotic superhero with a human mind, in a quest to reunite the robotic race with humans. Astro uses his seven super abilities to face off against the likes of Atlas, Blue Knight, and more than 40 other characters. The game brings classic 2D gaming to the Game Boy Advance along with an original seven-episode story. Playing as Astro Boy, you'll learn about justice, compassion, evil, courage, and the history of Astro Boy--all while building Astro's Omega Factor and strengthening his character and superhuman abilities."
     },
     {
       id: 29,
@@ -724,7 +724,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/85e43237b3fb87d881c757f44f1b0357.jpg",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Baldur%27s%20Gate%20-%20Dark%20Alliance%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Baldur’s Gate™: Dark Alliance™ is a revolutionary action adventure with an epic tale of intrigue, fierce alliances, explosive spell effects and highly detailed creatures and environments. Baldur’s Gate™: Dark Alliance™ is a benchmark of technology and gameplay."
     },
     {
       id: 30,
@@ -739,7 +739,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/0bdc3edd84a5ad81660345686552f38b.jpg",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Batman%20Begins%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.gba",
-      favorite: false,
+      sinopsis: "Step into the shadows of Gotham City’s perilous criminal underworld as DC Comics’ legendary Dark Knight in the Batman BeginsTM video game. Slated for release day and date with the Warner Bros. Pictures film, Batman Begins challenges players to use fear as their ultimate weapon."
     },
     {
       id: 31,
@@ -754,7 +754,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/e798a0d5dea21ef441815910d5943598.jpg",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Banjo-Kazooie%20-%20Grunty%27s%20Revenge%20%28USA%2C%20Europe%29.gba",
-      favorite: false,
+      sinopsis: "Gruntilda is back, and it's up to Banjo and Kazooie to stop her master plan. In Banjo-Kazooie: Grunty's Revenge, you'll play as Banjo and follow him through six worlds rife with trials and contests. Some of the challenges you must overcome include solving puzzles, avoiding obstacles, and battling different enemies. Defeat your foes by using Banjo's array of combat moves. You can also seek help from witch doctors, who can transform Banjo into a mouse, a tank, and other creatures."
     },
     {
       id: 32,
@@ -769,7 +769,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/1871cafd644dbd065a4def56e8723ab4.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Beyblade%20G-Revolution%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "The G-Revolution is sweeping over the entire Beyblade world, and your job is to challenge the greatest Beybladers and collect valuable parts. Like previous entries in the Beyblade series, G-Revolution lets you pit your spinning top against others in different arenas. In your quest to become world champion, you can build a varied collection of blades, which you can customize with the Beyblade editor. Compete against more than 16 characters in a storyline taken straight from the Beyblade G-Revolution animated series."
     },
     {
       id: 33,
@@ -784,7 +784,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/022d682784c20ccc9176ceff49b82c0b.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Bomberman%20Tournament%20%28USA%2C%20Europe%29.gba",
-      favorite: false,
+      sinopsis: "An S.O.S. from the cosmos signals that planet Phantarion is in trouble! Grab your arsenal and get ready for non-stop action as you blast your way through interactive battlefields and take on up to 4 real-time players. Battle opponents through 8 interactive battlefield mazes! Take on up to 4 players in multi-player blastfests! Fast, furious, explosive bombing adventure!"
     },
     {
       id: 34,
@@ -799,7 +799,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/1d7f7d5faea7d8528d45aeaf191868c1.jpg",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Breath%20of%20Fire%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Recognized by Capcom as their first traditional role-playing video game, Breath of Fire would set the precedent for future entries in the series, and features character designs by company head of development Keiji Inafune, as well as music by members of Capcom's in-house sound team Alph Lyla. In 2001, the game was re-released for the Game Boy Advance handheld system with new save features and minor graphical enhancements, with the English version being released in Europe for the first time."
     },
     {
       id: 35,
@@ -814,7 +814,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9b71706cb7d7b32ad744c88113c7e83a.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Castlevania%20-%20Circle%20of%20the%20Moon%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Castlevania: Circle of the Moon is the first of the series to be based on the action/RPG structure of Castlevania:Symphony of the Night rather than the level-based action style of all previous Castlevania games. Dracula's castle is a single continuous building, and as Nathan discovers artifacts within it he gains new abilities that allow him to explore more of it. While Nathan can only use his Killer Whip as a weapon, he can find and equip different kinds of armor and accessories that change his stats. Unique to this entry in the series is the Dual Set-up System, where a combination of two cards will give Nathan unique magical abilities. For example, equipping a fire type card with a whip card will give the Killer Whip a fire attribute, while equipping it with a summon card will let Nathan summon a fire demon to attack onscreen enemies."
     },
     {
       id: 36,
@@ -829,7 +829,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/16ff2a6adf8f3b8d2ec7bb6777eac8a0.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Breath%20of%20Fire%20II%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "The incredible sequel to the best-selling RPG hit Breath of Fire is here! You are the last member of the Dragon clan, fighting to rid the world of a growing evil. A cast of unusual and exciting companions joins you in your adventures across a wondrous land full of magic and mystery. You'll find strange mystic items, memorable monsters and exotic locations in your quest to conquer evil. There's strategy and spellcasting galore in the hours of compelling action and adventure that awaits you. Breath of Fire II is the ultimate in RPG excitement!"
     },
     {
       id: 37,
@@ -844,7 +844,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/12d836bf64839f987338414ccbec657f.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Castlevania%20-%20Harmony%20of%20Dissonance%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Nearly fifty years has past since Simon Belmont rescued the land from the curse of Dracula. Now, Simon's descendant Juste Belmont, must acquire the relics of Dracula to unravel the disappearance of his childhood friend Lydie. The castle's enchanting mysteries and danger await all those who dare enter."
     },
     {
       id: 38,
@@ -859,7 +859,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ef05b664c6ed342599d949001afa7b4a.jpg",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Crash%20Bandicoot%20-%20The%20Huge%20Adventure%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Tired of endlessly doing battle with meddling bandicoots, the nefarious Dr. Neo Cortex shrinks the entire Earth, and Crash and Coco along with it, to the size of a wumpa fruit. Luckily, Coco invents a machine to reverse the effects, but she needs crystals from around the world to power it. Crash must retrieve the crystals to help return the entire planet to its natural state. Experience Crash's biggest adventure yet, with gameplay modes ranging from side-scrolling to 3D chase levels to aerial dogfight combat sequences. Battle your way through over 20 huge levels and six unique locations to defeat Cortex and save the world."
     },
     {
       id: 39,
@@ -874,7 +874,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/18c9da69761a42ae620d9e9b0a57eb56.jpg",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Crash%20Bandicoot%202%20-%20N-Tranced%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Crash is back and ready to take on an all-new nefarious villain. After the events of Crash Bandicoot: The Huge Adventure, Tropy, with the help of N. Trance, kidnaps Coco and Crunch, planning to brainwash them to the evil side. Now, Crash must travel to N. Trance's twisted realm, battle and rescue Coco and Crunch, and ultimately defeat N. Trance and N. Tropy. To achieve these goals, you must use all of Crash's spin, slide, and jumping abilities across 24 different levels. As you progress through the game, you'll find yourself flying a helicopter, water-skiing, and piloting a spaceship--all for the sake of saving your friends."
     },
     {
       id: 40,
@@ -889,7 +889,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/8e0a27a37a70dfd4ac16e0f57a08b641.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Crash%20Nitro%20Kart%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Crash Bandicoot returns to the karting scene with a host of other characters from the adventure series, and this time they have both Neo Cortex and Emperor Velo to worry about. Velo has taken the crew to a remote planet, forced to race for their lives against Neo Cortex and his many evil doers."
     },
     {
       id: 41,
@@ -904,7 +904,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/23e10f3c6987443b6f6929e72dabbe67.jpg",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Digimon%20-%20Battle%20Spirit%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Digimon Battle Spirit is a fighting game originally published by Bandai and developed by Dimps for the Japanese-only WonderSwan Color handheld system under the name Digimon Tamers: Battle Spirit. It was later ported to Nintendo's Game Boy Advance for international releases in North America and Europe two years later."
     },
     {
       id: 42,
@@ -919,7 +919,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6dfbcb8172dbfca2e94b3ec9a99789a5.jpg",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Digimon%20-%20Battle%20Spirit%202%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
-      favorite: false,
+      sinopsis: "It is a sequel to Digimon: Battle Spirit. You can battle with the characters from the Digimon Frontier anime series. Developed by Dimps."
     },
     {
       id: 43,
@@ -934,7 +934,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6524341b411c77cdbd9dbc15f522c7b3.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Donkey%20Kong%20Country%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Donkey Kong Country is a side scrolling platformer by British developers Rare in 1994. It featured revolutionary pre-rendered 3D graphics that give the game a very unique look compared to most other games on consoles at the time. The two playable characters featured in the game are the titular character, Donkey Kong and his nephew, Diddy Kong. Together the two swing, climb, jump, swim, cartwheel, ride animals, and blast out of barrels on their way to recover their stolen bannanas from the evil King K. Rool and his Kremling army. The adventure takes you through a variety of different environments and levels that continually change up gameplay. Donkey Kong Country also provides plenty of opportunities for exploration with almost every level having a multitude of collectible, shortcuts, and hidden bonus areas."
     },
     {
       id: 44,
@@ -949,7 +949,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/d8ffe0099bb7e2c98f8e6e5c37baffa2.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Donkey%20Kong%20Country%202%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Donkey Kong Country 2 is a remake of the SNES game Donkey Kong Country 2: Diddy's Kong Quest. It is the second game in the series of remakes of the original Country trilogy for the Game Boy Advance."
     },
     {
       id: 45,
@@ -964,7 +964,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/a78cd673323dd4da94a6a78acb242ae9.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Donkey%20Kong%20Country%203%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Donkey Kong Country 3 is the Game Boy Advance version of the SNES game Donkey Kong Country 3 Dixie Kongs Double Trouble!. Although being developed as a port, the game has a different soundtrack composed by the veteran of the series David Wise, new minigames, worlds and overworld map layout."
     },
     {
       id: 46,
@@ -979,7 +979,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/64c26b2a2dcf068c49894bd07e0e6389.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Doom%20%28USA%2C%20Europe%29.gba",
-      favorite: false,
+      sinopsis: "In the future, humans have left Earth and settled throughout the galaxy. On Mars, the Union Aerospace Corporation has established a radioactive waste facility and allowed the military to conduct teleportation experiments on the nearby moons of Deimos and Phobos. Hours ago, the base on Mars began receiving incoherent distress messages from Phobos, while Deimos has disappeared completely. With all attempts to establish contact failing, you and your team have been dispatched to investigate. Upon arrival, you secure the perimeter as the rest of your team enters the facility. As you stand guard, your radio crackles with the sound of gunfire, cracking bones and blood-curdling screams and eventually falls silent. Alone, with no way off the planet or means to defend yourself other than your trusty pistol, there’s only one way out - into the complex of death and the horrors that await you within. If you plan to get out of here alive you must fend off the hordes of demonic imps, haunting spectres and your undead, former comrades waiting to tear you limb from limb. So, grab the nearest shotgun and blast your way out of this fragging madness!"
     },
     {
       id: 47,
@@ -994,7 +994,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ef95afafde712120bb708d12b6217a9a.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Doom%20II%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Celebrate DOOM's 25th anniversary with the re-release of DOOM II. This beloved sequel to the groundbreaking DOOM (1993) gave players the brutal Super Shotgun to bear against deadlier demons, and the infamous boss, the Icon of Sin."
     },
     {
       id: 48,
@@ -1008,7 +1008,7 @@ let games = {
       logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/d0dcf063a9c7678ef849da47e7b5c359.png",
       background: "",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Duke%20Nukem%20Advance%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Alien scientists have plotted to take over the earth; it's Duke Nukem's job to prevent them from executing their evil science project. Duke's using his full arsenal of weapons and is teleporting to various locations around the world in order to stop the alien menaces. Most importantly, he'll make them pay!"
     },
     {
       id: 49,
@@ -1023,7 +1023,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6dd2f7fb9018bfcd8c3be1f8e65224ae.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Final%20Fantasy%20Tactics%20Advance%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Squaresoft brings its popular Final Fantasy franchise to the Game Boy Advance in the form of strategic warfare. Final Fantasy Tactics Advance trails the story of a young boy named Marche who is magically transported from his sleepy modern-time home to a strange kingdom where magic and adventure reign supreme."
     },
     {
       id: 50,
@@ -1038,7 +1038,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/db98dc0dbafde48e8f74c0de001d35e4.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Final%20Fight%20One%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Classic arcade action is unleased on the Game Boy Advance system in Final Fight One. There's trouble in Metro City. The members of the Mad Gear Gang have kidnapped the mayor's daughter Jessica and the clock is ticking. The mayor, an ex-street fighter himself, calls in the big guns to help, enlisting the iron fist team of Cody and Guy. Now, it's a race against time to scour the city, defeat an army of the Mad Gear Gang's minions, and rescue Jessica before it's too late!"
     },
     {
       id: 51,
@@ -1053,7 +1053,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/713f96370f69fb23e3387062bc914719.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Fire%20Emblem%20-%20The%20Sacred%20Stones%20%28USA%2C%20Australia%29.gba",
-      favorite: false,
+      sinopsis: "In Fire Emblem: The Sacred Stones, you must help protect the nation of Renais from the invading Grado Empire. Plan your strategy, choose your units, and then lead your soldiers in to battle. The more experience your soldiers gain, the more you can upgrade their abilities. This time, your soldiers can gain experience by fighting new monsters in the Tower of Valni."
     },
     {
       id: 52,
@@ -1068,7 +1068,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/78d69f40906679a976dc4d45cebffbe6.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/F-Zero%20-%20Maximum%20Velocity%20%28USA%2C%20Europe%29.gba",
-      favorite: false,
+      sinopsis: "All galactic speed limits are about to be broken! F-Zero Maximum Velocity has arrived, and the future of racing has never looked so sweet. Brand-new vehicles and Game Boy Advance original tracks await, so whether you're a Super NES veteran or a race rookies, you'll need some practice laps. And even if you do master the Grand Prix circuit, you'll still have to beat your friends to the finish line. That's right, race fans--with the Game Boy Advance Game Link cable you can take on up to three rival racers, so put the pedal to the metal and get busy boosting, bumping and jumping your way to intergalactic glory!"
     },
     {
       id: 53,
@@ -1083,7 +1083,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f7eaf1a7777e1ac6d3cddd1df25917df.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Golden%20Sun%20-%20The%20Lost%20Age%20%28USA%2C%20Europe%29.gba",
-      favorite: false,
+      sinopsis: "The story of Golden Sun: The Lost Age picks up right near the end of the first game. Golden Sun veterans will be surprised to learn that The Lost Age is played from the point of view of the party being chased as they try to light the remaining two lighthouses, which will unlock the power of alchemy for the world--or will it instead unlock the world's destruction?"
     },
     {
       id: 54,
@@ -1098,7 +1098,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/e633e2ac7a14a4d56384f38df943792b.jpg",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Golden%20Sun%20%28USA%2C%20Europe%29.gba",
-      favorite: false,
+      sinopsis: "RPG from the makers of Shining Force, featuring an adventure filled with tried-and-true overhead-wandering, random-battle gameplay that looks absolutely sweet on the Game Boy Advance small screen...in fact, this game arguably rivals most of the classic RPGs that have ended up on the console systems, like Dragon Warrior or the aforementioned Final Fantasy series, for example. You play Isaac, a young swordsman and resident of the town of Vale, and at the beginning of the adventure a storm is brewing outside that forces Isaac to flee to safety. But every virtual adventurer knows that it's never as simple as that, and eventually you're thrust into the role of the world's savior, befriending other skilled adventurers that will join your crusade...there's strength in numbers, as the phrase goes."
     },
     {
       id: 55,
@@ -1113,7 +1113,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/85cc5d67d3e0b0746f7e8796a4566d97.jpg",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Gunstar%20Super%20Heroes%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Your enemies intend to use a powerful crystal to resurrect the devastating God of Ruin and it's up to the Gunstar Heroes, Blue and Red to stop them! Developed by critically acclaimed developer, Treasure, this fast-paced action game will push your Game Boy Advance to the limits!"
     },
     {
       id: 56,
@@ -1128,7 +1128,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/342d92157a4240ee35eab60e06a1412e.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%29.gba",
-      favorite: false,
+      sinopsis: "Harry Potter and the Chamber of Secrets is the sequel to Harry Potter and the Sorcerer's Stone for PC and Mac. As its prequel, five different versions of this game were released for different gaming platforms. In this version, you control Harry in an action-adventure platforming gameplay. The most significant difference from the previous game is that gameplay is less linear, with Hogwarts becoming more of an open world. You can Interact with familiar characters from the movie like Ron, Hermione and of course Gilderoy Lockhart. Additionally, there are multiple mini-games and side quests."
     },
     {
       id: 57,
@@ -1143,7 +1143,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ba48e3bddfd8b7160acdedcad3055780.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.gba",
-      favorite: false,
+      sinopsis: "Harry Potter and the Prisoner of Azkaban is the sequel to Harry Potter and the Chamber of Secrets for PC and Mac, and features similar action-adventure and platforming gameplay. The player controls both Harry as well as his friends Ron and Hermione, while casting spells, solving puzzles and fighting enemies. When not engaged in a specific mission, the castle of Hogwarts can be freely explored. Scattered all around Hogwarts, usually in hidden areas, are Every Flavour Beans, Pumpkin Pasties and Cauldron Cakes, which function as a sort of currency. They can be traded for Collectors Cards, passwords for portraits that lead to more secret areas, and power-ups."
     },
     {
       id: 58,
@@ -1158,7 +1158,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/a0f56bb43799522951d7a3d3a5b4e597.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Harry%20Potter%20and%20the%20Sorcerer%27s%20Stone%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%29.gba",
-      favorite: false,
+      sinopsis: "Harry Potter and the Sorcerer's Stone is the first Harry Potter video game for the PlayStation, and one of several different games based on the book and movie. This version is a three-dimensional action adventure, where Harry must complete a number of challenges in order to pass his first year of studies at Hogwarts School of Witchcraft and Wizardry. Successful completion of the tasks often results in house points for Harry's house Gryffindor and failure in some deducts points, so the race for the House Cup can stay open until the end."
     },
     {
       id: 59,
@@ -1173,7 +1173,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f6968547901182c947e2fe1aa2d27edc.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Harvest%20Moon%20-%20More%20Friends%20of%20Mineral%20Town%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Live the simple life as a farmer in Harvest Moon: More Friends of Mineral Town. This game is similar to the original Harvest Moon: Friends of Mineral Town, but now you can play as a girl who has left the city to pursue a life on the farm. You'll take part in growing crops, managing livestock, finding a husband, and raising children."
     },
     {
       id: 60,
@@ -1188,7 +1188,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/8eb6c13d87ba59b39ba6d8f03f47dcbd.jpg",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Incredible%20Hulk%2C%20The%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "You play Dr Bruce Banner, whose life is turned upside down after a freak accident in the lab transforms his rage into The Incredible Hulk, a massive green muscle machine that is unstoppable once started."
     },
     {
       id: 61,
@@ -1203,7 +1203,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/427d46205152382d9d20f64490c8cce0.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/King%20of%20Fighters%20EX%202%2C%20The%20-%20Howling%20Blood%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "The King of Fighters EX2: Howling Blood is a fighting game released by Playmore, MMV and Sun-Tec for the Gameboy Advance. It is based on The King of Fighters 2000 and is the sequel of The King of Fighters EX. It was also ported for the N-Gage as The King of Fighters Extreme."
     },
     {
       id: 62,
@@ -1218,7 +1218,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/18fc3b6cc1e55ccea877c161e2e9ba27.jpg",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Kingdom%20Hearts%20-%20Chain%20of%20Memories%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Kingdom Hearts: Chain of Memories is the second game in the Kingdom Hearts series. It is a direct sequel to Kingdom Hearts and exclusive to the Game Boy Advance. It was published by Square Enix and developed by Jupiter, and was released in 2004. Chronologically, it is the third game in the timeline after Kingdom Hearts Birth by Sleep and Kingdom Hearts, and takes place during Kingdom Hearts 358/2 Days."
     },
     {
       id: 63,
@@ -1233,7 +1233,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/322cd5382c6c967c00ddcb78643884b3.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Kirby%20-%20Nightmare%20in%20Dream%20Land%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "A remake of the original Kirby's Adventure for the NES."
     },
     {
       id: 64,
