@@ -1,295 +1,5 @@
 let games = {
 
-  top10: [
-    {
-      id: 51,
-      reference: "go:gba51",
-      console: "Game Boy Advance",
-      genre: "rpg",
-      title: "Fire Emblem: The Sacred Stones",
-      year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/d830b39fa47bf25be3c789cc23b42f77.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/838f14a84363d9a7ac1b06ad63fc6fb5.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/713f96370f69fb23e3387062bc914719.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Fire%20Emblem%20-%20The%20Sacred%20Stones%20%28USA%2C%20Australia%29.gba",
-      favorite: false,
-    },
-    {
-      id: 3,
-      reference: "go:gba03",
-      console: "Game Boy Advance",
-      genre: "plataforma",
-      title: "Castlevania: Aria Of Sorrow",
-      year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/7565888ea5829b4182f49b156a3aa238.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/370caceecffaa11d5c0fe2dfefa413c1.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/39ecc5282d4511dca4c757113e1312d1.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Castlevania%20-%20Aria%20of%20Sorrow%20%28USA%29.gba",
-      favorite: false,
-    },
-    {
-      id: 7,
-      reference: "go:gba07",
-      console: "Game Boy Advance",
-      genre: "rpg",
-      title: "Fire Emblem: The Binding Blade",
-      year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/1a299084801ac0389a0f61d75d0685cd.png",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/65be44ae7088566069cc3bef454174a7.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/5ebf22c8db54637bd581854a01601159.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Fire%20Emblem%20-%20The%20Binding%20Blade%20%28T%29.gba",
-      favorite: false,
-    },
-    {
-      id: 53,
-      reference: "go:gba53",
-      console: "Game Boy Advance",
-      genre: "rpg",
-      title: "Golden Sun: The Lost Age",
-      year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/28e50b8f4185b367f6b31f9b2151d634.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/585eb4127afd003bd784f6e8dc132be2.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f7eaf1a7777e1ac6d3cddd1df25917df.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Golden%20Sun%20-%20The%20Lost%20Age%20%28USA%2C%20Europe%29.gba",
-      favorite: false,
-    },
-    {
-      id: 5,
-      reference: "go:gba05",
-      console: "Game Boy Advance",
-      genre: "rpg",
-      title: "Mario & Luigi: Superstar Saga",
-      year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/1df5456e9760c85c7b649fd7961a9f66.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/72c25197b6a491816d9a84b42d7205f0.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/c2090502cd75f701449abad130cce798.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mario%20%26%20Luigi%20-%20Superstar%20Saga%20%28USA%29.gba",
-      favorite: false,
-    },
-    {
-      id: 82,
-      reference: "go:gba82",
-      console: "Game Boy Advance",
-      genre: "shooter",
-      title: "Metroid: Zero Mission",
-      year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/da0198ea02cb283a14672a3837d65d92.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9c805dcddc7db4e825949f20601fc73b.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/c58a78e3957eed1e6dcf540cda1a05b3.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Metroid%20-%20Zero%20Mission%20%28USA%29.gba",
-      favorite: false,
-    },
-    {
-      id: 89,
-      reference: "go:gba89",
-      console: "Game Boy Advance",
-      genre: "rpg",
-      title: "Pokémon Emerald",
-      year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/2f4986551f0531b1eb4c6a2c51bc45a3.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/69ec5030f78a9b735402d133317bf5f6.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/66bd939ad7010829ab65a6aaf28c9a96.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Pokemon%20-%20Emerald%20Version%20%28USA%2C%20Europe%29.gba",
-      favorite: false,
-    },
-    {
-      id: 46,
-      reference: "go:gba46",
-      console: "Game Boy Advance",
-      genre: "shooter",
-      title: "DOOM",
-      year: "1993",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/73457d114d8ef9a77dd074185d561e60.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/154aa6866aefb6f8d0b722621fa71e83.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/64c26b2a2dcf068c49894bd07e0e6389.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Doom%20%28USA%2C%20Europe%29.gba",
-      favorite: false,
-    },
-    {
-      id: 80,
-      reference: "go:gba80",
-      console: "Game Boy Advance",
-      genre: "shooter",
-      title: "Mega Man Zero",
-      year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/28dc7cc1a8caad07671b5e38ced8a7d5.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/b4892f808f9efbd561cecbfbec3ad20d.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/8e0251b8f27dd86e04c9049a1eeda4a3.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mega%20Man%20Zero%20%28USA%2C%20Europe%29.gba",
-      favorite: false,
-    },
-    {
-      id: 21,
-      reference: "go:gba21",
-      console: "Game Boy Advance",
-      genre: "plataforma",
-      title: "Kirby & the Amazing Mirror",
-      year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/978e1dbe92d1bde18868c5a59282844a.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/ca3a856a28df7d77d948949206ff9fdf.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ee6929cfd8dd567e41e4efe843b42dcd.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/1560%20-%20Kirby%20And%20The%20Amazing%20Mirror%20%28E%29%28Rising%20Sun%29.gba",
-      favorite: false,
-    },
-  ],
-
-  recomendados: [
-    {
-      id: 1,
-      reference: "go:gba01",
-      console: "Game Boy Advance",
-      genre: "shooter",
-      title: "Metal slug Advance",
-      year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f98c214ef8193827e331f500d9809c47.png",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/66410adefc38da1e9486483597c15518.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/20877befbd58c865e224346e6b92d772.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Metal%20Slug%20Advance%20%28U%29%20%281%29.gba",
-    },
-    {
-      id: 2,
-      reference: "go:gba02",
-      console: "Game Boy Advance",
-      genre: "peleas",
-      title: "Dragon Ball: Advanced Adventure",
-      year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/635132798c93dd6003e732836dcea913.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/dcb8dc74a2a76e9e90526ddbfd759ba7.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/68c16354b766f0b3cb1c00299e08d485.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Dragon%20Ball%20-%20Advanced%20Adventure%20%28USA%29.gba",
-      favorite: false,
-    },
-    {
-      id: 65,
-      reference: "go:gba65",
-      console: "Game Boy Advance",
-      genre: "rpg",
-      title: "The Legend of Zelda: The Minish Cap",
-      year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/e98002ab38ca88f2ca5e461cc99c5d2b.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/e1dc4bf1f94e87fdfeb2d91ae3dc10ef.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/786ab8c4d7ee758f80d57e65582e609d.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Legend%20of%20Zelda%2C%20The%20-%20The%20Minish%20Cap%20%28USA%29.gba",
-      favorite: false,
-    },
-    {
-      id: 108,
-      reference: "go:gba108",
-      console: "Game Boy Advance",
-      genre: "peleas",
-      title: "Street Fighter Alpha 3",
-      year: "1998",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/e2d9f3fdfe355db5d8c82554c4b2c76e.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/331cc28f8747a032890d0429b5a5f0e5.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/e0854e3c03ec877be65d351b90680d46.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Street%20Fighter%20Alpha%203%20%28USA%29.gba",
-      favorite: false,
-    },
-    {
-      id: 148,
-      reference: "go:gba148",
-      console: "Game Boy Advance",
-      genre: "shooter",
-      title: "Tomb Raider: Legend",
-      year: "2006",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/cc2de058dab2b9af80711f87d8af9213.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/8c7bbbba95c1025975e548cee86dfadc.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/49ade09afce7a9f8389e13a0a62db65f.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Lara%20Croft%20Tomb%20Raider%20-%20Legend%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
-      favorite: false,
-    },
-    {
-      id: 140,
-      reference: "go:gba140",
-      console: "Game Boy Advance",
-      genre: "shooter",
-      title: "Mega Man Zero 4",
-      year: "2005",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/490584247749e990aa5ae2543215f944.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/d5a1469d699bdf9fdc74cc29643034bf.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/77ecf511cfd57b357a384e225121dc85.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Megaman%20Zero%204%20%28U%29.gba",
-      favorite: false,
-    },
-    {
-      id: 72,
-      reference: "go:gba72",
-      console: "Game Boy Advance",
-      genre: "carreras",
-      title: "Mario Kart: Super Circuit",
-      year: "2001",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/cfd6c82a2b509c9fde692e0bb068f0c3.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/2404d480bb9068047a2fb584b0c5a44c.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/1144d074f709db094712d5d921d5e52b.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mario%20Kart%20-%20Super%20Circuit%20%28USA%29.gba",
-      favorite: false,
-    },
-    {
-      id: 13,
-      reference: "go:gba13",
-      console: "Game Boy Advance",
-      genre: "rpg",
-      title: "Final Fantasy VI Advance",
-      year: "2006",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/ca210a6211cc03cb018d8987e731dad1.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/0993b7960f34c29b1fdb6516be27046f.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9229b4855f204052a1ee62f0a06f1cc9.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Final%20Fantasy%206%20Advance%20%23%20GBA.GBA",
-      favorite: false,
-    },
-    {
-      id: 34,
-      reference: "go:gba34",
-      console: "Game Boy Advance",
-      genre: "rpg",
-      title: "Breath of Fire",
-      year: "1993",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/7b992ddf72c167f4788c9c3c8064ddd5.png",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/1fa734caf1090f7af9249745564ec09b.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/1d7f7d5faea7d8528d45aeaf191868c1.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Breath%20of%20Fire%20%28USA%29.gba",
-      favorite: false,
-    },
-  ],
-
   gameboyadvance: [
     {
       id: 1,
@@ -1248,7 +958,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/21de0cb3f150ce7676be632a53580651.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20%26%20Four%20Swords%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "The Legend of Zelda: A Link to the Past & Four Swords features two games, a port of the SNES game The Legend of Zelda: A Link to the Past and a new multiplayer adventure called Four Swords."
     },
     {
       id: 65,
@@ -1263,7 +973,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/786ab8c4d7ee758f80d57e65582e609d.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Legend%20of%20Zelda%2C%20The%20-%20The%20Minish%20Cap%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "The Legend of Zelda: The Minish Cap is a top-down action adventure game that tells the origins of the evil Vaati from Four Swords. Like most other titles in the series, The Minish Cap features the fully explorable land of Hyrule, although it can be viewed from the eyes of a human or the eyes of a Minish, a race of tiny people and an alternate form that Link can transform into. Unlike the multiplayer focus of the other games in the series, The Minish Cap retains the original form of exploration and dungeons as seen in A Link to the Past, Oracle of Seasons, and Oracle of Ages, as well as returning characters and game mechanics such as Malon and the Spin Attack. New features include fusing Kinstones and shrinking to the size of a Minish."
     },
     {
       id: 66,
@@ -1278,7 +988,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/c678aec6e828c899b32a099c14ee882c.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/LEGO%20Star%20Wars%20II%20-%20The%20Original%20Trilogy%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "LEGO Star Wars II: The Original Trilogy takes the fun and endless customization of LEGO and combines it with the epic story, characters and action from the original Star Wars movies that revolutionized pop culture forever Episode IV A New Hope, Episode V The Empire Strikes Back and Episode VI Return of the Jedi. With a unique tongue-in-cheek take on the Original Trilogy, LEGO Star Wars II follows the Rebel Alliances crusade to dismantle the Galactic Empire and rebuild a galaxy in pieces."
     },
     {
       id: 67,
@@ -1293,7 +1003,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/fc38d019366c0aa622caceb53f7f7a60.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Lord%20of%20the%20Rings%2C%20The%20-%20The%20Return%20of%20the%20King%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
-      favorite: false,
+      sinopsis: "The video game adaption of the acclaimed film of the same name. The Lord of the Rings: The Return of the King is a follow up the well received adaption of the first two films in the trilogy. The game expands on what The Two Towers accomplished, with the action and adventure sequel introducing three separate story lines from the movie: one following Aragorn, Legolas, and Gimli, as The Two Towers did, another following Gandalf, and a third following Frodo and Sam, with Merry, Pippin, and Faramir serving as unlockable characters. Gameplay features were also expanded upon, including multiplayer."
     },
     {
       id: 68,
@@ -1308,7 +1018,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9ed8b53fdab5689b9f2f06c170e6fa32.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Lord%20of%20the%20Rings%2C%20The%20-%20The%20Third%20Age%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
-      favorite: false,
+      sinopsis: "The Lord of the Rings: The Third Age for Game Boy Advance is a turn-based tactics game released in 2004. The game consists of 2 campaigns (Good and Evil). In each campaign the player chooses a commander. As the player completes missions and progresses through the campaign, they are able to use experience points to purchase skills and equipment upgrades in order to enhance the performance of their primary and secondary heroes."
     },
     {
       id: 69,
@@ -1323,7 +1033,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/dbe1eb558c1979553895969f6213a185.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Lord%20of%20the%20Rings%2C%20The%20-%20The%20Two%20Towers%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.gba",
-      favorite: false,
+      sinopsis: "The Lord of the Rings: The Two Towers is an action and adventure game based off of the first two movies of the popular Lord of the Rings series, The Fellowship of the Ring and The Two Towers. Players battle their way through some of the key events of these films as Aragorn, Legolas, and Gimli."
     },
     {
       id: 70,
@@ -1338,7 +1048,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/e601ac8ec15075e6c6d0831dbd5a9c81.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Magical%20Quest%203%20Starring%20Mickey%20%26%20Donald%20%28USA%29%20%28En%2CFr%2CDe%29.gba",
-      favorite: false,
+      sinopsis: "Huey, Dewy and Louie went to hide in the attic to hide from their uncle Donald's temper when they came across a mysterious book. Upon opening it, hand appears and kidnaps the boys into Storybook Land. Now Donald Duck and his pal Mickey Mouse must go save the boys by defeating the evil King Pete!"
     },
     {
       id: 71,
@@ -1353,7 +1063,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/bb0a313f554c3a2b6e9944368512bb9b.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mario%20Golf%20-%20Advance%20Tour%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Grab your clubs and start down the road to golfing perfection in this role-playing golf adventure! Chat up the locals at golf clinics, hone your skills in challenges like Club Slots and Go-Go Gates, and try to become the champ of all the country clubs! The Mushroom Kingdom residents take on only the very best."
     },
     {
       id: 72,
@@ -1368,7 +1078,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/1144d074f709db094712d5d921d5e52b.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mario%20Kart%20-%20Super%20Circuit%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Mario Kart Super Circuit puts your driving skills to the test on 40 tracks, each littered with wild weapons and obstacles. Choose to play as any of your favorite characters as you speed around classic and brand-new tracks. If you're feeling combative, try out the creative weaponry (mushrooms, bananas, thunder bolts, and stars) in Battle mode. Feel like making some friends eat your dust? No problem. Four players can compete in Mario Kart Super Circuit using only one Game Pak! If each player has a copy of the game, bonus features and new modes of play become available."
     },
     {
       id: 73,
@@ -1383,7 +1093,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/d225f07436e0075a13ffd66eae614707.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mario%20Party%20Advance%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "It's a portable party on your Game Boy Advance! Mario Party Advance takes all the fun of the home console game and puts it in your hands. All-new mini-games and a host of Professor E. Gadd's incredible Gaddgets -- unique trinkets, toys, detectors and tricks like the Lip Disguise-o-matic that let you play tricks on your friends, test your compatibility and much more. Discover the 60 mini-games as you play through the single-player game boards. Earn coins as you play the mini-games, and use those coins to unlock Gaddgets you can use with your friends. Use your Gaddgets to take the game into the real world. Place your finger on the Finger X-Ray to see what's hidden inside, or use the Compatibility Meter to see how well you and your friends match up."
     },
     {
       id: 74,
@@ -1398,7 +1108,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/47348419f65e9ff93ab474a090e66a41.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mario%20Pinball%20Land%20%28USA%2C%20Australia%29.gba",
-      favorite: false,
+      sinopsis: "Jumping has always helped Mario perform heroic feats, but in Mario Pinball Land, the plumber must learn how to roll to rescue the princess. When Bowser kidnaps Peach and escapes to another dimension, a scientist transforms Mario into a ball to chase after the fiend. Now you must use your flippers to shoot a much rounder Mario into doors that lead to new areas. In his new form, Mario is also useful for knocking down enemies, picking up special bonuses, and finding power-ups."
     },
     {
       id: 75,
@@ -1413,7 +1123,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/e53ba686b7ad2ec7825f0f4afff80a1b.jpg",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mario%20vs.%20Donkey%20Kong%20%28USA%2C%20Australia%29.gba",
-      favorite: false,
+      sinopsis: "After years of apparent goodwill, Mario and Donkey Kong are at it again--this time, on Game Boy Advance. Donkey Kong has stolen all the Mini-Mario toys from the Mario Toy Co., and now it's up to Mario to hunt down his longtime nemesis and retrieve the pilfered goods. As Mario, you must race through challenging levels while finding keys and releasing Mini Marios before time runs out. Along the way, you'll master new moves that can help you overcome new puzzles."
     },
     {
       id: 76,
@@ -1428,7 +1138,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/140691632b8352f3c2acc83bd4314173.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Medabots%20-%20Metabee%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Join Ikki as he begins his journey as a Medafighter and tries to save his hometown of Riverview City from the evil Rubberobo Gang. Ikki must solve various mysteries with the help of his friends and the Phantom Renegade. Interact with characters and control Medabots popular in the Medabots TV animated series. Can Ikki save the world from the treacherous Rubberobo Gang and become the #1 ranked Medafighter...It is all up to you!"
     },
     {
       id: 77,
@@ -1443,7 +1153,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6806c6ea50ea2de3df70f5451156cd06.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Medabots%20-%20Rokusho%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Join Ikki as he begins his journey as a Medafighter and tries to save his hometown of Riverview City from the evil Rubberobo Gang. Interact with characters and control Medabots popular in the Medabots TV animated series. Create your own special Medabot from hundreds of unique Medaparts! Robattle and trade Medaparts with friends. Each version of Medabots offers exclusive Medaparts and Medals not found in the other."
     },
     {
       id: 78,
@@ -1457,7 +1167,7 @@ let games = {
       logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/ca9f9c4764430f980dca8d70e29d8e5e.png",
       background: "",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Medal%20of%20Honor%20-%20Infiltrator%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%29.gba",
-      favorite: false,
+      sinopsis: "Medal of Honor Infiltrator puts you in the role of Corporal Jake Murphy, a man who must complete five daring missions to defeat the Axis powers in WWII. From sabotaging enemy resources to capturing key personnel to all-out firefights, you'll need to master a variety of gameplay styles to overcome the enemy. On foot, in a tank, or even in disguise, you must engage opponents on the battlefield with an assortment of WWII-era weapons, including machine guns, grenades, bazookas, and more."
     },
     {
       id: 79,
@@ -1472,7 +1182,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/15978ec98cc7fb6d2b95cd397439f23a.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mega%20Man%20Battle%20Network%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "In the future, a young net-battler named Lan, boots his 'personal exploration terminal' (PET) and prepares to hack into the network to battle net crime. Lan's PET is no ordinary network navigator. It's Mega Man.EXE, the cyber-identity, which infiltrates the crime-ridden network to battle destructive computer viruses. Defeat viruses in real time and collect Battle Chips program data, containing valuable weapons data and critical system info. Collect over 175 Battle Chips to help Land and Mega Man.EXE restore peace and order to the network."
     },
     {
       id: 80,
@@ -1487,7 +1197,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/8e0251b8f27dd86e04c9049a1eeda4a3.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mega%20Man%20Zero%20%28USA%2C%20Europe%29.gba",
-      favorite: false,
+      sinopsis: "It's your mission to help the exiled scientist Ciel discover the source of a new reploid energy! Play as Mega Man's pal Zero, the reploid from the Mega Man X series turned good by the infectious Sigma Virus and 100 years of sleep. Conquer your adversaries and find the energy source... or risk ultimate defeat. It's up to you to defend good from the destructive powers in the universe."
     },
     {
       id: 81,
@@ -1502,7 +1212,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/fe2e8c9e03498e3bd2c4c2205afdfc44.jpg",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mega%20Man%20Zero%202%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "In Zero's next mission, he falls prey to a trap set by Neo Arcadia's ruthless commander. Planning to trick Zero, he tries to use him to wreak chaos between reploids and humans once again. But, can he succeed?"
     },
     {
       id: 82,
@@ -1517,7 +1227,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/c58a78e3957eed1e6dcf540cda1a05b3.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Metroid%20-%20Zero%20Mission%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "The first Metroid game just scratched the surface of the cataclysmic events on planet Zebes, and at long last the rest of the tale has come to light. Experience the first of Samus's legendary adventures through all-new cut-scenes and action sequences as the bounty hunter races through the deeps toward her showdown with the leader of the Space Pirates. But will the end of Mother Brain really mean the end of the story...?"
     },
     {
       id: 83,
@@ -1532,7 +1242,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/c31de86411f643ec08e04b38ae397efc.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Metroid%20Fusion%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "The first Metroid game just scratched the surface of the cataclysmic events on planet Zebes, and at long last the rest of the tale has come to light. Experience the first of Samus's legendary adventures through all-new cut-scenes and action sequences as the bounty hunter races through the deeps toward her showdown with the leader of the Space Pirates. But will the end of Mother Brain really mean the end of the story...?"
     },
     {
       id: 84,
@@ -1547,7 +1257,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9c8f9728c5c3be5ef64f32ed3d49f02e.jpg",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mortal%20Kombat%20-%20Deadly%20Alliance%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
-      favorite: false,
+      sinopsis: "Mortal Kombat: Deadly Alliance is the first Mortal Kombat outing on the next-gen systems. New to DA is a completely revamped fight engine. The graphics are in full 3D and feature somewhat interactive environments. Each character now has different fighting stances, allowing them to be in an offensive stance or a fatality stance."
     },
     {
       id: 85,
@@ -1562,7 +1272,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ccf1db324b72a6343a422a52bed9aac7.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Naruto%20-%20Ninja%20Council%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Naruto: Ninja Council, known as Naruto: Saikyou Ninja Daikesshuu in the Japanese version, is the first instalment in the Ninja Council series. There are scrolls that the playable character can obtain to perform abilities at the cost of chakra, which can be used to break down walls or create whirlwinds. The story mode very loosely follows the Prologue — Land of Waves arc to the Chuunin Exams arc."
     },
     {
       id: 86,
@@ -1577,7 +1287,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/3debb4bd1655948a1be4894bdb47f60c.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Naruto%20-%20Ninja%20Council%202%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Action game, based on the Shonen Jump manga. This sequel to the very first Naruto game on the GBA (the second game was a much different simulation/adventure) has three-times the amount of stages and characters twice the size. The action is streamlined and more dynamic. Players can transform into Naruto, Sasuke and Sakura and use their abilities to defeat the scrolling stages. The game also utilizes the link cable for a two-player co-op mode and for a four-player battle mode."
     },
     {
       id: 87,
@@ -1592,7 +1302,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ad9a866c59fa615f586374a79bfa69f1.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Naruto%20-%20Ninja%20Council%202%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "One Piece also referred to as Shonen Jump's One Piece is a 2-D platforming adventure video game for the Nintendo Game Boy Advance based on the 4kids dub of the One Piece anime. Developed by Dimps and published by Bandai, it was released on September 7, 2005. It is the only One Piece game to be only released in the USA, and the first out of two to not see a release in Japan."
     },
     {
       id: 88,
@@ -1607,7 +1317,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/a7849da26d77b0a04581a4ff2d238957.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Onimusha%20Tactics%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Onimusha Tactics is a turn-based strategy game between the player's side and the enemy's side. In each level you can bring a squad of no more than 10 people. There are no items to buy or sell, however equipment is available and customizable. Upgrades of existing weapons and armor can be done using the defeated souls of enemies absorbed into the Oni Gauntlet. New weapons and armor can be found or created through fusion of Genma Stones. Recipes must be found for each separate item before it can be fused."
     },
     {
       id: 89,
@@ -1622,7 +1332,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/66bd939ad7010829ab65a6aaf28c9a96.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Pokemon%20-%20Emerald%20Version%20%28USA%2C%20Europe%29.gba",
-      favorite: false,
+      sinopsis: "Pokémon Emerald Version is a sister game to Pokémon Ruby and Sapphire. Emerald Version provided the main storyline with more depth and length, as well as making small aesthetic changes to the world and adding unique animations for each Pokémon."
     },
     {
       id: 90,
@@ -1637,7 +1347,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/fca4c59fd05e82348d82e41f72911993.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Pokemon%20-%20FireRed%20Version%20%28USA%2C%20Europe%29%20%28Rev%201%29.gba",
-      favorite: false,
+      sinopsis: "As the first remakes in the Pokémon franchise, the games revisit the original pair of Pokémon games, Pokémon Red and Green Versions, and so feature all of the characters, plot elements, and challenges of them, but with several important upgrades to bring them up to speed with other Generation III games."
     },
     {
       id: 91,
@@ -1652,7 +1362,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/97c81649fa58303996aaf556b17043ca.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Pokemon%20Mystery%20Dungeon%20-%20Red%20Rescue%20Team%20%28USA%2C%20Australia%29.gba",
-      favorite: false,
+      sinopsis: "You, a regular human, find yourself trapped in the body of a Pokémon in a world inhabited by Pokémon. Without any other choice, you go on rescue missions through randomly generated dungeons with your newly-acquired partner and friend to save the world and get back to your human life."
     },
     {
       id: 92,
@@ -1667,7 +1377,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/2782a1d5af12f430289b3d1db5218e1c.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Power%20Rangers%20-%20Dino%20Thunder%20%28USA%2C%20Europe%29.gba",
-      favorite: false,
+      sinopsis: "A Power Rangers action game based on the latest iteration of the series featuring dinosaur Zords. Whenever Dinos threaten mankind, count on the Power Rangers to be there! With more than 20 levels and loads of puzzles and action, Power Rangers: Dino Thunder will give fans of the action team plenty to shout about. Released ahead of its console cousins, Power Rangers: Dino Thunder mixes puzzles and action for a unique brand of gameplay. Use special attacks and weapon power-ups to beat the competition and collect Dino Gems to control the Dino Zords."
     },
     {
       id: 93,
@@ -1682,7 +1392,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/abd9d609346bb9043efb0b93aab2cedb.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Power%20Rangers%20-%20Wild%20Force%20%28USA%2C%20Europe%29.gba",
-      favorite: false,
+      sinopsis: "In Power Rangers Wild Force for Game Boy Advance, young gamers will play as their favorite Power Ranger, this time armed with the strength and characteristics of the Power Animals including the Bison, Tiger, Shark, Eagle and Lion. The top-down, 3D exploration adventure allows players to take on the Org, an ancient race of villains who are out to destroy the balance of nature."
     },
     {
       id: 94,
@@ -1697,7 +1407,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/c4211b6fddf7ddf821087989ae514550.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Prince%20of%20Persia%20-%20The%20Sands%20of%20Time%20%28USA%29%20%28En%2CFr%2CEs%29.gba",
-      favorite: false,
+      sinopsis: "The Sands of Time, developed internally at Ubisoft Montreal, successfully captures the mechanics of the original platformer and extends it to the 3D generation. An earlier attempt by The Learning Company to transfer the game to 3D (Prince of Persia 3D) was released in 1999, but despite its initial good reception failed to sell enough and the company responsible for the original trilogy was already closing doors. The game was praised for its visual design, finely tuned game mechanics and intriguing storyline, winning the game several awards."
     },
     {
       id: 95,
@@ -1712,7 +1422,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/7c3349793d7221d1d89a6f9853009048.jpg",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Rayman%20Advance%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
-      favorite: false,
+      sinopsis: "Rayman Advance is a GBA game. It is basically a port of Rayman 1, however bears some minor changes. The evil Mr. Dark has stolen the Great Protoon, kidnapped all of the Electoons and defeated Betilla the Fairy. Rayman has to travel through 5 worlds before finally meeting up with Mr Dark and defeating him."
     },
     {
       id: 96,
@@ -1727,7 +1437,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/5e7d82fb40873235efb87212f67b1181.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Riviera%20-%20The%20Promised%20Land%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "In Riviera: The Promised Land, you'll follow two fierce warriors--each armed with godly weapons--in a mission to defeat demons once and for all. The adventure included lets you experience more than 30 hours of role-playing gameplay, complete with minigames, multiple endings, and secret paths and items. The game's unique item system allows items to function differently depending on which characters equip them."
     },
     {
       id: 97,
@@ -1742,7 +1452,7 @@ let games = {
       background:
         "",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Shaman%20King%20-%20Master%20of%20Spirits%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Shaman King: Master of Spirits is an Action Adventure game, developed by KCEJ and published by Konami, which was released in 2004."
     },
     {
       id: 98,
@@ -1757,7 +1467,7 @@ let games = {
       background:
         "",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Shaman%20King%20-%20Master%20of%20Spirits%202%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Sequel to the original Shaman King: Master of Spirits, you once again take the role of Yoh Asakura as you attempt to save all your friends and fellow shamans from Zeke's Fire Spirit, who is devouring the soul of everyone in Dobie Village, where the Shaman Tournament is to take place."
     },
     {
       id: 99,
@@ -1772,7 +1482,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/897f32f21090e0f077c7a4dc93a47994.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Shining%20Soul%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Enter a world of magic and mystery, where your closest allies may sometimes turn out to be your worst enemies. Shining Soul puts you in the middle of a desperate struggle between the Dark Dragon and a group of warriors known as the Shining Fleet. In the final stage of the war, you can play one of four character classes: fighter, wizard, archer, or dragonute. Customize your character's color schemes, weapons, and armor, and then explore the world of Shining Soul either alone or with three of your friends."
     },
     {
       id: 100,
@@ -1787,7 +1497,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/4fa0a0925c9527b40fb2353fc03e2bf0.jpg",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Shining%20Soul%20II%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "As monsters begin to appear in the kingdom Klantol, King Marcel announces a grand tournament at the coliseum to find a hero that can protect the country. Now, as a mighty Brawler, Priestess, Dark Wizard, or Ninja, you must accept the king's challenge. Each character has certain strengths and weaknesses that can mean the difference between victory and defeat in single-player, multiplayer, or cooperative multiplayer modes. In addition to valuable weapons and armor, you can equip your party with Force Links, which, when combined, create a Shining Force--a powerful weapon capable of decimating the enemy forces."
     },
     {
       id: 101,
@@ -1802,7 +1512,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ee228bd5b36762c84cd0641eb267440b.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Simpsons%2C%20The%20-%20Road%20Rage%20%28USA%2C%20Europe%29.gba",
-      favorite: false,
+      sinopsis: "The Simpsons: Road Rage is similar to Sega's 1999 video game Crazy Taxi, in that the main objective is to drive picked up passengers to their destinations as quickly as possible. The player receives money upon successfully dropping off each passenger, and bonuses are obtained when they are transported in a short amount of time. Players have to avoid certain hurdles, such as other vehicles and Burns' nuclear transit buses."
     },
     {
       id: 102,
@@ -1817,7 +1527,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/185c29dc24325934ee377cfda20e414c.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Sims%202%2C%20The%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.gba",
-      favorite: false,
+      sinopsis: "The Sims 2 for Nintendo DS is the first DS game of The Sims 2. Like the many of the console games it takes place in Strangetown with some of the same faces.The aim of the game is to improve the hotel by adding extensions, furnishing rooms, completing goals, rescue guests or help them find missing objects and keeping the hotel clean."
     },
     {
       id: 103,
@@ -1832,7 +1542,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f05fb18fe7e5de0657e22a1dbd2e3b40.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Sonic%20Advance%202%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.gba",
-      favorite: false,
+      sinopsis: "Sonic returns for a second outing on the Game Boy Advance. Once again, Sonic is called upon to save the world from the evil Dr. Eggman. On this occasion, Sonic is joined by friends Tails, Knuckles and Cream the Rabbit, the latest addition to the Sonic team. Each comes with a set of unique moves, allowing you to reach certain areas through-out the levels. However, unlike Sonic Advance, you must complete the game as Sonic to unlock the other characters."
     },
     {
       id: 104,
@@ -1847,7 +1557,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/fd6c128733fc1d31f48a431ee6dfe1bc.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Sonic%20Advance%203%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.gba",
-      favorite: false,
+      sinopsis: "Sonic is back, and this time, he needs the help of all of his friends to defeat the evil Dr. Eggman. In Sonic Advance 3, Sonic and Tails must reunite with their friends Cream, Knuckles, and Amy. Team up with any of the five characters to gain special attack moves: Sonic increases your speed, Tails increases your jump power, Knuckles increases your attack power, Amy offers the Piko Piko hammer attack, and Cream lets you perform a homing attack. With a Game Boy Advance link, you and three of your friends can battle it out in multiplayer modes."
     },
     {
       id: 105,
@@ -1862,7 +1572,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/d22f334e09ef49c292cccb0614f2240f.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/SpongeBob%20SquarePants%20Movie%2C%20The%20%28USA%29%20%28Beta%202%29.gba",
-      favorite: false,
+      sinopsis: "On a heroic, comedic quest through more than 20 levels of platform, driving and sliding action, SpongeBob and Patrick leave Bikini Bottom and journey to new and unexplored lands. Players join their struggle to defeat Plankton's diabolic scheme to take over the world...Plan Z! Plankton has stolen King Neptune's crown and assumed control of the town of Bikini Bottom, placing the blame squarely on Mr. Krabs. Together, SpongeBob and Patrick must journey to far away Shell City to recover the crown, return to Bikini Bottom and save the town and Mr. Krabs."
     },
     {
       id: 106,
@@ -1877,7 +1587,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/a732804c8566fc8f498947ea59a841f8.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Star%20Wars%20-%20Episode%20III%20-%20Revenge%20of%20the%20Sith%20%28USA%29%20%28En%2CFr%2CEs%29.gba",
-      favorite: false,
+      sinopsis: "Third-person action/adventure game, Star Wars: Episode III, delivers the ultimate Jedi action experience as Anakin Skywalker and Obi-Wan Kenobi join forces in fierce battles and heroic lightsaber duels until one's lust for power and the other's devotion to duty leads to a final confrontation between good and evil."
     },
     {
       id: 107,
@@ -1892,7 +1602,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/7492e3f46428d17c5be5a83f588ef72a.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Star%20Wars%20Trilogy%20-%20Apprentice%20of%20the%20Force%20%28USA%29%20%28En%2CFr%2CEs%29.gba",
-      favorite: false,
+      sinopsis: "For the first time, the legendary Star Wars movie trilogy arrives on Game Boy Advance. Players will experience the most exciting and memorable scenes from Star Wars: A New Hope, The Empire Strikes Back, and Return of the Jedi."
     },
     {
       id: 108,
@@ -1907,7 +1617,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/e0854e3c03ec877be65d351b90680d46.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Street%20Fighter%20Alpha%203%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Street Fighter Alpha 3, the third game in the Alpha series, has a total of 31 fighters, the most in the series so far. New characters include old favorites E. Honda, Blanka, Vega, Cammy, T. Hawk, Dee Jay, Juni and Juli. Some of the newest fighters on the block include a former Final Fight character (Cody, who has been in jail since the last Final Fight game, or so his clothing suggests), Karin Kanzuki and Rainbow Mika. The major difference between this Alpha and the last two are the new play modes World Tour, Arcade, VS, Training and Entry."
     },
     {
       id: 109,
@@ -1922,7 +1632,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ac71e0079799a57cc6616312cbbbaf84.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Super%20Mario%20Advance%202%20-%20Super%20Mario%20World%20%28USA%2C%20Australia%29.gba",
-      favorite: false,
+      sinopsis: "Super Mario Advance is a four-part series for the GBA with Super Mario games of the NES and SNES era. The remakes came with adjusted graphics, sound and additional content. Each game of the series includes additionally the arcade-classic Mario Bros which can be played in multiplayer via link cable."
     },
     {
       id: 110,
@@ -1937,7 +1647,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/70df6d144f02d41e9388530058772c1f.jpg",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Super%20Mario%20Advance%203%20-%20Yoshi%27s%20Island%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Super Mario Advance is a four-part series for the GBA with Super Mario games of the NES and SNES era. The remakes came with adjusted graphics, sound and additional content. Each game of the series includes additionally the arcade-classic Mario Bros which can be played in multiplayer via link cable."
     },
     {
       id: 111,
@@ -1952,7 +1662,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6198ed1975c468435895c54b1c19be2d.jpg",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Super%20Street%20Fighter%20II%20Turbo%20-%20Revival%20%28USA%29.gba",
-      favorite: false,
+      sinopsis: "Capcom's timeless Street Fighter masterpiece conquers the Game Boy Advance system. Choose from over 16 brawlers from the Street Fighter universe and execute special moves, and super combos to wreak havoc on your opponent and become the best street fighter in the world. Lightning fast animation, unbelievable graphics and Capcom's signature gameplay make Super Street Fighter II Turbo the most respected fighting game of all time."
     },
     {
       id: 112,
@@ -1967,7 +1677,7 @@ let games = {
       background:
         "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/92420e6fbfb1ab3ecd4bc48b3bfe904b.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Sword%20of%20Mana%20%28USA%2C%20Australia%29.gba",
-      favorite: false,
+      sinopsis: "The location of the Mana Tree - wellspring of all life - has long been lost to legend. Many centuries have passed, and the Granz Realm's Dark Lord is searching for the secrets of the ancient tree so that he can control the source of Mana. Now, a young hero and heroine must come together to defeat the evil that threatens both the mystical tree and the world itself."
     },
     {
       id: 113,
