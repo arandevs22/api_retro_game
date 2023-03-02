@@ -60,7 +60,7 @@ let channels = [
         title: "ADN 40",
         reference: "go:tv09",
         genre: "peliculas",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/fx.jpg"
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/adn_40.jpg"
     },
 ]
 
