@@ -529,7 +529,7 @@ let channels = [
         title: "Discovery ID",
         reference: "go:tv76",
         genre: "cultura",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/discovey_id.jpg"
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/discovery_id.jpg"
     },
     {
         id: 77,
