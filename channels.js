@@ -67,7 +67,7 @@ let channels = [
         title: "Antena 3",
         reference: "go:tv10",
         genre: "entretenimiento",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/anterna_3.jpg"
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/antena_3.jpg"
     },
     {
         id: 11,
@@ -95,7 +95,7 @@ let channels = [
         title: "Cinecanal",
         reference: "go:tv14",
         genre: "peliculas",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/cinecanal.jpg"
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/cinecanalidad.jpg"
     },
     {
         id: 15,
@@ -130,7 +130,7 @@ let channels = [
         title: "History Channel",
         reference: "go:tv19",
         genre: "cultura",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/cultura.jpg"
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/history_channel.jpg"
     },
     {
         id: 20,
@@ -197,7 +197,7 @@ let channels = [
     },
     {
         id: 29,
-        title: "Warnel",
+        title: "Warner",
         reference: "go:tv29",
         genre: "entretenimiento",
         logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/warner.jpg"
@@ -208,6 +208,146 @@ let channels = [
         reference: "go:tv30",
         genre: "entretenimiento",
         logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/multimedios.jpg"
+    },
+    {
+        id: 31,
+        title: "Distrito Comedia",
+        reference: "go:tv31",
+        genre: "comedia",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/distrito_comedia.jpg"
+    },
+    {
+        id: 32,
+        title: "Nu9ve",
+        reference: "go:tv32",
+        genre: "entretenimiento",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/nueve.jpg"
+    },
+    {
+        id: 33,
+        title: "Comedy Central",
+        reference: "go:tv33",
+        genre: "comedia",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/comedy_central.jpg"
+    },
+    {
+        id: 34,
+        title: "El Gourmet",
+        reference: "go:tv34",
+        genre: "cultura",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/el_gourmet.jpg"
+    },
+    {
+        id: 35,
+        title: "Food Network",
+        reference: "go:tv35",
+        genre: "cultura",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/food_network.jpg"
+    },
+    {
+        id: 36,
+        title: "Hola TV",
+        reference: "go:tv36",
+        genre: "entretenimiento",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/hola_tv.jpg"
+    },
+    {
+        id: 37,
+        title: "LifeTime",
+        reference: "go:tv37",
+        genre: "entretenimiento",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/lifetime.jpg"
+    },
+    {
+        id: 38,
+        title: "MTV",
+        reference: "go:tv38",
+        genre: "musica",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/mtv.jpg"
+    },
+    {
+        id: 39,
+        title: "MTV Live",
+        reference: "go:tv39",
+        genre: "musica",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/mtv_live.jpg"
+    },
+    {
+        id: 40,
+        title: "Space",
+        reference: "go:tv40",
+        genre: "peliculas",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/spaces.jpg"
+    },
+    {
+        id: 41,
+        title: "SyFy",
+        reference: "go:tv41",
+        genre: "peliculas",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/syfy.jpg"
+    },
+    {
+        id: 42,
+        title: "Telehit",
+        reference: "go:tv42",
+        genre: "musica",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/telehit.jpg"
+    },
+    {
+        id: 43,
+        title: "TNT",
+        reference: "go:tv43",
+        genre: "peliculas",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/tnt.jpg"
+    },
+    {
+        id: 44,
+        title: "TNT Series",
+        reference: "go:tv44",
+        genre: "peliculas",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/tnt_series.jpg"
+    },
+    {
+        id: 45,
+        title: "Tru TV",
+        reference: "go:tv45",
+        genre: "entretenimiento",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/tru_tv.jpg"
+    },
+    {
+        id: 46,
+        title: "Unicable",
+        reference: "go:tv46",
+        genre: "entretenimiento",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/unicable.jpg"
+    },
+    {
+        id: 47,
+        title: "MTV Hits",
+        reference: "go:tv47",
+        genre: "musica",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/mtv_hits.jpg"
+    },
+    {
+        id: 48,
+        title: "E!",
+        reference: "go:tv48",
+        genre: "entretenimiento",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/e.jpg"
+    },
+    {
+        id: 49,
+        title: "TUDN",
+        reference: "go:tv49",
+        genre: "deportes",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/tudn.jpg"
+    },
+    {
+        id: 50,
+        title: "FOX SPORTS 2",
+        reference: "go:tv50",
+        genre: "deportes",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/fox_sports_2.jpg"
     },
 
 ]
