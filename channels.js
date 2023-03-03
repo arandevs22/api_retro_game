@@ -433,6 +433,197 @@ let channels = [
         genre: "cultura",
         logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/turbo.jpg"
     },
+    {
+        id: 63,
+        title: "ESPN 3",
+        reference: "go:tv63",
+        genre: "deportes",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/espn_3.jpg"
+    },
+    {
+        id: 64,
+        title: "AYM Sports",
+        reference: "go:tv64",
+        genre: "deportes",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/aym_sports.jpg"
+    },
+    {
+        id: 65,
+        title: "WOBI",
+        reference: "go:tv65",
+        genre: "noticias",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/wobi.jpg"
+    },
+    {
+        id: 66,
+        title: "TCM",
+        reference: "go:tv66",
+        genre: "peliculas",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/tcm.jpg"
+    },
+    {
+        id: 67,
+        title: "FOX SPORTS",
+        reference: "go:tv67",
+        genre: "deportes",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/fox_sports.jpg"
+    },
+    {
+        id: 68,
+        title: "Baby TV",
+        reference: "go:tv68",
+        genre: "infantiles",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/baby_tv.jpg"
+    },
+    {
+        id: 69,
+        title: "TeleFormula",
+        reference: "go:tv69",
+        genre: "noticias",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/teleformula.jpg"
+    },
+    {
+        id: 70,
+        title: "Universal",
+        reference: "go:tv70",
+        genre: "peliculas",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/universal.jpg"
+    },
+    {
+        id: 71,
+        title: "De Pelicula",
+        reference: "go:tv71",
+        genre: "peliculas",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/de_pelicula.webp"
+    },
+    {
+        id: 72,
+        title: "Discovery Theater",
+        reference: "go:tv72",
+        genre: "cultura",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/theater.jpg"
+    },
+    {
+        id: 73,
+        title: "Discovery Science",
+        reference: "go:tv73",
+        genre: "cultura",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/discovery_science.jpg"
+    },
+    {
+        id: 74,
+        title: "Golden Plus",
+        reference: "go:tv74",
+        genre: "peliculas",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/golde_plus.jpg"
+    },
+    {
+        id: 75,
+        title: "FOX SPORTS 3",
+        reference: "go:tv75",
+        genre: "deportes",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/fox_sports_3.jpg"
+    },
+    {
+        id: 76,
+        title: "Discovery ID",
+        reference: "go:tv76",
+        genre: "cultura",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/discovey_id.jpg"
+    },
+    {
+        id: 77,
+        title: "H2",
+        reference: "go:tv77",
+        genre: "cultura",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/h2.jpg"
+    },
+    {
+        id: 78,
+        title: "Mas Chic",
+        reference: "go:tv78",
+        genre: "cultura",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/mas_chic.jpg"
+    },
+    {
+        id: 79,
+        title: "MTV 80s",
+        reference: "go:tv79",
+        genre: "musica",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/mtv_80s.jpg"
+    },
+    {
+        id: 80,
+        title: "TVC Deportes",
+        reference: "go:tv80",
+        genre: "deportes",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/tvc_deportes.jpg"
+    },
+    {
+        id: 81,
+        title: "ONCE TV",
+        reference: "go:tv81",
+        genre: "cultura",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/once_tv.jpg"
+    },
+    {
+        id: 82,
+        title: "Garage TV",
+        reference: "go:tv82",
+        genre: "cultura",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/garage_tv.jpg"
+    },
+    {
+        id: 83,
+        title: "Glitz",
+        reference: "go:tv83",
+        genre: "entretenimiento",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/glitz.jpg"
+    },
+    {
+        id: 84,
+        title: "TBS",
+        reference: "go:tv84",
+        genre: "peliculas",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/tbs.jpg"
+    },
+    {
+        id: 85,
+        title: "Discovery World",
+        reference: "go:tv85",
+        genre: "cultura",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/discovery_world.jpg"
+    },
+    {
+        id: 86,
+        title: "Cinemax",
+        reference: "go:tv86",
+        genre: "peliculas",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/cinemax.jpg"
+    },
+    {
+        id: 87,
+        title: "Telehit Plus",
+        reference: "go:tv87",
+        genre: "musica",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/telehit_plus.jpg"
+    },
+    {
+        id: 88,
+        title: "Univision",
+        reference: "go:tv88",
+        genre: "entretenimiento",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/univision.jpg"
+    },
+    {
+        id: 89,
+        title: "Tlnovelas",
+        reference: "go:tv89",
+        genre: "novelas",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/tlnovelas.jpg"
+    },
+
+
 
 
 ]
