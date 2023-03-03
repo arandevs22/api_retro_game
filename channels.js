@@ -403,15 +403,30 @@ let channels = [
         title: "Films & Arts",
         reference: "go:tv58",
         genre: "peliculas",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/film_arts.jpg"
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/films_arts.jpg"
     },
     {
         id: 59,
         title: "Morbido TV",
         reference: "go:tv59",
         genre: "peliculas",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/morbido_tv.jpg"
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/morbido.jpg"
     },
+    {
+        id: 60,
+        title: "DW",
+        reference: "go:tv60",
+        genre: "noticias",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/dw.jpg"
+    },
+    {
+        id: 61,
+        title: "Bloomberg TV",
+        reference: "go:tv61",
+        genre: "noticias",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/bloomberg.jpg"
+    },
+
 
 ]
 
