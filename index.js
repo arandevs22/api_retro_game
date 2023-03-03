@@ -30,6 +30,17 @@ app.get("/api/games/game-boy-advance/:genre", (req, res) => {
   }
   res.send(JSON.stringify(resultados));
 });
+app.get("/api/games/game-boy-advance/:year", (req, res) => {
+  const year = req.params.year;
+  const resultados = games.gameboyadvance.filter(
+    (game) => game.year === year
+  );
+
+  if (resultados.length === 0) {
+    return res.status(404).send(`No se encontraron juegos ${year}`);
+  }
+  res.send(JSON.stringify(resultados));
+});
 
 app.get("/api/games/game-boy-advance", (req, res) => {
   res.send(JSON.stringify(games.gameboyadvance));
