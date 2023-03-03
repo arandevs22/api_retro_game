@@ -30,7 +30,8 @@ app.get("/api/games/game-boy-advance/:genre", (req, res) => {
   }
   res.send(JSON.stringify(resultados));
 });
-app.get("/api/games/game-boy-advance/:year", (req, res) => {
+
+app.get("/api/games/game-boy-advance/year/:year", (req, res) => {
   const year = req.params.year;
   const resultados = games.gameboyadvance.filter(
     (game) => game.year === year
