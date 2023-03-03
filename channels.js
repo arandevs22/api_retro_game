@@ -67,7 +67,7 @@ let channels = [
         title: "Antena 3",
         reference: "go:tv10",
         genre: "entretenimiento",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/antena_3.jpg"
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/antena_3.png"
     },
     {
         id: 11,
@@ -95,7 +95,7 @@ let channels = [
         title: "Cinecanal",
         reference: "go:tv14",
         genre: "peliculas",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/cinecanalidad.jpg"
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/cinecalidad.jpg"
     },
     {
         id: 15,
@@ -277,7 +277,7 @@ let channels = [
         title: "Space",
         reference: "go:tv40",
         genre: "peliculas",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/spaces.jpg"
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/space.jpg"
     },
     {
         id: 41,
@@ -348,6 +348,69 @@ let channels = [
         reference: "go:tv50",
         genre: "deportes",
         logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/fox_sports_2.jpg"
+    },
+    {
+        id: 51,
+        title: "ESPN 2",
+        reference: "go:tv51",
+        genre: "deportes",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/espn_2.jpg"
+    },
+    {
+        id: 52,
+        title: "FOX SPORTS PREMIUM",
+        reference: "go:tv52",
+        genre: "deportes",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/fox_sports_premium.jpg"
+    },
+    {
+        id: 53,
+        title: "MTV 00s",
+        reference: "go:tv53",
+        genre: "musica",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/mtv_00.jpg"
+    },
+    {
+        id: 54,
+        title: "Canal 5",
+        reference: "go:tv54",
+        genre: "entretenimiento",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/canal_5.jpg"
+    },
+    {
+        id: 55,
+        title: "A&E",
+        reference: "go:tv55",
+        genre: "entretenimiento",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/ae.jpg"
+    },
+    {
+        id: 56,
+        title: "A3 Series",
+        reference: "go:tv56",
+        genre: "peliculas",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/atres_series.jpg"
+    },
+    {
+        id: 57,
+        title: "ISAT",
+        reference: "go:tv57",
+        genre: "peliculas",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/isat.jpg"
+    },
+    {
+        id: 58,
+        title: "Films & Arts",
+        reference: "go:tv58",
+        genre: "peliculas",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/film_arts.jpg"
+    },
+    {
+        id: 59,
+        title: "Morbido TV",
+        reference: "go:tv59",
+        genre: "peliculas",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/morbido_tv.jpg"
     },
 
 ]
