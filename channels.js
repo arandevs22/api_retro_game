@@ -4,7 +4,8 @@ let channels = [
         title: "Telemundo",
         reference: "go:tv01",
         genre: "entretenimiento",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/telemundo.jpg"
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/telemundo.jpg",
+        background: "https://ik.imagekit.io/hooplay/channels/10_telemundogeneric_1920x1080.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1677884648036"
     },
     {
         id: 2,

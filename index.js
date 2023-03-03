@@ -59,6 +59,20 @@ app.get("/api/channels", (req, res) => {
   res.send(channels);
 })
 
+app.get("/api/channels/genre/:genre", (req, res) => {
+  const genre = req.params.genre;
+  const resultados = channels.filter(
+    (channel) => channel.genre === genre
+  );
+
+  if (resultados.length === 0) {
+    return res.status(404).send(`No se encontraron juegos ${genre}`);
+  }
+  res.send(JSON.stringify(resultados));
+});
+
+
+
 
 const PORT = process.env.PORT || 3197;
 app.listen(PORT, () => console.log(`Escuchando en el puerto ${PORT}`));
