@@ -57,7 +57,15 @@ app.get("/api/games/game-boy-advance/id/:id", (req, res) => {
 
 app.get("/api/channels", (req, res) => {
   res.send(channels);
-})
+});
+
+app.get("/api/channels/id/:id", (req, res) => {
+  const channel = channels.find(
+    (c) => c.id === parseInt(req.params.id)
+  );
+  if (!channel) return res.status(404).send("Juego no encontrado");
+  else res.send(channel);
+});
 
 app.get("/api/channels/genre/:genre", (req, res) => {
   const genre = req.params.genre;
