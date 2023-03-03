@@ -417,7 +417,7 @@ let channels = [
         title: "DW",
         reference: "go:tv60",
         genre: "noticias",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/dw.jpg"
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/dw_espanol.jpg"
     },
     {
         id: 61,
@@ -425,6 +425,13 @@ let channels = [
         reference: "go:tv61",
         genre: "noticias",
         logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/bloomberg.jpg"
+    },
+    {
+        id: 62,
+        title: "Discovery Turbo",
+        reference: "go:tv62",
+        genre: "cultura",
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/turbo.jpg"
     },
 
 
