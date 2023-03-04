@@ -4,8 +4,9 @@ let channels = [
         title: "Telemundo",
         reference: "go:tv01",
         genre: "entretenimiento",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/telemundo.jpg",
-        background: "https://ik.imagekit.io/hooplay/channels/10_telemundogeneric_1920x1080.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1677884648036"
+        logo: "https://ik.imagekit.io/hooplay/o/hoo-play%2Fimagenes%2Fcanales%2Flogos%2Ftelemundo.jpg?alt=media&token=c1c23d46-cac3-4d48-8390-10a5f9ddfa65",
+        background: "https://ik.imagekit.io/hooplay/o/hoo-play%2Fimagenes%2Fcanales%2Flogos%2Ftelemundo_back.jpg?alt=media&token=c1c23d46-cac3-4d48-8390-10a5f9ddfa65",
+        sinopsis: "Telemundo es una cadena de televisión estadounidense que transmite en idioma español propiedad de Comcast a través de NBC Universal."
     },
     {
         id: 2,
@@ -467,7 +468,7 @@ let channels = [
         title: "FOX SPORTS",
         reference: "go:tv67",
         genre: "deportes",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/fox_sports.jpg"
+        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/fox_deportes.jpg"
     },
     {
         id: 68,
