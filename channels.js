@@ -197,7 +197,7 @@ let channels = [
         reference: "go:tv25",
         genre: "infantiles",
         img: "nick",
-        sinopsis: "Nick Jr. proporciona programas educativos y entretenidos para animar a los preescolares a aprender, jugar y divertirse."
+        sinopsis: "Nickelodeon es un canal de televisión por suscripción infantil y juvenil estadounidense propiedad de Paramount Global, dirigido principalmente a los niños, preadolescentes y adolescentes."
     },
     {
         id: 26,
@@ -452,7 +452,7 @@ let channels = [
         title: "ISAT",
         reference: "go:tv57",
         genre: "peliculas",
-        img: "peliculas",
+        img: "isat",
         sinopsis: "I.Sat es un canal de televisión por suscripción latinoamericano con sede en Argentina, propiedad de Warner Bros. Discovery y operado por Warner Bros. Discovery Americas, especializado en cine independiente, cortos, documentales y series. El canal está orientado al público de jóvenes-adultos (14 a 49 años) y urbano."
     },
     {
@@ -572,7 +572,7 @@ let channels = [
         title: "Discovery Theater",
         reference: "go:tv72",
         genre: "documentales",
-        img: " theater",
+        img: "theater",
         sinopsis: "Discovery Theater es un canal de televisión por suscripción latinoamericano en alta definición de origen estadounidense, propiedad de Warner Bros. Discovery. Su programación se basa en la ciencia y la cultura."
     },
     {
@@ -692,7 +692,7 @@ let channels = [
         title: "Telehit Plus",
         reference: "go:tv87",
         genre: "musica",
-        img: "telehit_plus",
+        img: "telehit",
         sinopsis: "Telehit Música Plus es la señal en alta definición con programación diferente a la señal en resolución estándar. Inició sus transmisiones bajo el nombre de Telehit HD el 15 de agosto de 2014 en señal de pruebas y se inició oficialmente el 1 de septiembre a las 2:00 p.m. (horario de México)."
     },
     {
