@@ -4,8 +4,7 @@ let channels = [
         title: "Telemundo",
         reference: "go:tv01",
         genre: "entretenimiento",
-        logo: "telemundo",
-        background: "https://ik.imagekit.io/hooplay/o/hoo-play%2Fimagenes%2Fcanales%2Flogos%2Ftelemundo_back.jpg?alt=media&token=c1c23d46-cac3-4d48-8390-10a5f9ddfa65",
+        img: "telemundo",
         sinopsis: "Telemundo es una cadena de televisión estadounidense que transmite en idioma español propiedad de Comcast a través de NBC Universal."
     },
     {
@@ -13,8 +12,7 @@ let channels = [
         title: "Las Estrellas",
         reference: "go:tv02",
         genre: "entretenimiento",
-        logo: "las_estrellas",
-        background: "https://ik.imagekit.io/hooplay/o/hoo-play%2Fimagenes%2Fcanales%2Flogos%2Flas_estrellas_back.jpg?alt=media&token=c1c23d46-cac3-4d48-8390-10a5f9ddfa65",
+        img: "las_estrellas",
         sinopsis: "Las Estrellas es una cadena de televisión mexicana propiedad de TelevisaUnivision​ Su primera emisión oficial fue el 21 de marzo de 195."
     },
     {
@@ -22,8 +20,7 @@ let channels = [
         title: "Azteca 7",
         reference: "go:tv03",
         genre: "entretenimiento",
-        logo: "azteca_7",
-        background: "https://ik.imagekit.io/hooplay/o/hoo-play%2Fimagenes%2Fcanales%2Flogos%2Fazteca_back.jpg?alt=media&token=c1c23d46-cac3-4d48-8390-10a5f9ddfa65",
+        img: "azteca_siete",
         sinopsis: "Las Estrellas es una cadena de televisión mexicana propiedad de TelevisaUnivision​ Su primera emisión oficial fue el 21 de marzo de 195."
     },
     {
