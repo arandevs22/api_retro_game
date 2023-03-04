@@ -28,84 +28,96 @@ let channels = [
         title: "Bandamax",
         reference: "go:tv04",
         genre: "musica",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/bandamax.jpg"
+        img: "bandamax",
+        sinopsis: "Bandamax es un canal de televisión por suscripción latinoamericano de origen mexicano dedicado a la música regional mexicana. Su programación consiste en vídeos musicales, noticias y entrevistas con los representantes de este género. Es propiedad de TelevisaUnivision y operado por Televisa Networks."
     },
     {
         id: 5,
         title: "BitMe",
         reference: "go:tv05",
         genre: "infantiles",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/bitme.jpg"
+        img: "bitme",
+        sinopsis: "Bitme es un canal de televisión por suscripción latinoamericano, de origen mexicano, producido por Televisa Networks. Fue lanzado el 15 de julio de 2019, sustituyendo al canal Tiin"
     },
     {
         id: 6,
         title: "Cartoonito",
         reference: "go:tv06",
         genre: "infantiles",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/cartoonito.jpg"
+        img: "cartoonito",
+        sinopsis: "Cartoonito es un canal de televisión por suscripción latinoamericano de origen británico-estadounidense, operado por Warner Bros. Discovery Americas. La programación está dirigida a series de carácter preescolar y de jardines infantiles. Sus emisiones comenzaron el 1 de diciembre de 2021, en reemplazo de Boomerang"
     },
     {
         id: 7,
         title: "Cartoon Network",
         reference: "go:tv07",
         genre: "infantiles",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/cartoon_network.jpg"
+        img: "cartoon_network",
+        sinopsis: "Cartoon Network es un canal de televisión por suscripción estadounidense infantil centrado en series de animación para niños y adolescentes. Fue lanzado el 1 de octubre de 1992 por Betty Cohen y es propiedad de The Cartoon Network Inc, subsidiaria de Warner Bros. Discovery Networks, una división de Warner Bros."
     },
     {
         id: 8,
         title: "FX",
         reference: "go:tv08",
         genre: "peliculas",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/fx.jpg"
+        img: "fx",
+        sinopsis: "FX es un canal de televisión por suscripción estadounidense, propiedad de The Walt Disney Company a través de FX Networks, LLC. Su programación está orientada principalmente para el público adulto y adolescente. Entre sus contenidos destacan series de televisión, eventos deportivos y películas de acción."
     },
     {
         id: 9,
         title: "ADN 40",
         reference: "go:tv09",
         genre: "noticias",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/adn_40.jpg"
+        img: "adn_40",
+        sinopsis: "ADN 40 es una cadena de televisión abierta mexicana producida por TV Azteca con una programación de corte noticioso. La señal es producida principalmente para la estación XHTVM-TDT de la Ciudad de México, propiedad de Televisora del Valle de México."
     },
     {
         id: 10,
         title: "Antena 3",
         reference: "go:tv10",
         genre: "entretenimiento",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/antena_3.png"
+        img: "antena_3",
+        sinopsis: "Antena 3 es un canal de televisión español en abierto, propiedad de Atresmedia. Sus emisiones regulares comenzaron el 25 de enero de 1990."
     },
     {
         id: 11,
         title: "AXN",
         reference: "go:tv11",
         genre: "entretenimiento",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/axn.jpg"
+        img: "axn",
+        sinopsis: "AXN es un canal de televisión por suscripción latinoamericano de origen estadounidense, propiedad de Sony Pictures Entertainment y distribuido actualmente para la región por Ole Distribution, una empresa formada entre Ole Communications y Warner Bros. Discovery"
     },
     {
         id: 12,
         title: "Azteca UNO",
         reference: "go:tv12",
         genre: "entretenimiento",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/azteca_uno.jpg"
+        img: "azteca_uno",
+        sinopsis: "Azteca Uno es una cadena de televisión comercial de México, perteneciente a la empresa privada Televisión Azteca. Su programación, de corte generalista, está constituida principalmente por reality shows, noticieros, programas de variedad, concursos, películas y series"
     },
     {
         id: 13,
         title: "Animal Planet",
         reference: "go:tv13",
         genre: "cultura",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/animal_planet.jpg"
+        img: "animal_planet",
+        sinopsis: "El canal está dedicado a programación de la relación entre humanos y animales, es la señal hermana de Discovery. Está disponible en más de 70 países alrededor del mundo y posee versiones locales en países como Canadá, Reino Unido e India. El principal competidor es National Geographic Wild."
     },
     {
         id: 14,
         title: "Cinecanal",
         reference: "go:tv14",
         genre: "peliculas",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/cinecalidad.jpg"
+        img: "cinecalidad",
+        sinopsis: "Cinecanal es un canal de televisión por suscripción latinoamericano, inició sus transmisiones el 1 de abril de 1993. Es propiedad de The Walt Disney Company Latin America y operado por Disney Media Networks Latin America."
     },
     {
         id: 15,
         title: "Discovery Channel",
         reference: "go:tv15",
         genre: "cultura",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/discovery_channel.jpg"
+        img: "discovery_channel",
+        sinopsis: "Discovery Channel es el canal temático líder en contenidos de entretenimiento exclusivamente real. Discovery emite 24 horas al día contenidos de ciencia, tecnología, ingeniería, motor, aventura y culturas mundiales."
     },
     {
         id: 16,
