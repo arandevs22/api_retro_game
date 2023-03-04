@@ -404,273 +404,312 @@ let channels = [
         title: "ESPN 2",
         reference: "go:tv51",
         genre: "deportes",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/espn_2.jpg"
+        img: "espn_2",
+        sinopsis: "ESPN 2 es un canal de televisión por suscripción latinoamericano de origen estadounidense, especializado en deportes lanzado al aire en 1996 y dirigido para la audiencia de México, Centroamérica y República Dominicana."
     },
     {
         id: 52,
         title: "FOX SPORTS PREMIUM",
         reference: "go:tv52",
         genre: "deportes",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/fox_sports_premium.jpg"
+        img: "fox_sports_premium",
+        sinopsis: "Fox Sports Premium es un canal de televisión por suscripción prémium mexicano de origen estadounidense dedicado a la transmisión de eventos deportivos de pago por evento. Comenzó sus transmisiones el día 2 de abril de 2022 con la emisión del WrestleMania 38."
     },
     {
         id: 53,
         title: "MTV 00s",
         reference: "go:tv53",
         genre: "musica",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/mtv_00.jpg"
+        img: "mtv_00",
+        sinopsis: "MTV 00s (pronunciado como MTV Zeros, MTV Noughties o MTV Aughts) es un canal de televisión por suscripción que presenta videos musicales de la década de los 2000. Se emitió en modo de prueba del 29 de mayo al 22 de junio de 2020 en el Reino Unido, como un cambio de marca temporal de MTV OMG. Fue lanzado el 2 de agosto de 2021 en reemplazo de VH1 Europe."
     },
     {
         id: 54,
         title: "Canal 5",
         reference: "go:tv54",
-        genre: "entretenimiento",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/canal_5.jpg"
+        genre: "general",
+        img: "canal_5",
+        sinopsis: "Canal 5 (estilizado como 5*) es una cadena de televisión abierta mexicana con cobertura nacional, con sede en la Ciudad de México, perteneciente a TelevisaUnivision. Su estación principal es XHGC-TDT de la Ciudad de México, cuyo canal de frecuencias era el 5 de VHF (canal analógico). Actualmente, tiene asignado el canal virtual digital 5.1 (excepto XETV-TDT) en sus estaciones retransmisoras, propiedad de la filial de Grupo Televisa, Radio Televisión, S.A. de C.V."
     },
     {
         id: 55,
         title: "A&E",
         reference: "go:tv55",
-        genre: "entretenimiento",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/ae.jpg"
+        genre: "series",
+        img: "ae",
+        sinopsis: "A&E es un canal de televisión por suscripción latinoamericano de origen estadounidense, variante regional del canal original. Su programación se centraba en la emisión de biografías, documentales, y series (en especial de dramas, policiales y misterios), pero más tarde se expandió para incluir también telerrealidad. Tiene un alcance de 32 millones de hogares en Latinoamérica."
     },
     {
         id: 56,
         title: "A3 Series",
         reference: "go:tv56",
-        genre: "peliculas",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/atres_series.jpg"
+        genre: "series",
+        img: "atres_series",
+        sinopsis: "Atreseries Internacional es un canal de televisión por suscripción español, señal internacional del canal Atreseries, disponible en plataformas de televisión de pago de América, Europa y Oceanía. Sus emisiones regulares comenzaron el 1 de junio de 2014 y su programación consiste en la emisión de series de producción española. El 19 de enero de 2016 se renovó la identidad visual del canal para igualarla a su homólogo español."
     },
     {
         id: 57,
         title: "ISAT",
         reference: "go:tv57",
         genre: "peliculas",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/isat.jpg"
+        img: "peliculas",
+        sinopsis: "I.Sat es un canal de televisión por suscripción latinoamericano con sede en Argentina, propiedad de Warner Bros. Discovery y operado por Warner Bros. Discovery Americas, especializado en cine independiente, cortos, documentales y series. El canal está orientado al público de jóvenes-adultos (14 a 49 años) y urbano."
     },
     {
         id: 58,
         title: "Films & Arts",
         reference: "go:tv58",
-        genre: "peliculas",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/films_arts.jpg"
+        genre: "documentales",
+        img: "films_arts",
+        sinopsis: "Film & Arts (estilizado como film&arts) es un canal de televisión por suscripción latinoamericano de origen argentino dedicado al cine, la música, el teatro y otros espectáculos artísticos y culturales."
     },
     {
         id: 59,
         title: "Morbido TV",
         reference: "go:tv59",
         genre: "peliculas",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/morbido.jpg"
+        img: "morbido",
+        sinopsis: "Mórbido TV no es un canal de nicho, sino general, con una temática explícita, como el terror, el horror y la ciencia ficción."
     },
     {
         id: 60,
         title: "DW",
         reference: "go:tv60",
         genre: "noticias",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/dw_espanol.jpg"
+        img: "dw_espanol",
+        sinopsis: "DW Español (previamente conocido como DW Latinoamérica) es un canal de televisión por suscripción latinoamericano de origen alemán, filial de la cadena internacional Deutsche Welle para Latinoamérica. Su señal también se recibe en Estados Unidos, Brasil, y el Caribe."
     },
     {
         id: 61,
         title: "Bloomberg TV",
         reference: "go:tv61",
         genre: "noticias",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/bloomberg.jpg"
+        img: "bloomberg",
+        sinopsis: "Bloomberg Television es un canal internacional de televisión por suscripción de noticias estadounidense, que emite programación acerca de las últimas noticias sobre negocios, el cual es propiedad de Bloomberg L.P. Es distribuida internacionalmente, llegando a más de 310 millones de hogares alrededor del mundo. Sus oficinas centrales están basadas en la ciudad de Nueva York, junto con sedes en Londres, Mumbai y Hong Kong."
     },
     {
         id: 62,
         title: "Discovery Turbo",
         reference: "go:tv62",
-        genre: "cultura",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/turbo.jpg"
+        genre: "automovilismo",
+        img: "turbo",
+        sinopsis: "Discovery Turbo es un canal de televisión por suscripción de origen estadounidense, propiedad de Warner Bros. Discovery. Su programación se basa en programas relacionados con los vehículos (automóviles, motocicletas, trenes, barcos y aviones) y también sobre la ingeniería detrás de ellos y otras herramientas."
     },
     {
         id: 63,
         title: "ESPN 3",
         reference: "go:tv63",
         genre: "deportes",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/espn_3.jpg"
+        img: "espn_3",
+        sinopsis: "ESPN 3 es un canal de televisión por suscripción latinoamericano de origen estadounidense, lanzado el 14 de noviembre de 2011, que emite contenido deportivo."
     },
     {
         id: 64,
         title: "AYM Sports",
         reference: "go:tv64",
         genre: "deportes",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/aym_sports.jpg"
+        img: "aym_sports",
+        sinopsis: "AYM Sports, es un canal deportivo, que se trasmite por medio de la señal de cable en México, el cual difunde diferentes eventos deportivos tanto nacionales como internacionales, actualmente transmite la Segunda División de México y la Liga MX Sub-17 y Sub-20."
     },
     {
         id: 65,
         title: "WOBI",
         reference: "go:tv65",
         genre: "noticias",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/wobi.jpg"
+        img: "wobi",
+        sinopsis: "WOBI (World of Business Ideas) es un canal de televisión por suscripción creado por el Grupo HSM para reemplazar a ManagemenTV. Entró en operación el 1 de abril de 2012, siendo el primer canal de televisión del mundo dedicado al género de la administración. Su programación está basada en documentales, reality shows y entrevistas con las más destacadas personalidades del mundo de los negocios a nivel global."
     },
     {
         id: 66,
         title: "TCM",
         reference: "go:tv66",
         genre: "peliculas",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/tcm.jpg"
+        img: "tcm",
+        sinopsis: "TCM es un canal de televisión por suscripción latinoamericano de origen estadounidense. Es propiedad de Warner Bros. Discovery y es operado por Warner Bros. Discovery Americas, bajo la marca internacional Turner Classic Movies. Su programación está dirigida a un público de 35 años en adelante."
     },
     {
         id: 67,
         title: "FOX SPORTS",
         reference: "go:tv67",
         genre: "deportes",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/fox_deportes.jpg"
+        img: "fox_deportes",
+        sinopsis: "Fox Deportes (anteriormente Fox Sports en Español) es un canal de televisión por suscripción estadounidense de temática deportiva en español. Es propiedad de Fox Corporation y se encuentra dirigido a la comunidad hispana de Estados Unidos. Dentro de su programación, emite principalmente deportes como fútbol, béisbol, deporte de combate o automovilismo."
     },
     {
         id: 68,
         title: "Baby TV",
         reference: "go:tv68",
         genre: "infantiles",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/baby_tv.jpg"
+        img: "baby_tv",
+        sinopsis: "BabyTV es un canal de televisión por suscripción internacional para bebés, niños pequeños y padres, propiedad de Fox Networks Group, una subsidiaria de Walt Disney Direct-to-Consumer & International, en última instancia, propiedad de The Walt Disney Company Lanzado en 2003, BabyTV se distribuye en más de 100 países, transmitiendo en 18 idiomas (a partir de 2013)."
     },
     {
         id: 69,
         title: "TeleFormula",
         reference: "go:tv69",
         genre: "noticias",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/teleformula.jpg"
+        img: "teleformula",
+        sinopsis: "No hay información"
     },
     {
         id: 70,
         title: "Universal",
         reference: "go:tv70",
-        genre: "peliculas",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/universal.jpg"
+        genre: "series",
+        img: "universal",
+        sinopsis: "Universal TV (conocido como Universal) es un canal de televisión por suscripción latinoamericano de origen estadounidense. Su programación se compone de series, películas de los Estudios Universal y programas basados en la acción, el crimen, la investigación, el misterio, y el drama, además de series de comedia. Es propiedad del conglomerado NBCUniversal, y se encuentra operado por NBCUniversal International Networks y distribuido por Ole Distribution, una empresa formada entre Ole Communications y WarnerMedia (hoy Warner Bros. Discovery)."
     },
     {
         id: 71,
         title: "De Pelicula",
         reference: "go:tv71",
         genre: "peliculas",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/de_pelicula.webp"
+        img: "de_pelicula",
+        sinopsis: "De Película (estilizado como Dpelícula) es un canal de televisión por suscripción internacional de origen mexicano, propiedad de Televisa Networks, que está especializado en emitir películas del cine clásico mexicano, y también del nuevo cine mexicano, el cuál inició sus operaciones el 22 de enero del año 1990"
     },
     {
         id: 72,
         title: "Discovery Theater",
         reference: "go:tv72",
-        genre: "cultura",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/theater.jpg"
+        genre: "documentales",
+        img: " theater",
+        sinopsis: "Discovery Theater es un canal de televisión por suscripción latinoamericano en alta definición de origen estadounidense, propiedad de Warner Bros. Discovery. Su programación se basa en la ciencia y la cultura."
     },
     {
         id: 73,
         title: "Discovery Science",
         reference: "go:tv73",
-        genre: "cultura",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/discovery_science.jpg"
+        genre: "documentales",
+        img: "discovery_science",
+        sinopsis: "Discovery Science es un canal de televisión por suscripción producido por Warner Bros. Discovery. En Latinoamérica, Sureste Asiático, Europa y Australia se conoce como Discovery Science. Science Channel se caracteriza por transmitir programas de televisión (que fueron emitidos anteriormente en Discovery Channel) relacionado con la ciencia cubriendo todos los aspectos de la ciencia, como el espacio, tecnología, prehistoria y animal."
     },
     {
         id: 74,
         title: "Golden Plus",
         reference: "go:tv74",
         genre: "peliculas",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/golde_plus.jpg"
+        img: "golde_plus",
+        sinopsis: "El Canal Golden Plus es un canal de televisión que emite su programación en alta definición y cuenta con una programación distinta a la señal principal."
     },
     {
         id: 75,
         title: "FOX SPORTS 3",
         reference: "go:tv75",
         genre: "deportes",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/fox_sports_3.jpg"
+        img: "fox_sports_3",
+        sinopsis: "Fox Sports 3 es un canal de televisión por suscripción mexicano de origen estadounidense especializado en deportes. Fue lanzado el 5 de noviembre de 2012 en reemplazo de la variante latinoamericana de Speed. El canal es propiedad de Grupo Multimedia Lauman (bajo licencia de Fox Broadcasting Company)."
     },
     {
         id: 76,
-        title: "Discovery ID",
+        title: "Investigation Discovery",
         reference: "go:tv76",
-        genre: "cultura",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/discovery_id.jpg"
+        genre: "documentales",
+        img: "discovery_id",
+        sinopsis: "Investigation Discovery es un canal de televisión por suscripción, operado por Warner Bros. Discovery El canal ofrece programación con respecto a investigaciones criminales, principalmente las investigaciones de homicidios y otros documentales relacionados con delitos."
     },
     {
         id: 77,
         title: "H2",
         reference: "go:tv77",
-        genre: "cultura",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/h2.jpg"
+        genre: "documentales",
+        img: "h2",
+        sinopsis: "History 2 (o simplemente H2) es un canal de televisión por suscripción latinoamericano de origen estadounidense que emite documentales históricos con un enfoque internacional. Es el canal hermano de History."
     },
     {
         id: 78,
         title: "Mas Chic",
         reference: "go:tv78",
-        genre: "cultura",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/mas_chic.jpg"
+        genre: "estilos de vida",
+        img: "mas_chic",
+        sinopsis: "Más Chic es un canal de televisión por suscripción latinoamericano de origen argelino que opera para Latinoamérica y la comunidad hispana de Estados Unidos."
     },
     {
         id: 79,
         title: "MTV 80s",
         reference: "go:tv79",
         genre: "musica",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/mtv_80s.jpg"
+        img: "mtv_80s",
+        sinopsis: "MTV 80s es un canal de televisión por suscripción de carácter mundial, operado por Paramount International Networks que presenta videos musicales de la década de 1980. Comenzó a transmitirse como canal de televisión el 5 de octubre de 2020 en reemplazo de VH1 Classic Europe, luego de haber emitido en otras señales hermanas. Está disponible en Europa, Latinoamérica y Nueva Zelanda."
     },
     {
         id: 80,
         title: "TVC Deportes",
         reference: "go:tv80",
         genre: "deportes",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/tvc_deportes.jpg"
+        img: "tvc_deportes",
+        sinopsis: "TVC Deportes es un canal de televisión por suscripción mexicano, el cual emite programación deportiva tanto nacional como internacional; es propiedad de PCTV."
     },
     {
         id: 81,
         title: "ONCE TV",
         reference: "go:tv81",
-        genre: "cultura",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/once_tv.jpg"
+        genre: "cultural",
+        img: "once_tv",
+        sinopsis: "Canal 11 (estilizado desde el 21 de abril del 2019 como once) es una cadena de televisión pública mexicana, perteneciente al Instituto Politécnico Nacional (IPN). Su estación principal es XEIPN-TDT, localizada en la Ciudad de México. Inició sus transmisiones el 2 de marzo de 1959."
     },
     {
         id: 82,
         title: "Garage TV",
         reference: "go:tv82",
-        genre: "cultura",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/garage_tv.jpg"
+        genre: "automovilismo",
+        img: "garage_tv",
+        sinopsis: "El Garage TV es un canal de televisión por suscripción dedicado las 24 horas a programas relacionados con el automóvil, así como su historia, fabricantes legendarios, diferentes disciplinas deportivas, seguridad, novedades de la industria, actividad off-road, clasificados, mecánica, los grandes volantes de la historia, diseño industrial, eventos y turismo; además de ciclos especiales sobre motociclismo, aeronáutica y motonáutica."
     },
     {
         id: 83,
         title: "Glitz",
         reference: "go:tv83",
-        genre: "entretenimiento",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/glitz.jpg"
+        genre: "novelas",
+        img: "glitz",
+        sinopsis: "Glitz (estilizado como glitz*) es un canal de televisión por suscripción latinoamericano propiedad de Warner Bros. Discovery, enfocado en entretenimiento local para todo público de la audiencia latinoamericana, reúne los formatos y géneros más reconocidos de la televisión abierta."
     },
     {
         id: 84,
         title: "TBS",
         reference: "go:tv84",
         genre: "peliculas",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/tbs.jpg"
+        img: "tbs",
+        sinopsis: "TBS (previamente conocido como TBS Very Funny) es un canal de televisión por suscripción latinoamericano de origen estadounidense que emite series, programas y películas. Propiedad de Warner Bros. Discovery y operado por Warner Bros. Discovery Americas, fue lanzado el 1 de octubre de 2011."
     },
     {
         id: 85,
         title: "Discovery World",
         reference: "go:tv85",
-        genre: "cultura",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/discovery_world.jpg"
+        genre: "estilos de vida",
+        img: "discovery_world",
+        sinopsis: "Discovery World es un canal de televisión por suscripción latinoamericano de origen estadounidense, lanzado el 16 de marzo de 2015 en reemplazo de la señal original de TLC HD. Ofrece series, programas y documentales, incluyendo en su mayoría viajes y culinaria que en su mayoría fue movida a Food Network."
     },
     {
         id: 86,
         title: "Cinemax",
         reference: "go:tv86",
         genre: "peliculas",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/cinemax.jpg"
+        img: "cinemax",
+        sinopsis: "Cinemax es un canal de televisión por suscripción latinoamericano de origen estadounidense propiedad de Warner Bros. Discovery, y operado por Warner Bros. Discovery Americas. Fue lanzado al aire el 5 de septiembre de 1993 y es el único canal de HBO dentro de la categoría de canales básicos a nivel continental. Durante su antigua denominación, el canal se emitía como una señal pago por visión."
     },
     {
         id: 87,
         title: "Telehit Plus",
         reference: "go:tv87",
         genre: "musica",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/telehit_plus.jpg"
+        img: "telehit_plus",
+        sinopsis: "Telehit Música Plus es la señal en alta definición con programación diferente a la señal en resolución estándar. Inició sus transmisiones bajo el nombre de Telehit HD el 15 de agosto de 2014 en señal de pruebas y se inició oficialmente el 1 de septiembre a las 2:00 p.m. (horario de México)."
     },
     {
         id: 88,
         title: "Univision",
         reference: "go:tv88",
-        genre: "entretenimiento",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/univision.jpg"
+        genre: "general",
+        img: "univision",
+        sinopsis: "Univision es una cadena de televisión estadounidense en español, propiedad de TelevisaUnivision y operada por la filial Univision Communications. El canal está dedicado, principalmente, a la población hispanohablante de Estados Unidos, e incluye telenovelas y otras series dramáticas, deportes, comedias de situación, series de realidad y variedad, programación de noticias y largometrajes importados en español. Su principal competidor es Telemundo."
     },
     {
         id: 89,
         title: "Tlnovelas",
         reference: "go:tv89",
         genre: "novelas",
-        logo: "https://raw.githubusercontent.com/arandevs22/hoo_play/master/img/logos/tlnovelas.jpg"
+        img: "tlnovelas",
+        sinopsis: "Tlnovelas es un canal de televisión por suscripción internacional de origen mexicano enfocado en telenovelas. El canal posee tres señales, las cuales se distribuyen en Latinoamérica, Europa y los Estados Unidos respectivamente; esta última señal se encuentra disponible bajo el nombre de Univision Tlnovelas."
     },
 
 
