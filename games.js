@@ -8,11 +8,6 @@ let games = {
       genre: "shooter",
       title: "Metal slug Advance",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/29ab124d059e51600744303ec829069e.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/66410adefc38da1e9486483597c15518.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/20877befbd58c865e224346e6b92d772.jpg",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Metal%20Slug%20Advance%20%28U%29%20%281%29.gba",
       sinopsis: "Now you can have all the 2D arcade action of Metal Slug in the palm of your hand, because Metal Slug Advance has arrived on the Game Boy Advance. Through five action-packed missions, you must move out on foot or in slug vehicles across rugged terrain and underwater bases. Your objective is to rescue hostages by destroying enemies and solving strategic puzzles. Completing your missions becomes easier when you collect more than 100 types of E-cards, which enhance your character's abilities."
     },
