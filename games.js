@@ -9,8 +9,7 @@ let games = {
       title: "Metal slug Advance",
       year: "2004",
       logo: "1.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Metal%20Slug%20Advance%20%28U%29%20%281%29.gba",
-      sinopsis: "Now you can have all the 2D arcade action of Metal Slug in the palm of your hand, because Metal Slug Advance has arrived on the Game Boy Advance. Through five action-packed missions, you must move out on foot or in slug vehicles across rugged terrain and underwater bases. Your objective is to rescue hostages by destroying enemies and solving strategic puzzles. Completing your missions becomes easier when you collect more than 100 types of E-cards, which enhance your character's abilities."
+      sinopsis: "Ahora puedes tener toda la acción arcade 2D de Metal Slug en la palma de tu mano, porque Metal Slug Advance ha llegado a Game Boy Advance. A lo largo de cinco misiones llenas de acción, debes moverte a pie o en vehículos slug a través de terreno accidentado y bases submarinas. Tu objetivo es rescatar rehenes destruyendo enemigos y resolviendo acertijos estratégicos. Completar tus misiones se vuelve más fácil cuando recolectas más de 100 tipos de tarjetas electrónicas, que mejoran las habilidades de tu personaje."
     },
     {
       id: 2,
