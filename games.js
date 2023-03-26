@@ -130,13 +130,9 @@ let games = {
       genre: "deportes",
       title: "FIFA 07",
       year: "2006",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/2b906aeae02a498d65f341efa8687a22.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/1d075e2fdbc8e2e66a47b39a0652ce31.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/629091c3a8b9231787db45f601722ff6.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/FIFA%202007%20%23%20GBA.GBA",
-      sinopsis: "FIFA 07 (also known as FIFA Football 07 and FIFA 07 Soccer) is the 2006 edition of EA Sports' series of football simulator video games. Developed by EA Canada, it is published by Electronic Arts."
+      logo: "12.png",
+      rom: "https://dl.dropboxusercontent.com/s/juiotjyqazpw4rd/FIFA%202007%20%23%20GBA.GBA",
+      sinopsis: "FIFA 07 (también conocido como FIFA Football 07 y FIFA 07 Soccer) es la edición 2006 de la serie de videojuegos simuladores de fútbol de EA Sports. Desarrollado por EA Canadá, es publicado por Electronic Arts."
     },
     {
       id: 13,
@@ -145,13 +141,9 @@ let games = {
       genre: "rpg",
       title: "Final Fantasy VI Advance",
       year: "2006",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/2c45dac604567323aecb4f87467551f3.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/0993b7960f34c29b1fdb6516be27046f.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9229b4855f204052a1ee62f0a06f1cc9.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Final%20Fantasy%206%20Advance%20%23%20GBA.GBA",
-      sinopsis: "Final Fantasy VI Advance is more than a simple port of the SNES classic: every aspect of the games has been reviewed and enhanced. Additionally, a host of brand-new elements has been seamlessly merged with the original game, providing unexpected surprises for longtime fans. With new dungeons, new job classes, and other exciting features, both old-school players and newcomers can enjoy this genre-defining FINAL FANTASY title in a portable format."
+      logo: "13.png",
+      rom: "https://dl.dropboxusercontent.com/s/1v7zc4xqavxalcc/Final%20Fantasy%206%20Advance%20%23%20GBA.GBA",
+      sinopsis: "Final Fantasy VI Advance es más que un simple puerto del clásico SNES: todos los aspectos de los juegos han sido revisados y mejorados. Además, una gran cantidad de elementos nuevos se fusionaron a la perfección con el juego original, brindando sorpresas inesperadas para los fanáticos de toda la vida. Con nuevas mazmorras, nuevas clases de trabajo y otras características emocionantes, tanto los jugadores de la vieja escuela como los recién llegados pueden disfrutar de este título FINAL FANTASY que define el género en un formato portátil."
     },
     {
       id: 14,
@@ -160,13 +152,9 @@ let games = {
       genre: "rpg",
       title: "Final Fantasy IV Advance",
       year: "2005",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/7b5fb650c7bca123d83dd9cf7f7f9bca.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/a543c921889f9dcddaff0ce4ca955293.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/2ee21a186b613d4ae3f1d77dd07c8fef.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Final%20Fantasy%204%20Advance%20%23%20GBA.GBA",
-      sinopsis: "Final Fantasy IV Advance is largely based on the WonderSwan Color version. Some changes include the addition of character portraits in text boxes, the ability to switch party members, increased difficulty, and new dungeons with new items and weapons along with new bosses. The script received a re-translation more faithful to the original material. The Quicksave, which allows the player to save the current position (regardless of where) in a file that is deleted upon loading, is featured."
+      logo: "14.png",
+      rom: "https://dl.dropboxusercontent.com/s/fhe5te4xkgefhdg/Final%20Fantasy%204%20Advance%20%23%20GBA.GBA",
+      sinopsis: "Final Fantasy IV Advance se basa en gran medida en la versión WonderSwan Color. Algunos cambios incluyen la adición de retratos de personajes en cuadros de texto, la capacidad de cambiar de miembro del grupo, mayor dificultad y nuevas mazmorras con nuevos elementos y armas junto con nuevos jefes. El guión recibió una retraducción más fiel al material original. Se presenta Quicksave, que permite al jugador guardar la posición actual (sin importar dónde) en un archivo que se elimina al cargar."
     },
     {
       id: 15,
@@ -175,13 +163,9 @@ let games = {
       genre: "rpg",
       title: "Dragon Ball Z: Buu's Fury",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/1dc43796fb1b397a7f2b43180068b580.png",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4ef42b32bccc9485b10b8183507e5d82.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/c7c46d4baf816bfb07c7f3bf96d88544.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Dragonball%20Z%20-%20Buu%27s%20Fury%20%23%20GBA.GBA",
-      sinopsis: "Dragon Ball Z: Buu's Fury is the third and final game in the series. It was released on September 14, 2004 in North America. The game focuses on the final parts of the Dragon Ball Z series (season 7), namely the battles with Majin Buu. The game added several new additions to the series. First, the game added equipment, which could be equipped to characters to alter their stats and provide various other benefits. The game also allowed players to allocate their own stat points, of which three were given per level. Also added was the ability to block by holding the R button, and also to energy block by holding the B button while blocking. Using the energy block slowly drains the user's energy gauge. Both techniques greatly decrease the amount of damage that is received from attacks. The game also added various other features such as fusions and the ability to transform into a Super Saiyan 3. Although many features were added, the ability to use charge attacks by holding and releasing the A button was eliminated."
+      logo: "15.png",
+      rom: "https://dl.dropboxusercontent.com/s/6dxtoad2qpv90ok/Dragonball%20Z%20-%20Buu%27s%20Fury%20%23%20GBA.GBA",
+      sinopsis: "Dragon Ball Z: Buu's Fury es el tercer y último juego de la serie. Fue lanzado el 14 de septiembre de 2004 en América del Norte. El juego se centra en las partes finales de la serie Dragon Ball Z (temporada 7), es decir, las batallas con Majin Buu. El juego agregó varias nuevas incorporaciones a la serie. Primero, el juego agregó equipo, que podría equiparse a los personajes para alterar sus estadísticas y brindar otros beneficios. El juego también permitió a los jugadores asignar sus propios puntos de estadísticas, de los cuales tres se otorgaron por nivel. También se agregó la capacidad de bloquear manteniendo presionado el botón R, y también bloquear la energía manteniendo presionado el botón B mientras bloquea. Usar el bloque de energía drena lentamente el indicador de energía del usuario. Ambas técnicas reducen en gran medida la cantidad de daño que se recibe de los ataques. El juego también agregó varias otras características, como fusiones y la capacidad de transformarse en un Super Saiyan 3. Aunque se agregaron muchas características, se eliminó la capacidad de usar ataques de carga manteniendo presionado y soltando el botón A."
     },
     {
       id: 16,
@@ -190,13 +174,9 @@ let games = {
       genre: "shooter",
       title: "Tom Clancy's Splinter Cell",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f2aa417ab5eec093fb1699b3c789caff.png",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4f6ffe13a5d75b2d6a3923922b3922e5.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f4673e1d559b339a5ad95e54e42f0ae2.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Tom%20Clancy%27s%20Splinter%20Cell%20%28USA%29%20%28En%2CFr%2CEs%29.gba",
-      sinopsis: "2D versions of the game were released for the Game Boy Advance and N-Gage (the latter as Tom Clancy's Splinter Cell: Team Stealth Action), as well as the mobile phones version developed by Gameloft. A remastered high definition version of Tom Clancy's Splinter Cell was released on the PlayStation 3 in September 2011. The success of the game series spawned a series of novels written under the pseudonym David Michaels."
+      logo: "16.png",
+      rom: "https://dl.dropboxusercontent.com/s/yv5jyaasy6cejzh/Tom%20Clancy%27s%20Splinter%20Cell%20%28USA%29%20%28En%2CFr%2CEs%29.gba",
+      sinopsis: "Se lanzaron versiones 2D del juego para Game Boy Advance y N-Gage (este último como Tom Clancy's Splinter Cell: Team Stealth Action), así como la versión para teléfonos móviles desarrollada por Gameloft. Una versión remasterizada de alta definición de Tom Clancy's Splinter Cell se lanzó para PlayStation 3 en septiembre de 2011. El éxito de la serie de juegos generó una serie de novelas escritas bajo el seudónimo de David Michaels."
     },
     {
       id: 17,
@@ -205,13 +185,9 @@ let games = {
       genre: "plataforma",
       title: "Sonic Advance",
       year: "2001",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/1225293648e26d9c5e54e22e92197cb4.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/498f2c21688f6451d9f5fd09d53edda7.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/3fa14ed7b5855de1e9a3cf48677fa60c.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/0339%20-%20Sonic%20Advance%20%28E%29%28Lightforce%29.gba",
-      sinopsis: "Sonic Advance features four playable characters and marks the first playable appearance of Amy Rose on a 2D title. The game borrows elements from the original Sonic the Hedgehog titles for the Sega Genesis, but with the post-Dreamcast artstyle for the characters which was introduced in Sonic Adventure. The game also includes multiplayer features and mini-games."
+      logo: "17.png",
+      rom: "https://dl.dropboxusercontent.com/s/s6y5qpbecibhp44/0339%20-%20Sonic%20Advance%20%28E%29%28Lightforce%29.gba",
+      sinopsis: "Sonic Advance presenta cuatro personajes jugables y marca la primera aparición jugable de Amy Rose en un título 2D. El juego toma prestados elementos de los títulos originales de Sonic the Hedgehog para Sega Genesis, pero con el estilo artístico posterior a Dreamcast para los personajes que se introdujo en Sonic Adventure. El juego también incluye funciones multijugador y minijuegos."
     },
     {
       id: 18,
@@ -220,13 +196,9 @@ let games = {
       genre: "peleas",
       title: "Medabots AX: Metabee Version",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/2c09e47a931795292f363b58bf176163.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9a5d1781b5a5cb66c99703c5dee81a1a.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/900e9a6cea0b0ddfecbfba02cc20b13f.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/1037%20-%20Medabots%20AX%20-%20Metabee%20Version%20%28E%29%28Rising%20Sun%29.gba",
-      sinopsis: "Medabots AX is a 2D fighting game based on Medarot G, released only in North America. There were two versions released, Metabee and Rokusho."
+      logo: "18.png",
+      rom: "https://dl.dropboxusercontent.com/s/5yvixb1s6brkpj6/1037%20-%20Medabots%20AX%20-%20Metabee%20Version%20%28E%29%28Rising%20Sun%29.gba",
+      sinopsis: "Medabots AX es un juego de lucha en 2D basado en Medarot G, lanzado solo en Norteamérica. Se lanzaron dos versiones, Metabee y Rokusho."
     },
     {
       id: 19,
@@ -235,13 +207,9 @@ let games = {
       genre: "shooter",
       title: "Mega Man & Bass",
       year: "1998",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/5d2fe5897dab4591b33f7b4ac8a1e88b.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9582a4486a56b2b30d8125d7c0701b8a.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/2b1f292723cc6f4ca4761f8710141cbb.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/1046%20-%20MegaMan%20%26%20Bass%20%28E%29%28wC%29.gba",
-      sinopsis: "Mega Man & Bass is an entry in the classic Mega Man series, with option for controlling either Mega Man or Bass, due to Dr. Wily and Dr. Light making a truce to fight against King. The game was originally released only in Japan, but a later Game Boy Advance port had an international release."
+      logo: "19.png",
+      rom: "https://dl.dropboxusercontent.com/s/06dvk9aumvl7gxx/1046%20-%20MegaMan%20%26%20Bass%20%28E%29%28wC%29.gba",
+      sinopsis: "Mega Man & Bass es una entrada en la clásica serie Mega Man, con la opción de controlar a Mega Man o Bass, debido a que el Dr. Wily y el Dr. Light hacen una tregua para luchar contra King. El juego se lanzó originalmente solo en Japón, pero un puerto posterior de Game Boy Advance tuvo un lanzamiento internacional."
     },
     {
       id: 20,
@@ -250,13 +218,9 @@ let games = {
       genre: "cartas",
       title: "Yu-Gi-Oh! World Championship Tournament 2004",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/7bdb8b4b9cff6547913f30ac00a649a1.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/515b37a5bb29c8ea5c7d919139b22971.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/b4d6cca6f8d9376fd31be2a6c28f308b.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/1435%20-%20Yu-Gi-Oh%21%20-%20World%20Championship%20Tournament%202004%20%28E%29%28GBA%29.gba",
-      sinopsis: "Find out who's the best card-battle player in Yu-Gi-Oh! World Championship Tournament 2004. Construct your monster cards, spell cards, trap cards, and special summon cards into three separate decks for different dueling strategies. You can conquer the tournament solo or link up with a friend in a multiplayer battle. With over 1000 game cards and dozens of popular characters from the Yu-Gi-Oh! TV series, the excitement and exhilaration of the Yu-Gi-Oh trading card game is captured in full force."
+      logo: "20.png",
+      rom: "https://dl.dropboxusercontent.com/s/jowhm7lazz2opeh/1435%20-%20Yu-Gi-Oh%21%20-%20World%20Championship%20Tournament%202004%20%28E%29%28GBA%29.gba",
+      sinopsis: "¡Descubre quién es el mejor jugador de batallas de cartas en Yu-Gi-Oh! World Championship Tournament 2004. Construye tus cartas de monstruo, cartas de hechizo, cartas de trampa y cartas de invocación especial en tres mazos separados para diferentes estrategias de duelo. Puedes conquistar el torneo en solitario o unirte a un amigo en una batalla multijugador. Con más de 1000 cartas de juego y docenas de personajes populares de Yu-Gi-Oh! Serie de televisión, la emoción y la euforia del juego de cartas coleccionables Yu-Gi-Oh se captura con toda su fuerza."
     },
     {
       id: 21,
@@ -265,13 +229,9 @@ let games = {
       genre: "plataforma",
       title: "Kirby & the Amazing Mirror",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f41f44caa960c51d28fa218af3f05e30.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/ca3a856a28df7d77d948949206ff9fdf.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ee6929cfd8dd567e41e4efe843b42dcd.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/1560%20-%20Kirby%20And%20The%20Amazing%20Mirror%20%28E%29%28Rising%20Sun%29.gba",
-      sinopsis: "Once again, Kirby must save the kingdom from evil. But this time he'll need some backup. As Kirby, you can call up one of four alter egos for help during your quest. Each character features new copy abilities that range from arrow-shooting to melee moves. Practice your skills in new side games, such as Crackity Hack and Speed Eaters. In addition to new abilities and subgames, Kirby & the Amazing Mirror also introduces new multiplayer modes."
+      logo: "21.png",
+      rom: "https://dl.dropboxusercontent.com/s/2app7vsx3gmn2mj/Kirby%20%26%20The%20Amazing%20Mirror%20%28USA%29.gba",
+      sinopsis: "Una vez más, Kirby debe salvar al reino del mal. Pero esta vez necesitará refuerzos. Como Kirby, puedes llamar a uno de los cuatro alter egos para que te ayuden durante tu búsqueda. Cada personaje presenta nuevas habilidades de copia que van desde disparar flechas hasta movimientos cuerpo a cuerpo. Practica tus habilidades en nuevos juegos secundarios, como Crackity Hack y Speed Eaters. Además de nuevas habilidades y subjuegos, Kirby & the Amazing Mirror también presenta nuevos modos multijugador."
     },
     {
       id: 22,
@@ -280,13 +240,9 @@ let games = {
       genre: "plataforma",
       title: "Rayman: Hoodlums' Revenge",
       year: "2005",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/67b98e17ed75125c912af26dd15901a9.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/02c1f06978b821b2996ec257932f2947.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f9827b6430547fd3f2c94fabf299fb97.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/1934%20-%20Rayman%20-%20Hoodlums%27%20Revenge%20%28E%29%28Endless%20Piracy%29.gba",
-      sinopsis: "A spin-off in the Rayman series, Hoodlum's Revenge takes place directly after the events from Rayman 3: Hoodlum Havoc and for the first in the series, aside from multi-player games, Rayman's friend Globox is featured as a playable character."
+      logo: "22.png",
+      rom: "https://dl.dropboxusercontent.com/s/lmgmy1gv1kg2bio/1934%20-%20Rayman%20-%20Hoodlums%27%20Revenge%20%28E%29%28Endless%20Piracy%29.gba",
+      sinopsis: "Un derivado de la serie Rayman, Hoodlum's Revenge tiene lugar justo después de los eventos de Rayman 3: Hoodlum Havoc y por primera vez en la serie, además de los juegos multijugador, el amigo de Rayman, Globox, aparece como un personaje jugable."
     },
     {
       id: 23,
@@ -295,13 +251,9 @@ let games = {
       genre: "plataforma",
       title: "Super Mario Advance 4",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/cf87aa07bf4739cd9fed438d1f6c1770.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/59139a91a16c9b09a388091bdfe639de.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/2d36b5821f8affc6868b59dfc9af6c9f.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Super%20Mario%20Advance%204%20-%20Super%20Mario%20Bros%203%20%28E%29%28Menace%29.gba",
-      sinopsis: "Super Mario Advance 4: Super Mario Bros. 3 was originally released for the Game Boy Advance and had physical expansion in the form of a collection of e-Reader cards. When the game was re-released on the Wii U Virtual Console, it included the full game with all of the level expansions found in the World-e. All levels were included in this version, even the ones only released in Japan."
+      logo: "23.png",
+      rom: "https://dl.dropboxusercontent.com/s/i2233ziovaq8x25/Super%20Mario%20Advance%204%20-%20Super%20Mario%20Bros.%203%20%28USA%2C%20Australia%29%20%28Rev%201%29.gba",
+      sinopsis: "Super Mario Advance 4: Super Mario Bros. 3 se lanzó originalmente para Game Boy Advance y tuvo una expansión física en forma de una colección de tarjetas de e-Reader. Cuando el juego se relanzó en la consola virtual de Wii U, incluía el juego completo con todas las expansiones de nivel que se encuentran en World-e. Todos los niveles se incluyeron en esta versión, incluso los que solo se lanzaron en Japón."
     },
     {
       id: 24,
