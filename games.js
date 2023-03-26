@@ -9,19 +9,20 @@ let games = {
       title: "Metal slug Advance",
       year: "2004",
       logo: "1.png",
+      rom: "https://dl.dropboxusercontent.com/s/j532de5ynf16du9/Metal%20Slug%20Advance%20%28USA%29.gba",
       sinopsis: "Ahora puedes tener toda la acción arcade 2D de Metal Slug en la palma de tu mano, porque Metal Slug Advance ha llegado a Game Boy Advance. A lo largo de cinco misiones llenas de acción, debes moverte a pie o en vehículos slug a través de terreno accidentado y bases submarinas. Tu objetivo es rescatar rehenes destruyendo enemigos y resolviendo acertijos estratégicos. Completar tus misiones se vuelve más fácil cuando recolectas más de 100 tipos de tarjetas electrónicas, que mejoran las habilidades de tu personaje."
     },
-    {
-      id: 2,
-      reference: "go:gba02",
-      console: "Game Boy Advance",
-      genre: "peleas",
-      title: "Dragon Ball: Advanced Adventure",
-      year: "2004",
-      logo: "2.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Dragon%20Ball%20-%20Advanced%20Adventure%20%28USA%29.gba",
-      sinopsis: "Join Goku in his very first epic adventure as he defends the earth from the relentless Red Ribbon Army. Start down his path to power, and help turn an ordinary boy into the ultimate champion."
-    },
+    // {
+    //   id: 2,
+    //   reference: "go:gba02",
+    //   console: "Game Boy Advance",
+    //   genre: "peleas",
+    //   title: "Dragon Ball: Advanced Adventure",
+    //   year: "2004",
+    //   logo: "2.png",
+    //   rom: "",
+    //   sinopsis: "Join Goku in his very first epic adventure as he defends the earth from the relentless Red Ribbon Army. Start down his path to power, and help turn an ordinary boy into the ultimate champion."
+    // },
     {
       id: 3,
       reference: "go:gba03",
@@ -30,8 +31,8 @@ let games = {
       title: "Castlevania: Aria Of Sorrow",
       year: "2004",
       logo: "3.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Castlevania%20-%20Aria%20of%20Sorrow%20%28USA%29.gba",
-      sinopsis: "The year is 2035 and Soma Cruz is about to witness the first solar eclipse of the 21st century when he suddenly blacks out -- only to awaken inside a mysterious castle. As Soma, you must navigate the castle's labyrinths while confronting perilous monsters at every turn. But beware, you must escape before the evil consumes you!"
+      rom: "https://dl.dropboxusercontent.com/s/22on75an2j5x6p2/Castlevania%20-%20Aria%20of%20Sorrow%20%28USA%29.gba",
+      sinopsis: "El año es 2035 y Soma Cruz está a punto de presenciar el primer eclipse solar del siglo XXI cuando de repente se desmaya, solo para despertar dentro de un castillo misterioso. Como Soma, debes navegar por los laberintos del castillo mientras te enfrentas a peligrosos monstruos a cada paso. ¡Pero cuidado, debes escapar antes de que el mal te consuma!"
     },
     {
       id: 4,
@@ -41,8 +42,8 @@ let games = {
       title: "Dragon Ball Z: Supersonic Warriors",
       year: "2004",
       logo: "4.png",
-      rom: "https://arandevs2022.s3.us-west-004.backblazeb2.com/cloud-retro-gaming/roms/gameboy-advance/Dragon+Ball+Z+-+Supersonic+Warriors+(USA).gba",
-      sinopsis: "Pick your DBZ Dream Team and shake the Dragon Ball Z universe with free-flight combat! Bombard opponents with punishing attacks on the ground and in the air. It's thunderous DBZ fighting unlike anything you've ever seen before!"
+      rom: "https://dl.dropboxusercontent.com/s/ikbbudfpgnpmm0c/Dragon%20Ball%20Z%20-%20Supersonic%20Warriors%20%28USA%29.gba",
+      sinopsis: "¡Elige tu DBZ Dream Team y sacude el universo Dragon Ball Z con combates de vuelo libre! Bombardear a los oponentes con ataques de castigo en el suelo y en el aire. ¡Es una lucha atronadora de DBZ diferente a todo lo que hayas visto antes!"
     },
     {
       id: 5,
@@ -52,8 +53,8 @@ let games = {
       title: "Mario & Luigi: Superstar Saga",
       year: "2003",
       logo: "5.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mario%20%26%20Luigi%20-%20Superstar%20Saga%20%28USA%29.gba",
-      sinopsis: "An evil witch has replaced Princess Peach's fair speech with explosives! Mario and Luigi must once again come to her rescue, but this time they employ the help of Bowser, their sworn enemy. Mario and Luigi must learn new moves and combine powers to fight off enemies and move closer to the witch's castle. Guide this unlikely bunch through an abundance of minigames such as Border Jump and Mystery Carts. Combine the powers of Mario and Luigi to pull off special tag-team moves. Immerse yourself in this bright, cartoonish, and humorous world, complete with hit music featured in previous Mario games."
+      rom: "https://dl.dropboxusercontent.com/s/tmfx32nt4trf82x/Mario%20%26%20Luigi%20-%20Superstar%20Saga%20%28USA%29.gba",
+      sinopsis: "¡Una bruja malvada ha reemplazado el discurso justo de la princesa Peach con explosivos! Mario y Luigi deben volver a rescatarla, pero esta vez emplean la ayuda de Bowser, su enemigo jurado. Mario y Luigi deben aprender nuevos movimientos y combinar poderes para luchar contra los enemigos y acercarse al castillo de la bruja. Guíe a este grupo poco común a través de una gran cantidad de minijuegos como Border Jump y Mystery Carts. Combina los poderes de Mario y Luigi para lograr movimientos especiales en equipo. Sumérgete en este mundo brillante, caricaturesco y humorístico, completo con la música de éxito de los juegos anteriores de Mario."
     },
     {
       id: 6,
@@ -63,8 +64,8 @@ let games = {
       title: "Super Mario Advance",
       year: "2001",
       logo: "6.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Super%20Mario%20Advance%20%28USA%2C%20Europe%29.gba",
-      sinopsis: "An updated re-release of Super Mario Bros. 2 (the American reskin of Yume Kōjō Doki Doki Panic later re-released in Japan as Super Mario USA as a Game Boy Advance launch title. Based heavily on the Super Mario All-Stars version of the game, it also features an updated version of the original Mario Bros. arcade game, which can be played with up to three other players via link cable."
+      rom: "https://dl.dropboxusercontent.com/s/hlyotjsru4i5ncm/Super%20Mario%20Advance%20%28USA%2C%20Europe%29.gba",
+      sinopsis: "Un relanzamiento actualizado de Super Mario Bros. 2 (la versión estadounidense de Yume Kōjō Doki Doki Panic, relanzado más tarde en Japón como Super Mario USA como título de lanzamiento de Game Boy Advance. Basado en gran medida en la versión de Super Mario All-Stars de el juego, también presenta una versión actualizada del juego de arcade original Mario Bros., que se puede jugar con hasta otros tres jugadores a través de un cable de enlace."
     },
     {
       id: 7,
@@ -74,8 +75,8 @@ let games = {
       title: "Fire Emblem: The Binding Blade",
       year: "2002",
       logo: "7.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Fire%20Emblem%20-%20The%20Binding%20Blade%20%28T%29.gba",
-      sinopsis: "Fire Emblem: The Binding Blade is a Japanese tactical role-playing game developed by Intelligent Systems and published by Nintendo. The game was released on March 29, 2002 in Japan, is the sixth game in the Fire Emblem series, and the first of three games in the series that have appeared on Nintendo's Game Boy Advance handheld. It was the last Fire Emblem game to be released exclusively in Japan until the release of Fire Emblem: New Mystery of the Emblem. The Binding Blade was followed by a prequel, Fire Emblem: The Blazing Blade, set twenty years earlier."
+      rom: "https://dl.dropboxusercontent.com/s/1ta96rmkv1pagdd/Fire%20Emblem%20-%20The%20Binding%20Blade%20%28T%29.gba",
+      sinopsis: "Fire Emblem: The Binding Blade es un juego de rol táctico japonés desarrollado por Intelligent Systems y publicado por Nintendo. El juego fue lanzado el 29 de marzo de 2002 en Japón, es el sexto juego de la serie Fire Emblem y el primero de los tres juegos de la serie que han aparecido en la computadora de mano Game Boy Advance de Nintendo. Fue el último juego de Fire Emblem que se lanzó exclusivamente en Japón hasta el lanzamiento de Fire Emblem: New Mystery of the Emblem. A The Binding Blade le siguió una precuela, Fire Emblem: The Blazing Blade, ambientada veinte años antes."
     },
     {
       id: 8,
@@ -85,7 +86,8 @@ let games = {
       title: "Contra Advance: The Alien Wars EX",
       year: "2002",
       logo: "8.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Contra%20Advance%20-%20The%20Alien%20Wars%20EX%20%28USA%29.gba",
+      rom: "https://dl.dropboxusercontent.com/s/aqacd9e3bikeqwo/Contra%20Advance%20-%20The%20Alien%20Wars%20EX%20%28USA%29.gba",
+      sinopsis: "En Contra Advance The Alien Wars EX™, acaba con enormes hordas de alienígenas, robots y monstruos para evitar que el malvado Halcón Rojo se apodere del mundo. Con todos los nuevos niveles y gráficos del éxito original de Super Nintendo®, la trepidante acción de disparos de Contra te mantendrá al borde de tu asiento."
 
     },
     {
@@ -96,8 +98,8 @@ let games = {
       title: "The Legend of Spyro: The Eternal Night",
       year: "2007",
       logo: "9.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Legend%20of%20Spyro%2C%20The%20-%20The%20Eternal%20Night%20%28USA%29%20%28En%2CFr%29.gba",
-      sinopsis: "In Contra Advance The Alien Wars EX™, take down massive hordes of aliens, robots, and monsters to stop the evil Red Falcon from taking over the world! Featuring all new levels and graphics from the original Super Nintendo® hit, Contra's fast paced shooting action will keep you on the edge of your seat"
+      rom: "https://dl.dropboxusercontent.com/s/fxuxh5yaw3tl8bl/Legend%20of%20Spyro%2C%20The%20-%20The%20Eternal%20Night%20%28USA%29%20%28En%2CFr%29.gba",
+      sinopsis: "The Legend of Spyro: The Eternal Night es un juego de plataformas de acción en 3D que tiene lugar justo después de los eventos al final de The Legend of Spyro: A New Beginning. Los jugadores controlan a Spyro mientras busca a su amigo Cynder. Inicialmente, ha perdido todos sus diferentes poderes de aliento del primer juego, pero recupera gradualmente la capacidad de respirar fuego, hielo, tierra y electricidad. Una novedad en este juego es la capacidad de Spyro para ralentizar el tiempo usando su habilidad recién aprendida 'Dragon Time'."
     },
     {
       id: 10,
@@ -107,8 +109,8 @@ let games = {
       title: "Crash of the Titans",
       year: "2007",
       logo: "10.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Crash%20of%20the%20Titans%20%28USA%29%20%28En%2CFr%29.gba",
-      sinopsis: "Crash of the Titans is the sixth Crash Bandicoot series game. The gameplay has the player explore levels, picking up power-ups to use against enemies as well as for the first time, use fighting combos such as punches and kicks against enemies. When Crash defeats an enemy or destroys an object, a magical substance known as Mojo is released. If the player collects enough Mojo, he will earn either an ability upgrade or a new move."
+      rom: "https://dl.dropboxusercontent.com/s/omd6uo1gux7qarx/Crash%20of%20the%20Titans%20%28USA%29%20%28En%2CFr%29.gba",
+      sinopsis: "Crash of the Titans es el sexto juego de la serie Crash Bandicoot. El juego hace que el jugador explore niveles, recogiendo potenciadores para usar contra los enemigos y, por primera vez, use combos de lucha como puñetazos y patadas contra los enemigos. Cuando Crash derrota a un enemigo o destruye un objeto, se libera una sustancia mágica conocida como Mojo. Si el jugador recolecta suficiente Mojo, obtendrá una mejora de habilidad o un nuevo movimiento."
     },
     {
       id: 11,
@@ -117,13 +119,9 @@ let games = {
       genre: "rpg",
       title: "Summon Night: Swordcraft Story",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/756f3da479f67c608b77a871878871ba.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/cebd648f9146a6345d604ab093b02c73.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/201d7288b4c18a679e48b31c72c30ded.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Summon%20Night%20-%20Swordcraft%20Story%202%20%28USA%29.gba",
-      sinopsis: "Summon Night: Swordcraft Story is an RPG set in the strange world of Lyndbaum, a sacred land linked to four magical dimensions from which Summoners can call forth spirits called Guardian Beasts to do their bidding."
+      logo: "11.png",
+      rom: "https://dl.dropboxusercontent.com/s/qh027kwjeustbnf/Summon%20Night%20-%20Swordcraft%20Story%20%28USA%29.gba",
+      sinopsis: "Summon Night: Swordcraft Story es un juego de rol ambientado en el extraño mundo de Lyndbaum, una tierra sagrada vinculada a cuatro dimensiones mágicas desde las que los invocadores pueden invocar espíritus llamados Guardian Beasts para que cumplan sus órdenes."
     },
     {
       id: 12,
