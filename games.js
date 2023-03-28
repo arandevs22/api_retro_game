@@ -8,7 +8,6 @@ let games = {
       genre: "shooter",
       title: "Metal slug Advance",
       year: "2004",
-      logo: "1.png",
       rom: "https://dl.dropboxusercontent.com/s/j532de5ynf16du9/Metal%20Slug%20Advance%20%28USA%29.gba",
       sinopsis: "Ahora puedes tener toda la acción arcade 2D de Metal Slug en la palma de tu mano, porque Metal Slug Advance ha llegado a Game Boy Advance. A lo largo de cinco misiones llenas de acción, debes moverte a pie o en vehículos slug a través de terreno accidentado y bases submarinas. Tu objetivo es rescatar rehenes destruyendo enemigos y resolviendo acertijos estratégicos. Completar tus misiones se vuelve más fácil cuando recolectas más de 100 tipos de tarjetas electrónicas, que mejoran las habilidades de tu personaje."
     },
@@ -30,7 +29,6 @@ let games = {
       genre: "plataforma",
       title: "Castlevania: Aria Of Sorrow",
       year: "2004",
-      logo: "3.png",
       rom: "https://dl.dropboxusercontent.com/s/22on75an2j5x6p2/Castlevania%20-%20Aria%20of%20Sorrow%20%28USA%29.gba",
       sinopsis: "El año es 2035 y Soma Cruz está a punto de presenciar el primer eclipse solar del siglo XXI cuando de repente se desmaya, solo para despertar dentro de un castillo misterioso. Como Soma, debes navegar por los laberintos del castillo mientras te enfrentas a peligrosos monstruos a cada paso. ¡Pero cuidado, debes escapar antes de que el mal te consuma!"
     },
@@ -41,7 +39,6 @@ let games = {
       genre: "peleas",
       title: "Dragon Ball Z: Supersonic Warriors",
       year: "2004",
-      logo: "4.png",
       rom: "https://dl.dropboxusercontent.com/s/ikbbudfpgnpmm0c/Dragon%20Ball%20Z%20-%20Supersonic%20Warriors%20%28USA%29.gba",
       sinopsis: "¡Elige tu DBZ Dream Team y sacude el universo Dragon Ball Z con combates de vuelo libre! Bombardear a los oponentes con ataques de castigo en el suelo y en el aire. ¡Es una lucha atronadora de DBZ diferente a todo lo que hayas visto antes!"
     },
@@ -52,7 +49,6 @@ let games = {
       genre: "rpg",
       title: "Mario & Luigi: Superstar Saga",
       year: "2003",
-      logo: "5.png",
       rom: "https://dl.dropboxusercontent.com/s/tmfx32nt4trf82x/Mario%20%26%20Luigi%20-%20Superstar%20Saga%20%28USA%29.gba",
       sinopsis: "¡Una bruja malvada ha reemplazado el discurso justo de la princesa Peach con explosivos! Mario y Luigi deben volver a rescatarla, pero esta vez emplean la ayuda de Bowser, su enemigo jurado. Mario y Luigi deben aprender nuevos movimientos y combinar poderes para luchar contra los enemigos y acercarse al castillo de la bruja. Guíe a este grupo poco común a través de una gran cantidad de minijuegos como Border Jump y Mystery Carts. Combina los poderes de Mario y Luigi para lograr movimientos especiales en equipo. Sumérgete en este mundo brillante, caricaturesco y humorístico, completo con la música de éxito de los juegos anteriores de Mario."
     },
@@ -63,7 +59,6 @@ let games = {
       genre: "plataforma",
       title: "Super Mario Advance",
       year: "2001",
-      logo: "6.png",
       rom: "https://dl.dropboxusercontent.com/s/hlyotjsru4i5ncm/Super%20Mario%20Advance%20%28USA%2C%20Europe%29.gba",
       sinopsis: "Un relanzamiento actualizado de Super Mario Bros. 2 (la versión estadounidense de Yume Kōjō Doki Doki Panic, relanzado más tarde en Japón como Super Mario USA como título de lanzamiento de Game Boy Advance. Basado en gran medida en la versión de Super Mario All-Stars de el juego, también presenta una versión actualizada del juego de arcade original Mario Bros., que se puede jugar con hasta otros tres jugadores a través de un cable de enlace."
     },
@@ -74,7 +69,6 @@ let games = {
       genre: "rpg",
       title: "Fire Emblem: The Binding Blade",
       year: "2002",
-      logo: "7.png",
       rom: "https://dl.dropboxusercontent.com/s/1ta96rmkv1pagdd/Fire%20Emblem%20-%20The%20Binding%20Blade%20%28T%29.gba",
       sinopsis: "Fire Emblem: The Binding Blade es un juego de rol táctico japonés desarrollado por Intelligent Systems y publicado por Nintendo. El juego fue lanzado el 29 de marzo de 2002 en Japón, es el sexto juego de la serie Fire Emblem y el primero de los tres juegos de la serie que han aparecido en la computadora de mano Game Boy Advance de Nintendo. Fue el último juego de Fire Emblem que se lanzó exclusivamente en Japón hasta el lanzamiento de Fire Emblem: New Mystery of the Emblem. A The Binding Blade le siguió una precuela, Fire Emblem: The Blazing Blade, ambientada veinte años antes."
     },
@@ -85,7 +79,6 @@ let games = {
       genre: "shooter",
       title: "Contra Advance: The Alien Wars EX",
       year: "2002",
-      logo: "8.png",
       rom: "https://dl.dropboxusercontent.com/s/aqacd9e3bikeqwo/Contra%20Advance%20-%20The%20Alien%20Wars%20EX%20%28USA%29.gba",
       sinopsis: "En Contra Advance The Alien Wars EX™, acaba con enormes hordas de alienígenas, robots y monstruos para evitar que el malvado Halcón Rojo se apodere del mundo. Con todos los nuevos niveles y gráficos del éxito original de Super Nintendo®, la trepidante acción de disparos de Contra te mantendrá al borde de tu asiento."
 
@@ -97,7 +90,6 @@ let games = {
       genre: "plataforma",
       title: "The Legend of Spyro: The Eternal Night",
       year: "2007",
-      logo: "9.png",
       rom: "https://dl.dropboxusercontent.com/s/fxuxh5yaw3tl8bl/Legend%20of%20Spyro%2C%20The%20-%20The%20Eternal%20Night%20%28USA%29%20%28En%2CFr%29.gba",
       sinopsis: "The Legend of Spyro: The Eternal Night es un juego de plataformas de acción en 3D que tiene lugar justo después de los eventos al final de The Legend of Spyro: A New Beginning. Los jugadores controlan a Spyro mientras busca a su amigo Cynder. Inicialmente, ha perdido todos sus diferentes poderes de aliento del primer juego, pero recupera gradualmente la capacidad de respirar fuego, hielo, tierra y electricidad. Una novedad en este juego es la capacidad de Spyro para ralentizar el tiempo usando su habilidad recién aprendida 'Dragon Time'."
     },
@@ -108,7 +100,6 @@ let games = {
       genre: "plataforma",
       title: "Crash of the Titans",
       year: "2007",
-      logo: "10.png",
       rom: "https://dl.dropboxusercontent.com/s/omd6uo1gux7qarx/Crash%20of%20the%20Titans%20%28USA%29%20%28En%2CFr%29.gba",
       sinopsis: "Crash of the Titans es el sexto juego de la serie Crash Bandicoot. El juego hace que el jugador explore niveles, recogiendo potenciadores para usar contra los enemigos y, por primera vez, use combos de lucha como puñetazos y patadas contra los enemigos. Cuando Crash derrota a un enemigo o destruye un objeto, se libera una sustancia mágica conocida como Mojo. Si el jugador recolecta suficiente Mojo, obtendrá una mejora de habilidad o un nuevo movimiento."
     },
@@ -119,7 +110,6 @@ let games = {
       genre: "rpg",
       title: "Summon Night: Swordcraft Story",
       year: "2003",
-      logo: "11.png",
       rom: "https://dl.dropboxusercontent.com/s/qh027kwjeustbnf/Summon%20Night%20-%20Swordcraft%20Story%20%28USA%29.gba",
       sinopsis: "Summon Night: Swordcraft Story es un juego de rol ambientado en el extraño mundo de Lyndbaum, una tierra sagrada vinculada a cuatro dimensiones mágicas desde las que los invocadores pueden invocar espíritus llamados Guardian Beasts para que cumplan sus órdenes."
     },
@@ -130,7 +120,6 @@ let games = {
       genre: "deportes",
       title: "FIFA 07",
       year: "2006",
-      logo: "12.png",
       rom: "https://dl.dropboxusercontent.com/s/juiotjyqazpw4rd/FIFA%202007%20%23%20GBA.GBA",
       sinopsis: "FIFA 07 (también conocido como FIFA Football 07 y FIFA 07 Soccer) es la edición 2006 de la serie de videojuegos simuladores de fútbol de EA Sports. Desarrollado por EA Canadá, es publicado por Electronic Arts."
     },
@@ -141,7 +130,6 @@ let games = {
       genre: "rpg",
       title: "Final Fantasy VI Advance",
       year: "2006",
-      logo: "13.png",
       rom: "https://dl.dropboxusercontent.com/s/1v7zc4xqavxalcc/Final%20Fantasy%206%20Advance%20%23%20GBA.GBA",
       sinopsis: "Final Fantasy VI Advance es más que un simple puerto del clásico SNES: todos los aspectos de los juegos han sido revisados y mejorados. Además, una gran cantidad de elementos nuevos se fusionaron a la perfección con el juego original, brindando sorpresas inesperadas para los fanáticos de toda la vida. Con nuevas mazmorras, nuevas clases de trabajo y otras características emocionantes, tanto los jugadores de la vieja escuela como los recién llegados pueden disfrutar de este título FINAL FANTASY que define el género en un formato portátil."
     },
@@ -152,7 +140,6 @@ let games = {
       genre: "rpg",
       title: "Final Fantasy IV Advance",
       year: "2005",
-      logo: "14.png",
       rom: "https://dl.dropboxusercontent.com/s/fhe5te4xkgefhdg/Final%20Fantasy%204%20Advance%20%23%20GBA.GBA",
       sinopsis: "Final Fantasy IV Advance se basa en gran medida en la versión WonderSwan Color. Algunos cambios incluyen la adición de retratos de personajes en cuadros de texto, la capacidad de cambiar de miembro del grupo, mayor dificultad y nuevas mazmorras con nuevos elementos y armas junto con nuevos jefes. El guión recibió una retraducción más fiel al material original. Se presenta Quicksave, que permite al jugador guardar la posición actual (sin importar dónde) en un archivo que se elimina al cargar."
     },
@@ -163,7 +150,6 @@ let games = {
       genre: "rpg",
       title: "Dragon Ball Z: Buu's Fury",
       year: "2004",
-      logo: "15.png",
       rom: "https://dl.dropboxusercontent.com/s/6dxtoad2qpv90ok/Dragonball%20Z%20-%20Buu%27s%20Fury%20%23%20GBA.GBA",
       sinopsis: "Dragon Ball Z: Buu's Fury es el tercer y último juego de la serie. Fue lanzado el 14 de septiembre de 2004 en América del Norte. El juego se centra en las partes finales de la serie Dragon Ball Z (temporada 7), es decir, las batallas con Majin Buu. El juego agregó varias nuevas incorporaciones a la serie. Primero, el juego agregó equipo, que podría equiparse a los personajes para alterar sus estadísticas y brindar otros beneficios. El juego también permitió a los jugadores asignar sus propios puntos de estadísticas, de los cuales tres se otorgaron por nivel. También se agregó la capacidad de bloquear manteniendo presionado el botón R, y también bloquear la energía manteniendo presionado el botón B mientras bloquea. Usar el bloque de energía drena lentamente el indicador de energía del usuario. Ambas técnicas reducen en gran medida la cantidad de daño que se recibe de los ataques. El juego también agregó varias otras características, como fusiones y la capacidad de transformarse en un Super Saiyan 3. Aunque se agregaron muchas características, se eliminó la capacidad de usar ataques de carga manteniendo presionado y soltando el botón A."
     },
@@ -174,7 +160,6 @@ let games = {
       genre: "shooter",
       title: "Tom Clancy's Splinter Cell",
       year: "2003",
-      logo: "16.png",
       rom: "https://dl.dropboxusercontent.com/s/yv5jyaasy6cejzh/Tom%20Clancy%27s%20Splinter%20Cell%20%28USA%29%20%28En%2CFr%2CEs%29.gba",
       sinopsis: "Se lanzaron versiones 2D del juego para Game Boy Advance y N-Gage (este último como Tom Clancy's Splinter Cell: Team Stealth Action), así como la versión para teléfonos móviles desarrollada por Gameloft. Una versión remasterizada de alta definición de Tom Clancy's Splinter Cell se lanzó para PlayStation 3 en septiembre de 2011. El éxito de la serie de juegos generó una serie de novelas escritas bajo el seudónimo de David Michaels."
     },
@@ -185,7 +170,6 @@ let games = {
       genre: "plataforma",
       title: "Sonic Advance",
       year: "2001",
-      logo: "17.png",
       rom: "https://dl.dropboxusercontent.com/s/s6y5qpbecibhp44/0339%20-%20Sonic%20Advance%20%28E%29%28Lightforce%29.gba",
       sinopsis: "Sonic Advance presenta cuatro personajes jugables y marca la primera aparición jugable de Amy Rose en un título 2D. El juego toma prestados elementos de los títulos originales de Sonic the Hedgehog para Sega Genesis, pero con el estilo artístico posterior a Dreamcast para los personajes que se introdujo en Sonic Adventure. El juego también incluye funciones multijugador y minijuegos."
     },
@@ -196,7 +180,6 @@ let games = {
       genre: "peleas",
       title: "Medabots AX: Metabee Version",
       year: "2002",
-      logo: "18.png",
       rom: "https://dl.dropboxusercontent.com/s/5yvixb1s6brkpj6/1037%20-%20Medabots%20AX%20-%20Metabee%20Version%20%28E%29%28Rising%20Sun%29.gba",
       sinopsis: "Medabots AX es un juego de lucha en 2D basado en Medarot G, lanzado solo en Norteamérica. Se lanzaron dos versiones, Metabee y Rokusho."
     },
@@ -207,7 +190,6 @@ let games = {
       genre: "shooter",
       title: "Mega Man & Bass",
       year: "1998",
-      logo: "19.png",
       rom: "https://dl.dropboxusercontent.com/s/06dvk9aumvl7gxx/1046%20-%20MegaMan%20%26%20Bass%20%28E%29%28wC%29.gba",
       sinopsis: "Mega Man & Bass es una entrada en la clásica serie Mega Man, con la opción de controlar a Mega Man o Bass, debido a que el Dr. Wily y el Dr. Light hacen una tregua para luchar contra King. El juego se lanzó originalmente solo en Japón, pero un puerto posterior de Game Boy Advance tuvo un lanzamiento internacional."
     },
@@ -218,7 +200,6 @@ let games = {
       genre: "cartas",
       title: "Yu-Gi-Oh! World Championship Tournament 2004",
       year: "2004",
-      logo: "20.png",
       rom: "https://dl.dropboxusercontent.com/s/jowhm7lazz2opeh/1435%20-%20Yu-Gi-Oh%21%20-%20World%20Championship%20Tournament%202004%20%28E%29%28GBA%29.gba",
       sinopsis: "¡Descubre quién es el mejor jugador de batallas de cartas en Yu-Gi-Oh! World Championship Tournament 2004. Construye tus cartas de monstruo, cartas de hechizo, cartas de trampa y cartas de invocación especial en tres mazos separados para diferentes estrategias de duelo. Puedes conquistar el torneo en solitario o unirte a un amigo en una batalla multijugador. Con más de 1000 cartas de juego y docenas de personajes populares de Yu-Gi-Oh! Serie de televisión, la emoción y la euforia del juego de cartas coleccionables Yu-Gi-Oh se captura con toda su fuerza."
     },
@@ -229,7 +210,6 @@ let games = {
       genre: "plataforma",
       title: "Kirby & the Amazing Mirror",
       year: "2004",
-      logo: "21.png",
       rom: "https://dl.dropboxusercontent.com/s/2app7vsx3gmn2mj/Kirby%20%26%20The%20Amazing%20Mirror%20%28USA%29.gba",
       sinopsis: "Una vez más, Kirby debe salvar al reino del mal. Pero esta vez necesitará refuerzos. Como Kirby, puedes llamar a uno de los cuatro alter egos para que te ayuden durante tu búsqueda. Cada personaje presenta nuevas habilidades de copia que van desde disparar flechas hasta movimientos cuerpo a cuerpo. Practica tus habilidades en nuevos juegos secundarios, como Crackity Hack y Speed Eaters. Además de nuevas habilidades y subjuegos, Kirby & the Amazing Mirror también presenta nuevos modos multijugador."
     },
@@ -240,7 +220,6 @@ let games = {
       genre: "plataforma",
       title: "Rayman: Hoodlums' Revenge",
       year: "2005",
-      logo: "22.png",
       rom: "https://dl.dropboxusercontent.com/s/lmgmy1gv1kg2bio/1934%20-%20Rayman%20-%20Hoodlums%27%20Revenge%20%28E%29%28Endless%20Piracy%29.gba",
       sinopsis: "Un derivado de la serie Rayman, Hoodlum's Revenge tiene lugar justo después de los eventos de Rayman 3: Hoodlum Havoc y por primera vez en la serie, además de los juegos multijugador, el amigo de Rayman, Globox, aparece como un personaje jugable."
     },
@@ -251,7 +230,6 @@ let games = {
       genre: "plataforma",
       title: "Super Mario Advance 4",
       year: "2003",
-      logo: "23.png",
       rom: "https://dl.dropboxusercontent.com/s/i2233ziovaq8x25/Super%20Mario%20Advance%204%20-%20Super%20Mario%20Bros.%203%20%28USA%2C%20Australia%29%20%28Rev%201%29.gba",
       sinopsis: "Super Mario Advance 4: Super Mario Bros. 3 se lanzó originalmente para Game Boy Advance y tuvo una expansión física en forma de una colección de tarjetas de e-Reader. Cuando el juego se relanzó en la consola virtual de Wii U, incluía el juego completo con todas las expansiones de nivel que se encuentran en World-e. Todos los niveles se incluyeron en esta versión, incluso los que solo se lanzaron en Japón."
     },
@@ -262,13 +240,8 @@ let games = {
       genre: "shooter",
       title: "007: Everything or Nothing",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/fe4e27da08460834e20042b604be6596.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/51e2038e383ecfc953bf1ab5a0747c63.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/d750dbc5c4510c96e92e256136bdeb73.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/007%20-%20Everything%20or%20Nothing%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%29.gba",
-      sinopsis: "Returning as James Bond is Pierce Brosnan, who will lend his cyberscanned likeness and voice to the character. The rest of the cast will include new Bond girls (Shannon Elizabeth and Heidi Klum) as well as old and new Bond villains. The original script will take players through exciting locales in four continents including the Valley of the Kings in Egypt and the French Quarter in New Orleans."
+      rom: "https://dl.dropboxusercontent.com/s/89wn01azjd69gjv/007%20-%20Everything%20or%20Nothing%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%29.gba",
+      sinopsis: "Regresando como James Bond está Pierce Brosnan, quien prestará su imagen y voz escaneadas cibernéticamente al personaje. El resto del elenco incluirá nuevas chicas Bond (Shannon Elizabeth y Heidi Klum), así como viejos y nuevos villanos Bond. El guión original llevará a los jugadores a lugares emocionantes en cuatro continentes, incluido el Valle de los Reyes en Egipto y el Barrio Francés de Nueva Orleans."
     },
     {
       id: 25,
@@ -277,13 +250,8 @@ let games = {
       genre: "shooter",
       title: "007: Nightfire",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/29ec03bb2d04702c0e22fba276bf9a3e.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/2da5a68c98274485adc266e224d77b0f.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/62c7e20be72c680983e2a2291ab7fcc6.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/007%20-%20NightFire%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%29.gba",
-      sinopsis: "007: Nightfire is a first-person shooter featuring the character of the British secret agent James Bond and a sequel to Agent Under Fire. The game marked Pierce Brosnan's fourth appearance as James Bond before the release of his fourth and final Bond film Die Another Day. His likeness was featured in the game, but not his voice, which was provided by Maxwell Caulfield. Overall there are many weapons that the player can carry including grenades of various sorts and other types of explosives. In addition, there are numerous amounts of mounted weapons found throughout the game. As with previous James Bond games, the weapons that appear are based on actual weapons, but with the names changed. Some weapons appear in the console version but not the PC version, and vice-versa."
+      rom: "https://dl.dropboxusercontent.com/s/lhlt2ncdza14exm/007%20-%20NightFire%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%29.gba",
+      sinopsis: "007: Nightfire es un shooter en primera persona protagonizado por el agente secreto británico James Bond y una secuela de Agent Under Fire. El juego marcó la cuarta aparición de Pierce Brosnan como James Bond antes del estreno de su cuarta y última película de Bond Die Another Day. Su imagen apareció en el juego, pero no su voz, que fue proporcionada por Maxwell Caulfield. En general, hay muchas armas que el jugador puede llevar, incluidas granadas de varios tipos y otros tipos de explosivos. Además, hay numerosas cantidades de armas montadas que se encuentran a lo largo del juego. Al igual que con los juegos anteriores de James Bond, las armas que aparecen se basan en armas reales, pero con los nombres cambiados. Algunas armas aparecen en la versión de consola pero no en la de PC, y viceversa."
     },
     {
       id: 26,
@@ -292,13 +260,8 @@ let games = {
       genre: "estrategia",
       title: "Advance Wars",
       year: "2001",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/5cf6e0afb3ace3ff9cc8e3a71dca37e3.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/ebd58b8a3f1d72f4206201da62fb1204.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9d86d83f925f2149e9edb0ac3b49229c.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Advance%20Wars%20%28USA%29%20%28Rev%201%29.gba",
-      sinopsis: "Just because this battle fits in the palm of your hand doesn't mean the stakes are small. On the contrary, this all-or-nothing fight will have you accessing guns, grenades, launchers, and weaponry of all sorts. Players assume command of an army that's out to reclaim a world that's been broken up by warring factions. The battle map is essentially a grid, and moving units is like moving chess pieces on a board -- each of the units can move a specific amount of spaces within this grid, and can only attack at a certain distance from specific enemies. Advance Wars features more than 115 maps, a map editor, head-to-head play via link cable, and an easy-to-understand tutorial mode for beginners."
+      rom: "https://dl.dropboxusercontent.com/s/89ht4eu0v23adom/Advance%20Wars%20%28USA%29%20%28Rev%201%29.gba",
+      sinopsis: "El hecho de que esta batalla quepa en la palma de tu mano no significa que lo que está en juego sea pequeño. Por el contrario, esta lucha de todo o nada te hará acceder a pistolas, granadas, lanzadores y armamento de todo tipo. Los jugadores asumen el mando de un ejército que pretende recuperar un mundo que ha sido dividido por facciones en guerra. El mapa de batalla es esencialmente una cuadrícula, y mover unidades es como mover piezas de ajedrez en un tablero: cada una de las unidades puede moverse una cantidad específica de espacios dentro de esta cuadrícula y solo puede atacar a cierta distancia de enemigos específicos. Advance Wars presenta más de 115 mapas, un editor de mapas, juego mano a mano a través de un cable de enlace y un modo tutorial fácil de entender para principiantes."
     },
     {
       id: 27,
@@ -307,13 +270,8 @@ let games = {
       genre: "estrategia",
       title: "Advance Wars 2: Black Hole Rising",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/d47f99f437cb40af762031d8d93ec885.png",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/d994e3728ba5e28defb88a3289cd7ee8.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/3d3621cee6f49e93a34f3f0f654ab41a.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Advance%20Wars%202%20-%20Black%20Hole%20Rising%20%28USA%29.gba",
-      sinopsis: "In Advance Wars 2: Black Hole Rising brings your GBA all-new strategic action and all-new fighting action! Thrilling turn-based strategy gameplay that will put your brain & your reflexes to the test, in this sequel to the original hit!"
+      rom: "https://dl.dropboxusercontent.com/s/wmru67wphe4oteo/Advance%20Wars%202%20-%20Black%20Hole%20Rising%20%28USA%29.gba",
+      sinopsis: "¡En Advance Wars 2: Black Hole Rising trae a GBA una acción estratégica completamente nueva y una acción de lucha completamente nueva! Emocionante juego de estrategia por turnos que pondrá a prueba tu cerebro y tus reflejos, ¡en esta secuela del éxito original!"
     },
     {
       id: 28,
@@ -322,13 +280,8 @@ let games = {
       genre: "beat em up",
       title: "Astro Boy: Omega Factor",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/7e97d66f2838c18200788809bbadff71.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/a302e3f3e891a1202046b6046d9bc5b8.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/bd3e776678a01701f968d3cd4b787d39.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Astro%20Boy%20-%20Omega%20Factor%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.gba",
-      sinopsis: "Join Astro, the robotic superhero with a human mind, in a quest to reunite the robotic race with humans. Astro uses his seven super abilities to face off against the likes of Atlas, Blue Knight, and more than 40 other characters. The game brings classic 2D gaming to the Game Boy Advance along with an original seven-episode story. Playing as Astro Boy, you'll learn about justice, compassion, evil, courage, and the history of Astro Boy--all while building Astro's Omega Factor and strengthening his character and superhuman abilities."
+      rom: "https://dl.dropboxusercontent.com/s/igq28jy6nawykew/Astro%20Boy%20-%20Omega%20Factor%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.gba",
+      sinopsis: "Únete a Astro, el superhéroe robótico con una mente humana, en una búsqueda para reunir la raza robótica con humanos. Astro usa sus siete súper habilidades para enfrentarse a personas como Atlas, Blue Knight y más de 40 personajes. El juego trae juegos 2D clásicos a Game Boy Advance junto con una historia original de siete episodios. Jugando como Astro Boy, aprenderás sobre la justicia, la compasión, el mal, el coraje y la historia de Astro Boy, todo mientras construye el factor Omega de Astro y fortalece su carácter y sus habilidades sobrehumanas."
     },
     {
       id: 29,
@@ -337,13 +290,8 @@ let games = {
       genre: "beat em up",
       title: "Baldur's Gate: Dark Alliance",
       year: "2001",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/c33636bfb33eec213a7c4b4d555ba0ba.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/31716bdf834f7838689285ce155e7a64.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/85e43237b3fb87d881c757f44f1b0357.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Baldur%27s%20Gate%20-%20Dark%20Alliance%20%28USA%29.gba",
-      sinopsis: "Baldur’s Gate™: Dark Alliance™ is a revolutionary action adventure with an epic tale of intrigue, fierce alliances, explosive spell effects and highly detailed creatures and environments. Baldur’s Gate™: Dark Alliance™ is a benchmark of technology and gameplay."
+      rom: "https://dl.dropboxusercontent.com/s/yh99z2434zfg0gw/Baldur%27s%20Gate%20-%20Dark%20Alliance%20%28USA%29.gba",
+      sinopsis: "Baldur’s Gate ™: Dark Alliance ™ es una aventura de acción revolucionaria con una historia épica de intriga, alianzas feroces, efectos de hechizos explosivos y criaturas y entornos altamente detallados. Baldur’s Gate ™: Dark Alliance ™ es un punto de referencia de la tecnología y el juego."
     },
     {
       id: 30,
@@ -352,13 +300,8 @@ let games = {
       genre: "beat em up",
       title: "Batman Begins",
       year: "2005",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/17952864919f69a30f88845f57405f79.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/715b66f8b96f226789e740c8c9b21153.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/0bdc3edd84a5ad81660345686552f38b.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Batman%20Begins%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.gba",
-      sinopsis: "Step into the shadows of Gotham City’s perilous criminal underworld as DC Comics’ legendary Dark Knight in the Batman BeginsTM video game. Slated for release day and date with the Warner Bros. Pictures film, Batman Begins challenges players to use fear as their ultimate weapon."
+      rom: "https://dl.dropboxusercontent.com/s/x4i8ryy7n89e41y/Batman%20Begins%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.gba",
+      sinopsis: "Entra en las sombras del peligroso inframundo criminal de Gotham City como el legendario Caballero Oscuro de DC Comics en el videojuego Batman Beginstm. Dolgada para el día y la fecha de lanzamiento con la película de imágenes de Warner Bros., Batman Begins desafía a los jugadores a usar el miedo como su arma definitiva."
     },
     {
       id: 31,
@@ -367,13 +310,8 @@ let games = {
       genre: "plataforma",
       title: "Banjo-Kazooie: Grunty's Revenge",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/1dace4e7efa8893c3b3acd21b3fea13f.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/19d9438c1c41a576fbf6738854a84a28.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/e798a0d5dea21ef441815910d5943598.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Banjo-Kazooie%20-%20Grunty%27s%20Revenge%20%28USA%2C%20Europe%29.gba",
-      sinopsis: "Gruntilda is back, and it's up to Banjo and Kazooie to stop her master plan. In Banjo-Kazooie: Grunty's Revenge, you'll play as Banjo and follow him through six worlds rife with trials and contests. Some of the challenges you must overcome include solving puzzles, avoiding obstacles, and battling different enemies. Defeat your foes by using Banjo's array of combat moves. You can also seek help from witch doctors, who can transform Banjo into a mouse, a tank, and other creatures."
+      rom: "https://dl.dropboxusercontent.com/s/gb2p7sbof4md4cs/Banjo-Kazooie%20-%20Grunty%27s%20Revenge%20%28USA%2C%20Europe%29.gba",
+      sinopsis: "Gruntilda está de regreso, y depende de Banjo y Kazooie detener su plan maestro. En Banjo-Kazooie: Grunty's Revenge, jugarás como Banjo y lo seguirás a través de seis mundos llenos de pruebas y concursos. Algunos de los desafíos que debes superar incluyen resolver rompecabezas, evitar obstáculos y luchar contra diferentes enemigos. Derrota a tus enemigos usando la variedad de movimientos de combate de Banjo. También puede buscar ayuda de los médicos de brujas, que pueden transformar el banjo en un ratón, un tanque y otras criaturas."
     },
     {
       id: 32,
@@ -382,13 +320,8 @@ let games = {
       genre: "rpg",
       title: "Beyblade: G-Revolution",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f4000d714c3b4ac1ceb18f1a44de927a.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/8a89c904021d40e2ef4637468b0107b9.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/1871cafd644dbd065a4def56e8723ab4.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Beyblade%20G-Revolution%20%28USA%29.gba",
-      sinopsis: "The G-Revolution is sweeping over the entire Beyblade world, and your job is to challenge the greatest Beybladers and collect valuable parts. Like previous entries in the Beyblade series, G-Revolution lets you pit your spinning top against others in different arenas. In your quest to become world champion, you can build a varied collection of blades, which you can customize with the Beyblade editor. Compete against more than 16 characters in a storyline taken straight from the Beyblade G-Revolution animated series."
+      rom: "https://dl.dropboxusercontent.com/s/2x406gzdvs36rm5/Beyblade%20G-Revolution%20%28USA%29.gba",
+      sinopsis: "La revolución G está barriendo todo el mundo de Beyblade, y su trabajo es desafiar a los mejores Beybladers y recolectar piezas valiosas. Al igual que las entradas anteriores en la serie Beyblade, G-Revolution te permite enfrentar tu top giratoria contra otros en diferentes arenas. En tu búsqueda para convertirte en campeón mundial, puedes construir una variada colección de cuchillas, que puedes personalizar con el editor de Beyblade. Compite contra más de 16 personajes en una historia tomada directamente de la serie animada Beyblade G-Revolution."
     },
     {
       id: 33,
@@ -397,13 +330,8 @@ let games = {
       genre: "rpg",
       title: "Bomberman Tournament",
       year: "2001",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/0a4929b3fe06ab4cd44322f497c78879.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/46d9651681cc411ec0da74848ffb8197.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/022d682784c20ccc9176ceff49b82c0b.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Bomberman%20Tournament%20%28USA%2C%20Europe%29.gba",
-      sinopsis: "An S.O.S. from the cosmos signals that planet Phantarion is in trouble! Grab your arsenal and get ready for non-stop action as you blast your way through interactive battlefields and take on up to 4 real-time players. Battle opponents through 8 interactive battlefield mazes! Take on up to 4 players in multi-player blastfests! Fast, furious, explosive bombing adventure!"
+      rom: "https://dl.dropboxusercontent.com/s/zmf3ste1soa5xhw/Bomberman%20Tournament%20%28USA%2C%20Europe%29.gba",
+      sinopsis: "Un S.O.S. ¡De las señales de Cosmos de que el planeta Phantarion está en problemas! Tome su arsenal y prepárese para una acción sin parar mientras avanza a través de campos de batalla interactivos y asume hasta 4 jugadores en tiempo real. ¡Battle Opponents a través de 8 laberintos interactivos en el campo de batalla! ¡Asumir hasta 4 jugadores en Blastfests de múltiples jugadores! ¡Aventura de bombardeo rápida, furiosa y explosiva!"
     },
     {
       id: 34,
@@ -412,13 +340,8 @@ let games = {
       genre: "rpg",
       title: "Breath of Fire",
       year: "1993",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/310a7bddf9c90499ac797e88c6ae4453.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/1fa734caf1090f7af9249745564ec09b.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/1d7f7d5faea7d8528d45aeaf191868c1.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Breath%20of%20Fire%20%28USA%29.gba",
-      sinopsis: "Recognized by Capcom as their first traditional role-playing video game, Breath of Fire would set the precedent for future entries in the series, and features character designs by company head of development Keiji Inafune, as well as music by members of Capcom's in-house sound team Alph Lyla. In 2001, the game was re-released for the Game Boy Advance handheld system with new save features and minor graphical enhancements, with the English version being released in Europe for the first time."
+      rom: "https://dl.dropboxusercontent.com/s/87hvqrup598ntbc/Breath%20of%20Fire%20%28USA%29.gba",
+      sinopsis: "Reconocido por Capcom como su primer videojuego tradicional de roles, Breath of Fire sentaría el precedente para futuras entradas en la serie y presenta diseños de personajes del Jefe de Desarrollo de la Compañía Keiji Inafune, así como la música de los miembros de Capcom's Into-House Sound Team Alph Lyla. En 2001, el juego fue relanzado para el sistema de mano Game Boy Advance con nuevas características de guardado y mejoras gráficas menores, con la versión en inglés que se lanza en Europa por primera vez."
     },
     {
       id: 35,
@@ -427,13 +350,8 @@ let games = {
       genre: "plataforma",
       title: "Castlevania: Circle of the Moon",
       year: "2001",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/98d18f067382e282b98734bf528b4178.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/b30958093daeed059670b35173654dc9.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9b71706cb7d7b32ad744c88113c7e83a.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Castlevania%20-%20Circle%20of%20the%20Moon%20%28USA%29.gba",
-      sinopsis: "Castlevania: Circle of the Moon is the first of the series to be based on the action/RPG structure of Castlevania:Symphony of the Night rather than the level-based action style of all previous Castlevania games. Dracula's castle is a single continuous building, and as Nathan discovers artifacts within it he gains new abilities that allow him to explore more of it. While Nathan can only use his Killer Whip as a weapon, he can find and equip different kinds of armor and accessories that change his stats. Unique to this entry in the series is the Dual Set-up System, where a combination of two cards will give Nathan unique magical abilities. For example, equipping a fire type card with a whip card will give the Killer Whip a fire attribute, while equipping it with a summon card will let Nathan summon a fire demon to attack onscreen enemies."
+      rom: "https://dl.dropboxusercontent.com/s/9hedqhnrcz8y7f6/Castlevania%20-%20Circle%20of%20the%20Moon%20%28USA%29.gba",
+      sinopsis: "Castlevania: Circle of the Moon es el primero de la serie que se basa en la estructura de acción/RPG de Castlevania: Sinfonía de la noche en lugar del estilo de acción basado en niveles de todos los juegos anteriores de Castlevania. El castillo de Drácula es un solo edificio continuo, y cuando Nathan descubre artefactos dentro de él, gana nuevas habilidades que le permiten explorar más. Si bien Nathan solo puede usar su látigo asesino como arma, puede encontrar y equipar diferentes tipos de armadura y accesorios que cambian sus estadísticas. Único de esta entrada en la serie es el sistema de configuración dual, donde una combinación de dos cartas le dará a Nathan habilidades mágicas únicas. Por ejemplo, equipar una tarjeta tipo fuego con una tarjeta de látigo le dará al asesino un atributo de fuego, mientras que la equipar con una tarjeta de invocación permitirá a Nathan convocar a un demonio de fuego para atacar a los enemigos en pantalla."
     },
     {
       id: 36,
@@ -442,13 +360,8 @@ let games = {
       genre: "rpg",
       title: "Breath of Fire II",
       year: "1994",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f817154f97e447b8b003591c9bd5537a.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/54e0e46b6647aa736c13ef9d09eab432.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/16ff2a6adf8f3b8d2ec7bb6777eac8a0.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Breath%20of%20Fire%20II%20%28USA%29.gba",
-      sinopsis: "The incredible sequel to the best-selling RPG hit Breath of Fire is here! You are the last member of the Dragon clan, fighting to rid the world of a growing evil. A cast of unusual and exciting companions joins you in your adventures across a wondrous land full of magic and mystery. You'll find strange mystic items, memorable monsters and exotic locations in your quest to conquer evil. There's strategy and spellcasting galore in the hours of compelling action and adventure that awaits you. Breath of Fire II is the ultimate in RPG excitement!"
+      rom: "https://dl.dropboxusercontent.com/s/ryjy5l4kdjm1zge/Breath%20of%20Fire%20II%20%28USA%29.gba",
+      sinopsis: "¡La increíble secuela del RPG Hit Breath of Fire más vendido está aquí! Eres el último miembro del clan Dragon, que lucha por librar al mundo de un mal creciente. Un elenco de compañeros inusuales y emocionantes se une a ti en tus aventuras a través de una maravillosa tierra llena de magia y misterio. Encontrarás extraños elementos místicos, monstruos memorables y ubicaciones exóticas en tu búsqueda para conquistar el mal. Hay estrategia y lanzamiento de hechizos en abundancia en las horas de acción convincente y aventura que te espera. ¡Breath of Fire II es lo último en la emoción de RPG!"
     },
     {
       id: 37,
@@ -457,13 +370,8 @@ let games = {
       genre: "plataforma",
       title: "Castlevania: Harmony of Dissonance",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/c9a82215f8133f873beb8804911eef52.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/87786131694e11c1ba38107de8ffae8e.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/12d836bf64839f987338414ccbec657f.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Castlevania%20-%20Harmony%20of%20Dissonance%20%28USA%29.gba",
-      sinopsis: "Nearly fifty years has past since Simon Belmont rescued the land from the curse of Dracula. Now, Simon's descendant Juste Belmont, must acquire the relics of Dracula to unravel the disappearance of his childhood friend Lydie. The castle's enchanting mysteries and danger await all those who dare enter."
+      rom: "https://dl.dropboxusercontent.com/s/78x9qvvuqzho7uu/Castlevania%20-%20Harmony%20of%20Dissonance%20%28USA%29.gba",
+      sinopsis: "Casi cincuenta años ha pasado desde que Simon Belmont rescató la tierra de la maldición de Drácula. Ahora, el descendiente de Simon, Juste Belmont, debe adquirir las reliquias de Drácula para desentrañar la desaparición de su amiga de la infancia Lydie. Los misterios y el peligro encantadores del castillo esperan a todos los que se atreven a entrar."
     },
     {
       id: 38,
@@ -472,13 +380,8 @@ let games = {
       genre: "plataforma",
       title: "Crash Bandicoot: The Huge Adventure",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/af37f5b0de67364f54d9b53d8e8afbfa.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4b34cc1bf1623b6d6532ed63ff6ae276.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ef05b664c6ed342599d949001afa7b4a.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Crash%20Bandicoot%20-%20The%20Huge%20Adventure%20%28USA%29.gba",
-      sinopsis: "Tired of endlessly doing battle with meddling bandicoots, the nefarious Dr. Neo Cortex shrinks the entire Earth, and Crash and Coco along with it, to the size of a wumpa fruit. Luckily, Coco invents a machine to reverse the effects, but she needs crystals from around the world to power it. Crash must retrieve the crystals to help return the entire planet to its natural state. Experience Crash's biggest adventure yet, with gameplay modes ranging from side-scrolling to 3D chase levels to aerial dogfight combat sequences. Battle your way through over 20 huge levels and six unique locations to defeat Cortex and save the world."
+      rom: "https://dl.dropboxusercontent.com/s/1tnc30aoe5rwg10/Crash%20Bandicoot%20-%20The%20Huge%20Adventure%20%28USA%29.gba",
+      sinopsis: "Cansado de hacer una batalla sin cesar con los pandicoots entrometidos, el nefasto Dr. Neo Cortex encoge toda la tierra, y se estrella y coco junto con ella, al tamaño de una fruta Wumpa. Afortunadamente, Coco inventa una máquina para revertir los efectos, pero necesita cristales de todo el mundo para alimentarla. Crash debe recuperar los cristales para ayudar a devolver todo el planeta a su estado natural. Experimente la mayor aventura de Crash hasta el momento, con modos de juego que van desde las secuencias de combate de pelea de perros a la descripción de 3D hasta las secuencias de combate de pelea de perros. Abriendo a través de más de 20 niveles enormes y seis ubicaciones únicas para derrotar a Cortex y salvar el mundo."
     },
     {
       id: 39,
@@ -487,13 +390,8 @@ let games = {
       genre: "plataforma",
       title: "Crash Bandicoot 2: N-Tranced",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/5b6ef4c86592199551f2017f5693c3cc.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9f07f48cb91caf26dc0e4d76caac2826.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/18c9da69761a42ae620d9e9b0a57eb56.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Crash%20Bandicoot%202%20-%20N-Tranced%20%28USA%29.gba",
-      sinopsis: "Crash is back and ready to take on an all-new nefarious villain. After the events of Crash Bandicoot: The Huge Adventure, Tropy, with the help of N. Trance, kidnaps Coco and Crunch, planning to brainwash them to the evil side. Now, Crash must travel to N. Trance's twisted realm, battle and rescue Coco and Crunch, and ultimately defeat N. Trance and N. Tropy. To achieve these goals, you must use all of Crash's spin, slide, and jumping abilities across 24 different levels. As you progress through the game, you'll find yourself flying a helicopter, water-skiing, and piloting a spaceship--all for the sake of saving your friends."
+      rom: "https://dl.dropboxusercontent.com/s/8q46zekqg1jhtp1/Crash%20Bandicoot%202%20-%20N-Tranced%20%28USA%29.gba",
+      sinopsis: "Crash ha vuelto y está listo para enfrentarse a un nuevo villano nefasto. Después de los eventos de Crash Bandicoot: The enorme aventura, Tropy, con la ayuda de N. Trance, secuestra a Coco y Crunch, planeando lavarlos con cerebro al lado malvado. Ahora, Crash debe viajar al reino retorcido de N. Trance, Battle and Rescue Coco y Crunch, y finalmente derrotar a N. Trance y N. Tropy. Para lograr estos objetivos, debe usar todas las habilidades de Crash's Spin, Slide y Jumping en 24 niveles diferentes. A medida que avanzas en el juego, te encontrarás volando un helicóptero, esquí de agua y pilotando una nave espacial, todo en aras de salvar a tus amigos."
     },
     {
       id: 40,
@@ -502,13 +400,8 @@ let games = {
       genre: "carreras",
       title: "Crash Nitro Kart",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/305b4101de6e18dd7bf1ca14f0f534eb.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/b1ab8aea23da706493a95512b29c7dd7.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/8e0a27a37a70dfd4ac16e0f57a08b641.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Crash%20Nitro%20Kart%20%28USA%29.gba",
-      sinopsis: "Crash Bandicoot returns to the karting scene with a host of other characters from the adventure series, and this time they have both Neo Cortex and Emperor Velo to worry about. Velo has taken the crew to a remote planet, forced to race for their lives against Neo Cortex and his many evil doers."
+      rom: "https://dl.dropboxusercontent.com/s/3w5xnx89n5kn514/Crash%20Nitro%20Kart%20%28USA%29.gba",
+      sinopsis: "Crash Bandicoot regresa a la escena de karting con una gran cantidad de otros personajes de la serie Adventure, y esta vez tienen que preocuparse tanto por Neo Cortex y Emperor Velo. Velo ha llevado a la tripulación a un planeta remoto, obligado a competir por sus vidas contra Neo Cortex y sus muchos hacedores malvados."
     },
     {
       id: 41,
@@ -517,13 +410,8 @@ let games = {
       genre: "peleas",
       title: "Digimon: Battle Spirit",
       year: "2001",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/e5fb4c8a0221ae2e50d3efdbc5a991c3.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/2eb8302605d2cacb6457d1f4af221875.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/23e10f3c6987443b6f6929e72dabbe67.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Digimon%20-%20Battle%20Spirit%20%28USA%29.gba",
-      sinopsis: "Digimon Battle Spirit is a fighting game originally published by Bandai and developed by Dimps for the Japanese-only WonderSwan Color handheld system under the name Digimon Tamers: Battle Spirit. It was later ported to Nintendo's Game Boy Advance for international releases in North America and Europe two years later."
+      rom: "https://dl.dropboxusercontent.com/s/zymrsn1s84ubk4y/Digimon%20-%20Battle%20Spirit%20%28USA%29.gba",
+      sinopsis: "Digimon Battle Spirit es un juego de lucha publicado originalmente por Bandai y desarrollado por DIMPS para el sistema de mano Wonderswan Color Handheld bajo el nombre de Digimon Tamers: Battle Spirit. Más tarde fue portado a Game Boy Advance de Nintendo para lanzamientos internacionales en América del Norte y Europa dos años después."
     },
     {
       id: 42,
@@ -532,13 +420,8 @@ let games = {
       genre: "peleas",
       title: "Digimon: Battle Spirit 2",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/2ea77d751f5a0475b34c8e90815d97eb.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/6f871b1338ddda89ec59dc3570858cd9.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6dfbcb8172dbfca2e94b3ec9a99789a5.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Digimon%20-%20Battle%20Spirit%202%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
-      sinopsis: "It is a sequel to Digimon: Battle Spirit. You can battle with the characters from the Digimon Frontier anime series. Developed by Dimps."
+      rom: "https://dl.dropboxusercontent.com/s/2bto1a6347ulys8/Digimon%20-%20Battle%20Spirit%202%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
+      sinopsis: "Es una secuela de Digimon: Battle Spirit. Puedes luchar con los personajes de la serie Digimon Frontier Anime. Desarrollado por dimps."
     },
     {
       id: 43,
@@ -547,13 +430,8 @@ let games = {
       genre: "plataforma",
       title: "Donkey Kong Country",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/40a8107bf1fd560cd77264cd9d72d9ec.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/0b7a9d54deeb611edc4540d286e9a042.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6524341b411c77cdbd9dbc15f522c7b3.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Donkey%20Kong%20Country%20%28USA%29.gba",
-      sinopsis: "Donkey Kong Country is a side scrolling platformer by British developers Rare in 1994. It featured revolutionary pre-rendered 3D graphics that give the game a very unique look compared to most other games on consoles at the time. The two playable characters featured in the game are the titular character, Donkey Kong and his nephew, Diddy Kong. Together the two swing, climb, jump, swim, cartwheel, ride animals, and blast out of barrels on their way to recover their stolen bannanas from the evil King K. Rool and his Kremling army. The adventure takes you through a variety of different environments and levels that continually change up gameplay. Donkey Kong Country also provides plenty of opportunities for exploration with almost every level having a multitude of collectible, shortcuts, and hidden bonus areas."
+      rom: "https://dl.dropboxusercontent.com/s/l7nsg1yfqvniilh/Donkey%20Kong%20Country%20%28USA%29.gba",
+      sinopsis: "Donkey Kong Country es un juego de plataformas de desplazamiento lateral de desarrolladores británicos RARA en 1994. Presentó gráficos 3D revolucionarios pre-renderizados que le dan al juego un aspecto único en comparación con la mayoría de los otros juegos en las consolas en ese momento. Los dos personajes jugables presentados en el juego son el personaje titular, Donkey Kong y su sobrino, Diddy Kong. Juntos, los dos swing, trepan, saltan, nadan, la rueda de carreras, viajan animales y salen de los barriles en su camino para recuperar sus bannanas robadas del malvado rey K. Rool y su ejército de Kremling. La aventura lo lleva a través de una variedad de entornos y niveles diferentes que cambian continuamente el juego. Donkey Kong Country también ofrece muchas oportunidades para explorar con casi todos los niveles que tienen una multitud de áreas de bonificación coleccionables, atajos y ocultas."
     },
     {
       id: 44,
@@ -562,13 +440,8 @@ let games = {
       genre: "plataforma",
       title: "Donkey Kong Country 2",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/e0c3fca242d8b12c40cf7d9057be798c.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/713fd63d76c8a57b16fc433fb4ae718a.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/d8ffe0099bb7e2c98f8e6e5c37baffa2.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Donkey%20Kong%20Country%202%20%28USA%29.gba",
-      sinopsis: "Donkey Kong Country 2 is a remake of the SNES game Donkey Kong Country 2: Diddy's Kong Quest. It is the second game in the series of remakes of the original Country trilogy for the Game Boy Advance."
+      rom: "https://dl.dropboxusercontent.com/s/72mz35tg5b2xhur/Donkey%20Kong%20Country%202%20%28USA%29.gba",
+      sinopsis: "Donkey Kong Country 2 es una nueva versión del juego SNES Donkey Kong Country 2: Diddy's Kong Quest. Es el segundo juego de la serie de remakes de la trilogía country original para Game Boy Advance."
     },
     {
       id: 45,
@@ -577,13 +450,8 @@ let games = {
       genre: "plataforma",
       title: "Donkey Kong Country 3",
       year: "2005",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/3acf3ca403eefd71d9820f4a3910284f.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/8091588a3968da46e3e43a76bf3b3a98.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/a78cd673323dd4da94a6a78acb242ae9.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Donkey%20Kong%20Country%203%20%28USA%29.gba",
-      sinopsis: "Donkey Kong Country 3 is the Game Boy Advance version of the SNES game Donkey Kong Country 3 Dixie Kongs Double Trouble!. Although being developed as a port, the game has a different soundtrack composed by the veteran of the series David Wise, new minigames, worlds and overworld map layout."
+      rom: "https://dl.dropboxusercontent.com/s/4vaweyncjeizl7g/Donkey%20Kong%20Country%203%20%28USA%29.gba",
+      sinopsis: "Donkey Kong Country 3 ¡es la versión Game Boy Advance del juego SNES Donkey Kong Country 3 Dixie Kongs Double Trouble!. Aunque se desarrolla como un puerto, el juego tiene una banda sonora diferente compuesta por el veterano de la serie David Wise, nuevos minijuegos, mundos y diseño de mapas Overworld."
     },
     {
       id: 46,
@@ -592,13 +460,8 @@ let games = {
       genre: "shooter",
       title: "DOOM",
       year: "1993",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/ef58f7ffe086514aa0164c7fc4f6cea8.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/154aa6866aefb6f8d0b722621fa71e83.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/64c26b2a2dcf068c49894bd07e0e6389.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Doom%20%28USA%2C%20Europe%29.gba",
-      sinopsis: "In the future, humans have left Earth and settled throughout the galaxy. On Mars, the Union Aerospace Corporation has established a radioactive waste facility and allowed the military to conduct teleportation experiments on the nearby moons of Deimos and Phobos. Hours ago, the base on Mars began receiving incoherent distress messages from Phobos, while Deimos has disappeared completely. With all attempts to establish contact failing, you and your team have been dispatched to investigate. Upon arrival, you secure the perimeter as the rest of your team enters the facility. As you stand guard, your radio crackles with the sound of gunfire, cracking bones and blood-curdling screams and eventually falls silent. Alone, with no way off the planet or means to defend yourself other than your trusty pistol, there’s only one way out - into the complex of death and the horrors that await you within. If you plan to get out of here alive you must fend off the hordes of demonic imps, haunting spectres and your undead, former comrades waiting to tear you limb from limb. So, grab the nearest shotgun and blast your way out of this fragging madness!"
+      rom: "https://dl.dropboxusercontent.com/s/noumu4cd1levyiw/Doom%20%28USA%2C%20Europe%29.gba",
+      sinopsis: "En el futuro, los humanos han abandonado la Tierra y se han establecido en toda la galaxia. En Marte, la Corporación Aeroespacial de la Unión ha establecido una instalación de residuos radiactivos y ha permitido a los militares realizar experimentos de teletransportación en las lunas cercanas de Deimos y Phobos. Hace horas, la base en Marte comenzó a recibir mensajes de angustia incoherentes de Phobos, mientras que Deimos ha desaparecido por completo. Con todos los intentos de establecer un contacto de contacto, usted y su equipo han sido enviados para investigar. A su llegada, asegura el perímetro cuando el resto de su equipo ingresa a las instalaciones. Mientras te pares, tu radio se cree con el sonido de los disparos, los huesos que se agrietan y los gritos que lloran la sangre y finalmente se callan. Solo, sin camino fuera del planeta ni medios para defenderse más que su pistola de confianza, solo hay una salida: hacia el complejo de la muerte y los horrores que te esperan. Si planea salir de aquí vivo, debe defenderse de las hordas de los imps demoníacos, los espectros inquietantes y sus no muertos, antiguos camaradas que esperan arrancarle la extremidad de la extremidad. ¡Entonces, toma la escopeta más cercana y sale de esta locura fragmentada!"
     },
     {
       id: 47,
@@ -607,13 +470,8 @@ let games = {
       genre: "shooter",
       title: "DOOM II: Hell on Earth",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/200aa768bcab054a00277c796a717919.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/853573b5a907ed8b2f4fec25a92406a2.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ef95afafde712120bb708d12b6217a9a.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Doom%20II%20%28USA%29.gba",
-      sinopsis: "Celebrate DOOM's 25th anniversary with the re-release of DOOM II. This beloved sequel to the groundbreaking DOOM (1993) gave players the brutal Super Shotgun to bear against deadlier demons, and the infamous boss, the Icon of Sin."
+      rom: "https://dl.dropboxusercontent.com/s/ajierihfg76o4th/Doom%20II%20%28USA%29.gba",
+      sinopsis: "Celebre el 25 aniversario de Doom con el relanzamiento de Doom II. Esta querida secuela de la innovadora Doom (1993) dio a los jugadores la brutal súper escopeta para soportar los demonios más mortales, y el infame jefe, el ícono del pecado."
     },
     {
       id: 48,
@@ -622,12 +480,8 @@ let games = {
       genre: "shooter",
       title: "Duke Nukem Advance",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/158885de844ae92913127bddcebfe2e1.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/d0dcf063a9c7678ef849da47e7b5c359.png",
-      background: "",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Duke%20Nukem%20Advance%20%28USA%29.gba",
-      sinopsis: "Alien scientists have plotted to take over the earth; it's Duke Nukem's job to prevent them from executing their evil science project. Duke's using his full arsenal of weapons and is teleporting to various locations around the world in order to stop the alien menaces. Most importantly, he'll make them pay!"
+      rom: "https://dl.dropboxusercontent.com/s/uuevhwpkj8le51g/Duke%20Nukem%20Advance%20%28USA%29.gba",
+      sinopsis: "Los científicos alienígenas han trazado a hacerse cargo de la tierra; Es el trabajo de Duke Nukem evitar que ejecuten su proyecto de ciencias malvadas. Duke usa su arsenal completo de armas y se está teletransportando a varios lugares del mundo para detener las amenazas alienígenas. Lo más importante, ¡los hará pagar!"
     },
     {
       id: 49,
@@ -636,13 +490,8 @@ let games = {
       genre: "rpg",
       title: "Final Fantasy Tactics Advance",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/68e83a098ab85c9ae13d07b6774f5a3b.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/1b246c2b83b7f322480a19abdd2ceff6.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6dd2f7fb9018bfcd8c3be1f8e65224ae.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Final%20Fantasy%20Tactics%20Advance%20%28USA%29.gba",
-      sinopsis: "Squaresoft brings its popular Final Fantasy franchise to the Game Boy Advance in the form of strategic warfare. Final Fantasy Tactics Advance trails the story of a young boy named Marche who is magically transported from his sleepy modern-time home to a strange kingdom where magic and adventure reign supreme."
+      rom: "https://dl.dropboxusercontent.com/s/mxcqlsbk5iwd90z/Final%20Fantasy%20Tactics%20Advance%20%28USA%29.gba",
+      sinopsis: "Squaresoft trae su popular franquicia de Final Fantasy a Game Boy Advance en forma de guerra estratégica. Final Fantasy Tactics Advance sigue la historia de un niño llamado Marche, que es transportado mágicamente desde su tranquila casa en el tiempo moderno a un reino extraño donde la magia y la aventura reinan supremas."
     },
     {
       id: 50,
@@ -651,13 +500,8 @@ let games = {
       genre: "beat em up",
       title: "Final Fight One",
       year: "2001",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/5dc89c28baca43cbed1314fce5c08be5.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/f9c42040716c5ec592a0cd1735e596ff.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/db98dc0dbafde48e8f74c0de001d35e4.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Final%20Fight%20One%20%28USA%29.gba",
-      sinopsis: "Classic arcade action is unleased on the Game Boy Advance system in Final Fight One. There's trouble in Metro City. The members of the Mad Gear Gang have kidnapped the mayor's daughter Jessica and the clock is ticking. The mayor, an ex-street fighter himself, calls in the big guns to help, enlisting the iron fist team of Cody and Guy. Now, it's a race against time to scour the city, defeat an army of the Mad Gear Gang's minions, and rescue Jessica before it's too late!"
+      rom: "https://dl.dropboxusercontent.com/s/45b1bvk66nssvak/Final%20Fight%20One%20%28USA%29.gba",
+      sinopsis: "Classic Arcade Action se desabrocha en el sistema Game Boy Advance en Final Fight One. Hay problemas en Metro City. Los miembros de la pandilla Mad Gear han secuestrado a la hija del alcalde Jessica y el reloj está marcando. El alcalde, un ex luchador de la calle, llama a las grandes armas para ayudar, alistando al equipo de Iron Fist de Cody y Guy. Ahora, es una carrera contra el tiempo para recorrer la ciudad, derrotar a un ejército de los secuaces de la pandilla de los equipos locos y rescatar a Jessica antes de que sea demasiado tarde."
     },
     {
       id: 51,
