@@ -510,13 +510,8 @@ let games = {
       genre: "rpg",
       title: "Fire Emblem: The Sacred Stones",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f3fd691d421ff0115dfc5310d4d3e701.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/838f14a84363d9a7ac1b06ad63fc6fb5.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/713f96370f69fb23e3387062bc914719.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Fire%20Emblem%20-%20The%20Sacred%20Stones%20%28USA%2C%20Australia%29.gba",
-      sinopsis: "In Fire Emblem: The Sacred Stones, you must help protect the nation of Renais from the invading Grado Empire. Plan your strategy, choose your units, and then lead your soldiers in to battle. The more experience your soldiers gain, the more you can upgrade their abilities. This time, your soldiers can gain experience by fighting new monsters in the Tower of Valni."
+      rom: "https://dl.dropboxusercontent.com/s/4q56q11cuka23y3/Fire%20Emblem%20-%20The%20Sacred%20Stones%20%28USA%2C%20Australia%29.gba",
+      sinopsis: "En Fire Emblem: The Sacred Stones, debes ayudar a proteger a la nación de Renais de la invasión del Imperio Grado. Planifica tu estrategia, elige tus unidades y luego dirige a tus soldados a la batalla. Cuanta más experiencia ganen tus soldados, más podrás mejorar sus habilidades. Esta vez, tus soldados pueden ganar experiencia luchando contra nuevos monstruos en la Torre de Valni."
     },
     {
       id: 52,
@@ -525,13 +520,8 @@ let games = {
       genre: "carreras",
       title: "F-Zero: Maximum Velocity",
       year: "2001",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a414c0a69b3e3b87f2f7acdb9e4e2c2b.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/aba2b11d01c3742d77a4391276731579.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/78d69f40906679a976dc4d45cebffbe6.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/F-Zero%20-%20Maximum%20Velocity%20%28USA%2C%20Europe%29.gba",
-      sinopsis: "All galactic speed limits are about to be broken! F-Zero Maximum Velocity has arrived, and the future of racing has never looked so sweet. Brand-new vehicles and Game Boy Advance original tracks await, so whether you're a Super NES veteran or a race rookies, you'll need some practice laps. And even if you do master the Grand Prix circuit, you'll still have to beat your friends to the finish line. That's right, race fans--with the Game Boy Advance Game Link cable you can take on up to three rival racers, so put the pedal to the metal and get busy boosting, bumping and jumping your way to intergalactic glory!"
+      rom: "https://dl.dropboxusercontent.com/s/7hsyinhs3zwjyn6/F-Zero%20-%20Maximum%20Velocity%20%28USA%2C%20Europe%29.gba",
+      sinopsis: "¡Todos los límites de velocidad galácticos están a punto de romperse! F-Zero Maximum Velocity ha llegado, y el futuro de las carreras nunca ha sido tan atractivo. Te esperan vehículos nuevos y pistas originales de Game Boy Advance, así que, ya seas un veterano de Super NES o un novato en las carreras, necesitarás algunas vueltas de práctica. E incluso si dominas el circuito de Grand Prix, aún tendrás que vencer a tus amigos hasta la línea de meta. Así es, fanáticos de las carreras: con el cable Game Link de Game Boy Advance pueden enfrentarse a hasta tres corredores rivales, ¡así que pisen el pedal a fondo y manténganse ocupados impulsando, chocando y saltando hacia la gloria intergaláctica!"
     },
     {
       id: 53,
@@ -540,13 +530,8 @@ let games = {
       genre: "rpg",
       title: "Golden Sun: The Lost Age",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f7a37caa4cff44e1474728478f48630f.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/585eb4127afd003bd784f6e8dc132be2.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f7eaf1a7777e1ac6d3cddd1df25917df.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Golden%20Sun%20-%20The%20Lost%20Age%20%28USA%2C%20Europe%29.gba",
-      sinopsis: "The story of Golden Sun: The Lost Age picks up right near the end of the first game. Golden Sun veterans will be surprised to learn that The Lost Age is played from the point of view of the party being chased as they try to light the remaining two lighthouses, which will unlock the power of alchemy for the world--or will it instead unlock the world's destruction?"
+      rom: "https://dl.dropboxusercontent.com/s/qldkobdyhovcmuw/Golden%20Sun%20-%20The%20Lost%20Age%20%28USA%2C%20Europe%29.gba",
+      sinopsis: "La historia de Golden Sun: The Lost Age comienza justo al final del primer juego. Los veteranos de Golden Sun se sorprenderán al saber que The Lost Age se juega desde el punto de vista del grupo perseguido mientras intentan encender los dos faros restantes, lo que desbloqueará el poder de la alquimia para el mundo, o lo hará. desbloquear la destrucción del mundo?"
     },
     {
       id: 54,
@@ -555,13 +540,8 @@ let games = {
       genre: "rpg",
       title: "Golden Sun",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/705851a22d36a2e9ab6e8e3a11fb515a.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/b5ea9736b6a0b6f8a54f9f27c6e08c3e.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/e633e2ac7a14a4d56384f38df943792b.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Golden%20Sun%20%28USA%2C%20Europe%29.gba",
-      sinopsis: "RPG from the makers of Shining Force, featuring an adventure filled with tried-and-true overhead-wandering, random-battle gameplay that looks absolutely sweet on the Game Boy Advance small screen...in fact, this game arguably rivals most of the classic RPGs that have ended up on the console systems, like Dragon Warrior or the aforementioned Final Fantasy series, for example. You play Isaac, a young swordsman and resident of the town of Vale, and at the beginning of the adventure a storm is brewing outside that forces Isaac to flee to safety. But every virtual adventurer knows that it's never as simple as that, and eventually you're thrust into the role of the world's savior, befriending other skilled adventurers that will join your crusade...there's strength in numbers, as the phrase goes."
+      rom: "https://dl.dropboxusercontent.com/s/73szt1z0uy9hluh/Golden%20Sun%20%28USA%2C%20Europe%29.gba",
+      sinopsis: "Juego de rol de los creadores de Shining Force, que presenta una aventura llena de juegos aleatorios de batallas aleatorias que se ven absolutamente geniales en la pantalla pequeña de Game Boy Advance ... de hecho, este juego podría decirse que rivaliza con la mayoría de los RPG clásicos que han acabado en las consolas, como Dragon Warrior o la mencionada serie Final Fantasy, por ejemplo. Interpretas a Isaac, un joven espadachín residente de la ciudad de Vale, y al comienzo de la aventura se avecina una tormenta que obliga a Isaac a huir a un lugar seguro. Pero todos los aventureros virtuales saben que nunca es tan simple como eso, y eventualmente te lanzan al papel de salvador del mundo, haciéndote amigo de otros aventureros hábiles que se unirán a tu cruzada... hay fuerza en los números, como dice la frase."
     },
     {
       id: 55,
@@ -570,13 +550,8 @@ let games = {
       genre: "shooter",
       title: "Gunstar Super Heroes",
       year: "2005",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/8387df63e8f826f3c23b8875a27059e9.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/55e5ee49a5fc483feb86b0718e1d3716.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/85cc5d67d3e0b0746f7e8796a4566d97.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Gunstar%20Super%20Heroes%20%28USA%29.gba",
-      sinopsis: "Your enemies intend to use a powerful crystal to resurrect the devastating God of Ruin and it's up to the Gunstar Heroes, Blue and Red to stop them! Developed by critically acclaimed developer, Treasure, this fast-paced action game will push your Game Boy Advance to the limits!"
+      rom: "https://dl.dropboxusercontent.com/s/zediy9thmqluf5u/Gunstar%20Super%20Heroes%20%28USA%29.gba",
+      sinopsis: "¡Tus enemigos tienen la intención de usar un poderoso cristal para resucitar al devastador Dios de la Ruina y depende de los Gunstar Heroes, Blue y Red para detenerlos! Desarrollado por el desarrollador aclamado por la crítica, Treasure, ¡este juego de acción de ritmo rápido llevará tu Game Boy Advance al límite!"
     },
     {
       id: 56,
@@ -585,13 +560,8 @@ let games = {
       genre: "plataforma",
       title: "Harry Potter and the Chamber of Secrets",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/52953199231420f773349481b159fac2.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4abe8aa8f6fad818f0a9e15f657d75e9.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/342d92157a4240ee35eab60e06a1412e.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%29.gba",
-      sinopsis: "Harry Potter and the Chamber of Secrets is the sequel to Harry Potter and the Sorcerer's Stone for PC and Mac. As its prequel, five different versions of this game were released for different gaming platforms. In this version, you control Harry in an action-adventure platforming gameplay. The most significant difference from the previous game is that gameplay is less linear, with Hogwarts becoming more of an open world. You can Interact with familiar characters from the movie like Ron, Hermione and of course Gilderoy Lockhart. Additionally, there are multiple mini-games and side quests."
+      rom: "https://dl.dropboxusercontent.com/s/60pe4w2zaubaynb/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%29.gba",
+      sinopsis: "Harry Potter y la cámara secreta es la secuela de Harry Potter y la piedra filosofal para PC y Mac. Como precuela, se lanzaron cinco versiones diferentes de este juego para diferentes plataformas de juego. En esta versión, controlas a Harry en un juego de plataformas de acción y aventura. La diferencia más significativa con el juego anterior es que la jugabilidad es menos lineal, con Hogwarts convirtiéndose más en un mundo abierto. Puedes interactuar con personajes familiares de la película como Ron, Hermione y, por supuesto, Gilderoy Lockhart. Además, hay múltiples minijuegos y misiones secundarias."
     },
     {
       id: 57,
@@ -600,13 +570,8 @@ let games = {
       genre: "plataforma",
       title: "Harry Potter and the Prisoner of Azkaban",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a6ebfe17b351634e76d0455d123bcbb1.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4223a1d5b9e017dda51515829140e5d2.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ba48e3bddfd8b7160acdedcad3055780.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.gba",
-      sinopsis: "Harry Potter and the Prisoner of Azkaban is the sequel to Harry Potter and the Chamber of Secrets for PC and Mac, and features similar action-adventure and platforming gameplay. The player controls both Harry as well as his friends Ron and Hermione, while casting spells, solving puzzles and fighting enemies. When not engaged in a specific mission, the castle of Hogwarts can be freely explored. Scattered all around Hogwarts, usually in hidden areas, are Every Flavour Beans, Pumpkin Pasties and Cauldron Cakes, which function as a sort of currency. They can be traded for Collectors Cards, passwords for portraits that lead to more secret areas, and power-ups."
+      rom: "https://dl.dropboxusercontent.com/s/33p1cfqh7owa8rw/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.gba",
+      sinopsis: "Harry Potter y el prisionero de Azkaban es la secuela de Harry Potter y la Cámara de los Secretos para PC y Mac, y presenta un juego similar de acción, aventura y plataformas. El jugador controla tanto a Harry como a sus amigos Ron y Hermione, mientras lanza hechizos, resuelve acertijos y lucha contra enemigos. Cuando no está comprometido en una misión específica, el castillo de Hogwarts se puede explorar libremente. Dispersos por todo Hogwarts, generalmente en áreas ocultas, se encuentran Frijoles de todos los sabores, Pasteles de calabaza y Pasteles de caldero, que funcionan como una especie de moneda. Se pueden intercambiar por tarjetas de coleccionista, contraseñas para retratos que conducen a áreas más secretas y potenciadores."
     },
     {
       id: 58,
@@ -615,13 +580,8 @@ let games = {
       genre: "plataforma",
       title: "Harry Potter and the Sorcerer's Stone",
       year: "2001",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/eaea07c9b307dcd104753f3b41eed9d1.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/e2d083a5fd066b082d93042169313e21.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/a0f56bb43799522951d7a3d3a5b4e597.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Harry%20Potter%20and%20the%20Sorcerer%27s%20Stone%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%29.gba",
-      sinopsis: "Harry Potter and the Sorcerer's Stone is the first Harry Potter video game for the PlayStation, and one of several different games based on the book and movie. This version is a three-dimensional action adventure, where Harry must complete a number of challenges in order to pass his first year of studies at Hogwarts School of Witchcraft and Wizardry. Successful completion of the tasks often results in house points for Harry's house Gryffindor and failure in some deducts points, so the race for the House Cup can stay open until the end."
+      rom: "https://dl.dropboxusercontent.com/s/ys2wpzj3ygx9ysr/Harry%20Potter%20and%20the%20Sorcerer%27s%20Stone%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CSv%2CNo%2CDa%29.gba",
+      sinopsis: "Harry Potter y la piedra filosofal es el primer videojuego de Harry Potter para PlayStation y uno de varios juegos diferentes basados en el libro y la película. Esta versión es una aventura de acción en tres dimensiones, donde Harry debe completar una serie de desafíos para poder aprobar su primer año de estudios en el Colegio Hogwarts de Magia y Hechicería. La finalización exitosa de las tareas a menudo resulta en puntos de la casa para la casa Gryffindor de Harry y el fracaso en algunos puntos de deducción, por lo que la carrera por la Copa de la Casa puede permanecer abierta hasta el final."
     },
     {
       id: 59,
@@ -630,13 +590,8 @@ let games = {
       genre: "rpg",
       title: "Harvest Moon: More Friends of Mineral Town",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/ee82cf8f38d81f98c16099d601acf933.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/5b32eb1adf7d661dfc01777ed24cc7ad.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f6968547901182c947e2fe1aa2d27edc.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Harvest%20Moon%20-%20More%20Friends%20of%20Mineral%20Town%20%28USA%29.gba",
-      sinopsis: "Live the simple life as a farmer in Harvest Moon: More Friends of Mineral Town. This game is similar to the original Harvest Moon: Friends of Mineral Town, but now you can play as a girl who has left the city to pursue a life on the farm. You'll take part in growing crops, managing livestock, finding a husband, and raising children."
+      rom: "https://dl.dropboxusercontent.com/s/ituaomur4wsj9t1/Harvest%20Moon%20-%20More%20Friends%20of%20Mineral%20Town%20%28USA%29.gba",
+      sinopsis: "Vive la vida sencilla como granjero en Harvest Moon: More Friends of Mineral Town. Este juego es similar al original Harvest Moon: Friends of Mineral Town, pero ahora puedes jugar como una chica que ha dejado la ciudad para seguir una vida en la granja. Participarás en el cultivo, la gestión del ganado, la búsqueda de un marido y la crianza de los hijos."
     },
     {
       id: 60,
@@ -645,13 +600,8 @@ let games = {
       genre: "plataforma",
       title: "The Incredible Hulk",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/15dcbf18337d54ac76f9bd023c409064.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/bbd318427404a9653b8760a576a50c26.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/8eb6c13d87ba59b39ba6d8f03f47dcbd.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Incredible%20Hulk%2C%20The%20%28USA%29.gba",
-      sinopsis: "You play Dr Bruce Banner, whose life is turned upside down after a freak accident in the lab transforms his rage into The Incredible Hulk, a massive green muscle machine that is unstoppable once started."
+      rom: "https://dl.dropboxusercontent.com/s/pzbx5p1pizx9q43/Incredible%20Hulk%2C%20The%20%28USA%29.gba",
+      sinopsis: "Interpretas al Dr. Bruce Banner, cuya vida da un vuelco después de que un extraño accidente en el laboratorio transforma su ira en The Incredible Hulk, una enorme máquina de músculos verdes que es imparable una vez que se inicia."
     },
     {
       id: 61,
@@ -660,13 +610,8 @@ let games = {
       genre: "peleas",
       title: "The King of Fighters EX2: Howling Blood",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/84bafb37661859dac5d78025e1aac995.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a522566787b294b2e70ea3d6b8a393d6.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/427d46205152382d9d20f64490c8cce0.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/King%20of%20Fighters%20EX%202%2C%20The%20-%20Howling%20Blood%20%28USA%29.gba",
-      sinopsis: "The King of Fighters EX2: Howling Blood is a fighting game released by Playmore, MMV and Sun-Tec for the Gameboy Advance. It is based on The King of Fighters 2000 and is the sequel of The King of Fighters EX. It was also ported for the N-Gage as The King of Fighters Extreme."
+      rom: "https://dl.dropboxusercontent.com/s/uf1zri7gsjaqph5/King%20of%20Fighters%20EX2%2C%20The%20-%20Howling%20Blood%20%28Europe%29.gba",
+      sinopsis: "The King of Fighters EX2: Howling Blood es un juego de lucha lanzado por Playmore, MMV y Sun-Tec para Gameboy Advance. Está basado en The King of Fighters 2000 y es la secuela de The King of Fighters EX. También fue portado para N-Gage como The King of Fighters Extreme."
     },
     {
       id: 62,
@@ -675,13 +620,8 @@ let games = {
       genre: "rpg",
       title: "Kingdom Hearts: Chain of Memories",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/674872a8edd6d08ff2b1ac2a4ae164b7.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/0d59701b3474225fca5563e015965886.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/18fc3b6cc1e55ccea877c161e2e9ba27.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Kingdom%20Hearts%20-%20Chain%20of%20Memories%20%28USA%29.gba",
-      sinopsis: "Kingdom Hearts: Chain of Memories is the second game in the Kingdom Hearts series. It is a direct sequel to Kingdom Hearts and exclusive to the Game Boy Advance. It was published by Square Enix and developed by Jupiter, and was released in 2004. Chronologically, it is the third game in the timeline after Kingdom Hearts Birth by Sleep and Kingdom Hearts, and takes place during Kingdom Hearts 358/2 Days."
+      rom: "https://dl.dropboxusercontent.com/s/2ej14sen9jio54b/Kingdom%20Hearts%20-%20Chain%20of%20Memories%20%28USA%29.gba",
+      sinopsis: "Kingdom Hearts: Chain of Memories es el segundo juego de la serie Kingdom Hearts. Es una secuela directa de Kingdom Hearts y exclusiva de Game Boy Advance. Fue publicado por Square Enix y desarrollado por Jupiter, y fue lanzado en 2004. Cronológicamente, es el tercer juego en la línea de tiempo después de Kingdom Hearts Birth de Sleep y Kingdom Hearts, y tiene lugar durante Kingdom Hearts 358/2 Days."
     },
     {
       id: 63,
@@ -690,13 +630,8 @@ let games = {
       genre: "plataforma",
       title: "Kirby: Nightmare in Dream Land",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/c51ba765433ff00146f22da10ed4f73e.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/d9749cf32d4dfe38ddc695572dd948b9.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/322cd5382c6c967c00ddcb78643884b3.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Kirby%20-%20Nightmare%20in%20Dream%20Land%20%28USA%29.gba",
-      sinopsis: "A remake of the original Kirby's Adventure for the NES."
+      rom: "https://dl.dropboxusercontent.com/s/r0e8rk1rk463a4m/Kirby%20-%20Nightmare%20in%20Dream%20Land%20%28USA%29.gba",
+      sinopsis: "Una nueva versión del Kirby's Adventure original para NES."
     },
     {
       id: 64,
@@ -705,13 +640,8 @@ let games = {
       genre: "rpg",
       title: "The Legend of Zelda: A Link to the Past & Four Swords",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/34100459175cfa8574d285809004d1e7.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4e0cb6fb5fb446d1c92ede2ed8780188.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/21de0cb3f150ce7676be632a53580651.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20%26%20Four%20Swords%20%28USA%29.gba",
-      sinopsis: "The Legend of Zelda: A Link to the Past & Four Swords features two games, a port of the SNES game The Legend of Zelda: A Link to the Past and a new multiplayer adventure called Four Swords."
+      rom: "https://dl.dropboxusercontent.com/s/ojxgzkonljix3yy/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20%26%20Four%20Swords%20%28USA%29.gba",
+      sinopsis: "The Legend of Zelda: A Link to the Past & Four Swords incluye dos juegos, una adaptación del juego de SNES The Legend of Zelda: A Link to the Past y una nueva aventura multijugador llamada Four Swords."
     },
     {
       id: 65,
@@ -720,13 +650,8 @@ let games = {
       genre: "rpg",
       title: "The Legend of Zelda: The Minish Cap",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a687f78b9842c87225e74921765feb1b.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/e1dc4bf1f94e87fdfeb2d91ae3dc10ef.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/786ab8c4d7ee758f80d57e65582e609d.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Legend%20of%20Zelda%2C%20The%20-%20The%20Minish%20Cap%20%28USA%29.gba",
-      sinopsis: "The Legend of Zelda: The Minish Cap is a top-down action adventure game that tells the origins of the evil Vaati from Four Swords. Like most other titles in the series, The Minish Cap features the fully explorable land of Hyrule, although it can be viewed from the eyes of a human or the eyes of a Minish, a race of tiny people and an alternate form that Link can transform into. Unlike the multiplayer focus of the other games in the series, The Minish Cap retains the original form of exploration and dungeons as seen in A Link to the Past, Oracle of Seasons, and Oracle of Ages, as well as returning characters and game mechanics such as Malon and the Spin Attack. New features include fusing Kinstones and shrinking to the size of a Minish."
+      rom: "https://dl.dropboxusercontent.com/s/02gkpr7ygwal0dx/Legend%20of%20Zelda%2C%20The%20-%20The%20Minish%20Cap%20%28USA%29.gba",
+      sinopsis: "The Legend of Zelda: The Minish Cap es un juego de acción y aventuras de arriba hacia abajo que cuenta los orígenes del malvado Vaati de Four Swords. Como la mayoría de los otros títulos de la serie, The Minish Cap presenta la tierra totalmente explorable de Hyrule, aunque se puede ver desde los ojos de un humano o los ojos de un Minish, una raza de personas diminutas y una forma alternativa que Link puede transformar. en. A diferencia del enfoque multijugador de los otros juegos de la serie, The Minish Cap conserva la forma original de exploración y mazmorras como se ve en A Link to the Past, Oracle of Seasons y Oracle of Ages, así como personajes que regresan y mecánicas de juego como como Malon y el Spin Attack. Las nuevas características incluyen la fusión de Kinstones y la reducción al tamaño de un Minish."
     },
     {
       id: 66,
@@ -735,13 +660,8 @@ let games = {
       genre: "plataforma",
       title: "LEGO Star Wars II: The Original Trilogy",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a4709c38c4d40dd7f64c9d755bf5668a.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/c4bf1e24f3e6f92ca9dfd9a7a1a1049c.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/c678aec6e828c899b32a099c14ee882c.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/LEGO%20Star%20Wars%20II%20-%20The%20Original%20Trilogy%20%28USA%29.gba",
-      sinopsis: "LEGO Star Wars II: The Original Trilogy takes the fun and endless customization of LEGO and combines it with the epic story, characters and action from the original Star Wars movies that revolutionized pop culture forever Episode IV A New Hope, Episode V The Empire Strikes Back and Episode VI Return of the Jedi. With a unique tongue-in-cheek take on the Original Trilogy, LEGO Star Wars II follows the Rebel Alliances crusade to dismantle the Galactic Empire and rebuild a galaxy in pieces."
+      rom: "https://dl.dropboxusercontent.com/s/550784tyj8msjpf/LEGO%20Star%20Wars%20II%20-%20The%20Original%20Trilogy%20%28USA%29.gba",
+      sinopsis: "LEGO Star Wars II: La trilogía original toma la personalización divertida e interminable de LEGO y la combina con la historia épica, los personajes y la acción de las películas originales de Star Wars que revolucionaron la cultura pop para siempre Episodio IV Una nueva esperanza, Episodio V El imperio contraataca y el Episodio VI El Retorno del Jedi. Con una singular versión irónica de la Trilogía Original, LEGO Star Wars II sigue la cruzada de las Alianzas Rebeldes para desmantelar el Imperio Galáctico y reconstruir una galaxia en pedazos."
     },
     {
       id: 67,
@@ -750,13 +670,8 @@ let games = {
       genre: "beat em up",
       title: "The Lord of the Rings: The Return of the King",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/5601077f1cc5aa2ec7bdad06aa84b45f.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/fd03f6198800b312694493f5bbd9407a.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/fc38d019366c0aa622caceb53f7f7a60.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Lord%20of%20the%20Rings%2C%20The%20-%20The%20Return%20of%20the%20King%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
-      sinopsis: "The video game adaption of the acclaimed film of the same name. The Lord of the Rings: The Return of the King is a follow up the well received adaption of the first two films in the trilogy. The game expands on what The Two Towers accomplished, with the action and adventure sequel introducing three separate story lines from the movie: one following Aragorn, Legolas, and Gimli, as The Two Towers did, another following Gandalf, and a third following Frodo and Sam, with Merry, Pippin, and Faramir serving as unlockable characters. Gameplay features were also expanded upon, including multiplayer."
+      rom: "https://dl.dropboxusercontent.com/s/akxv9mucbop34rg/Lord%20of%20the%20Rings%2C%20The%20-%20The%20Return%20of%20the%20King%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
+      sinopsis: "La adaptación en videojuego de la aclamada película del mismo nombre. El Señor de los Anillos: El Retorno del Rey es una continuación de la bien recibida adaptación de las dos primeras películas de la trilogía. El juego amplía lo que logró The Two Towers, con la secuela de acción y aventura que presenta tres líneas argumentales separadas de la película: una sigue a Aragorn, Legolas y Gimli, como hizo The Two Towers, otra sigue a Gandalf y una tercera sigue a Frodo y Sam, con Merry, Pippin y Faramir como personajes desbloqueables."
     },
     {
       id: 68,
@@ -765,13 +680,8 @@ let games = {
       genre: "rpg",
       title: "The Lord of the Rings: The Third Age",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/77913fcb87e326ec735c09bba2dc9f1c.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/90e37a86644071dd69d8bba707678996.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9ed8b53fdab5689b9f2f06c170e6fa32.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Lord%20of%20the%20Rings%2C%20The%20-%20The%20Third%20Age%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
-      sinopsis: "The Lord of the Rings: The Third Age for Game Boy Advance is a turn-based tactics game released in 2004. The game consists of 2 campaigns (Good and Evil). In each campaign the player chooses a commander. As the player completes missions and progresses through the campaign, they are able to use experience points to purchase skills and equipment upgrades in order to enhance the performance of their primary and secondary heroes."
+      rom: "https://dl.dropboxusercontent.com/s/ugnw8fwe47gjyvh/Lord%20of%20the%20Rings%2C%20The%20-%20The%20Third%20Age%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
+      sinopsis: "El Señor de los Anillos: La Tercera Edad para Game Boy Advance es un juego de tácticas por turnos lanzado en 2004. El juego consta de 2 campañas (el bien y el mal). En cada campaña, el jugador elige un comandante. A medida que el jugador completa misiones y avanza en la campaña, puede usar puntos de experiencia para comprar habilidades y mejoras de equipo para mejorar el rendimiento de sus héroes principales y secundarios."
     },
     {
       id: 69,
@@ -780,13 +690,8 @@ let games = {
       genre: "beat em up",
       title: "The Lord of the Rings: The Two Towers",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/d6202419157e51298e67fc3eec9ea14f.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/36f4db8ba6172ac7f4d2cc7248b4dc34.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/dbe1eb558c1979553895969f6213a185.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Lord%20of%20the%20Rings%2C%20The%20-%20The%20Two%20Towers%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.gba",
-      sinopsis: "The Lord of the Rings: The Two Towers is an action and adventure game based off of the first two movies of the popular Lord of the Rings series, The Fellowship of the Ring and The Two Towers. Players battle their way through some of the key events of these films as Aragorn, Legolas, and Gimli."
+      rom: "https://dl.dropboxusercontent.com/s/n3drd1velqfir9g/Lord%20of%20the%20Rings%2C%20The%20-%20The%20Two%20Towers%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.gba",
+      sinopsis: "El Señor de los Anillos: Las Dos Torres es un juego de acción y aventuras basado en las dos primeras películas de la popular serie El Señor de los Anillos, La Comunidad del Anillo y Las Dos Torres. Los jugadores se abren camino a través de algunos de los eventos clave de estas películas como Aragorn, Legolas y Gimli."
     },
     {
       id: 70,
@@ -795,13 +700,8 @@ let games = {
       genre: "plataforma",
       title: "Disney's Magical Quest 3 Starring Mickey & Donald",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/013e18a7ba1d69bb9612e3f12fc31270.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/76d77e63456ae93049d2bfe3e7356354.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/e601ac8ec15075e6c6d0831dbd5a9c81.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Magical%20Quest%203%20Starring%20Mickey%20%26%20Donald%20%28USA%29%20%28En%2CFr%2CDe%29.gba",
-      sinopsis: "Huey, Dewy and Louie went to hide in the attic to hide from their uncle Donald's temper when they came across a mysterious book. Upon opening it, hand appears and kidnaps the boys into Storybook Land. Now Donald Duck and his pal Mickey Mouse must go save the boys by defeating the evil King Pete!"
+      rom: "https://dl.dropboxusercontent.com/s/h3mtk4g2um12js9/Magical%20Quest%203%20Starring%20Mickey%20%26%20Donald%20%28USA%29%20%28En%2CFr%2CDe%29.gba",
+      sinopsis: "Huey, Dewy y Louie fueron a esconderse en el ático para esconderse del temperamento de su tío Donald cuando se encontraron con un libro misterioso. Al abrirlo, aparece la mano y secuestra a los niños en Storybook Land. ¡Ahora el Pato Donald y su amigo Mickey Mouse deben ir a salvar a los niños al derrotar al malvado Rey Pete!"
     },
     {
       id: 71,
@@ -810,13 +710,8 @@ let games = {
       genre: "deportes",
       title: "Mario Golf: Advance Tour",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/d4e238509268feb6bacff616f13ab2d7.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/6d65b5ac1f4ec80b9a7309311f4f9b13.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/bb0a313f554c3a2b6e9944368512bb9b.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mario%20Golf%20-%20Advance%20Tour%20%28USA%29.gba",
-      sinopsis: "Grab your clubs and start down the road to golfing perfection in this role-playing golf adventure! Chat up the locals at golf clinics, hone your skills in challenges like Club Slots and Go-Go Gates, and try to become the champ of all the country clubs! The Mushroom Kingdom residents take on only the very best."
+      rom: "https://dl.dropboxusercontent.com/s/x6bq6oimqw4v6hh/Mario%20Golf%20-%20Advance%20Tour%20%28USA%29.gba",
+      sinopsis: "¡Toma tus palos y comienza el camino hacia la perfección del golf en esta aventura de golf de rol! Habla con los lugareños en las clínicas de golf, perfecciona tus habilidades en desafíos como Club Slots y Go-Go Gates, ¡e intenta convertirte en el campeón de todos los clubes de campo! Los residentes de Mushroom Kingdom se enfrentan solo a los mejores."
     },
     {
       id: 72,
@@ -825,13 +720,8 @@ let games = {
       genre: "carreras",
       title: "Mario Kart: Super Circuit",
       year: "2001",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/83d788e65786046542c9354d17b92450.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/2404d480bb9068047a2fb584b0c5a44c.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/1144d074f709db094712d5d921d5e52b.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mario%20Kart%20-%20Super%20Circuit%20%28USA%29.gba",
-      sinopsis: "Mario Kart Super Circuit puts your driving skills to the test on 40 tracks, each littered with wild weapons and obstacles. Choose to play as any of your favorite characters as you speed around classic and brand-new tracks. If you're feeling combative, try out the creative weaponry (mushrooms, bananas, thunder bolts, and stars) in Battle mode. Feel like making some friends eat your dust? No problem. Four players can compete in Mario Kart Super Circuit using only one Game Pak! If each player has a copy of the game, bonus features and new modes of play become available."
+      rom: "https://dl.dropboxusercontent.com/s/l6k0ghinlvsq05j/Mario%20Kart%20-%20Super%20Circuit%20%28USA%29.gba",
+      sinopsis: "Mario Kart Super Circuit pone a prueba tus habilidades de conducción en 40 pistas, cada una llena de armas y obstáculos salvajes. Elige jugar como cualquiera de tus personajes favoritos mientras recorres pistas clásicas y nuevas. Si te sientes combativo, prueba el armamento creativo (hongos, plátanos, rayos y estrellas) en el modo Batalla. ¿Tienes ganas de hacer que algunos amigos se coman tu polvo? Ningún problema. ¡Cuatro jugadores pueden competir en Mario Kart Super Circuit usando solo un Game Pak! Si cada jugador tiene una copia del juego, estarán disponibles funciones de bonificación y nuevos modos de juego."
     },
     {
       id: 73,
@@ -840,13 +730,8 @@ let games = {
       genre: "cartas",
       title: "Mario Party Advance",
       year: "2005",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/15773140922bf266be5149a9e31b650b.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/28538c394c36e4d5ea8ff5ad60562a93.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/d225f07436e0075a13ffd66eae614707.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mario%20Party%20Advance%20%28USA%29.gba",
-      sinopsis: "It's a portable party on your Game Boy Advance! Mario Party Advance takes all the fun of the home console game and puts it in your hands. All-new mini-games and a host of Professor E. Gadd's incredible Gaddgets -- unique trinkets, toys, detectors and tricks like the Lip Disguise-o-matic that let you play tricks on your friends, test your compatibility and much more. Discover the 60 mini-games as you play through the single-player game boards. Earn coins as you play the mini-games, and use those coins to unlock Gaddgets you can use with your friends. Use your Gaddgets to take the game into the real world. Place your finger on the Finger X-Ray to see what's hidden inside, or use the Compatibility Meter to see how well you and your friends match up."
+      rom: "https://dl.dropboxusercontent.com/s/4t1ubcqebc1abh9/Mario%20Party%20Advance%20%28USA%29.gba",
+      sinopsis: "¡Es una fiesta portátil en tu Game Boy Advance! Mario Party Advance toma toda la diversión del juego de la consola doméstica y la pone en tus manos. Minijuegos completamente nuevos y una gran cantidad de increíbles artilugios del profesor E. Gadd: baratijas, juguetes, detectores y trucos exclusivos como el Lip Disguise-o-matic que te permite engañar a tus amigos, probar tu compatibilidad y mucho más. Descubre los 60 minijuegos mientras juegas en los tableros de juego para un jugador. Gana monedas mientras juegas a los minijuegos y usa esas monedas para desbloquear Gadgets que puedes usar con tus amigos. Usa tus Gadgets para llevar el juego al mundo real. Coloque su dedo en el Finger X-Ray para ver lo que está oculto dentro, o use el Medidor de compatibilidad para ver qué tan bien se combinan usted y sus amigos."
     },
     {
       id: 74,
@@ -855,13 +740,8 @@ let games = {
       genre: "deportes",
       title: "Mario Pinball Land",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/c8ca117e01b1fcf8e0c591df48d0ac3e.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/acf068d3e5e1ab3b6ae7d718587f654e.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/47348419f65e9ff93ab474a090e66a41.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mario%20Pinball%20Land%20%28USA%2C%20Australia%29.gba",
-      sinopsis: "Jumping has always helped Mario perform heroic feats, but in Mario Pinball Land, the plumber must learn how to roll to rescue the princess. When Bowser kidnaps Peach and escapes to another dimension, a scientist transforms Mario into a ball to chase after the fiend. Now you must use your flippers to shoot a much rounder Mario into doors that lead to new areas. In his new form, Mario is also useful for knocking down enemies, picking up special bonuses, and finding power-ups."
+      rom: "https://dl.dropboxusercontent.com/s/pr2a8m54ksitime/Mario%20Pinball%20Land%20%28USA%2C%20Australia%29.gba",
+      sinopsis: "Saltar siempre ha ayudado a Mario a realizar hazañas heroicas, pero en Mario Pinball Land, el fontanero debe aprender a rodar para rescatar a la princesa. Cuando Bowser secuestra a Peach y escapa a otra dimensión, un científico transforma a Mario en una pelota para perseguir al demonio. Ahora debes usar tus aletas para disparar a un Mario mucho más redondo hacia las puertas que conducen a nuevas áreas. En su nueva forma, Mario también es útil para derribar enemigos, obtener bonificaciones especiales y encontrar potenciadores."
     },
     {
       id: 75,
@@ -870,13 +750,8 @@ let games = {
       genre: "plataforma",
       title: "Mario vs. Donkey Kong",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/5e80df328f8ea95031018b02920b7cf6.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/ebbdfea212e3a756a1fded7b35578525.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/e53ba686b7ad2ec7825f0f4afff80a1b.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mario%20vs.%20Donkey%20Kong%20%28USA%2C%20Australia%29.gba",
-      sinopsis: "After years of apparent goodwill, Mario and Donkey Kong are at it again--this time, on Game Boy Advance. Donkey Kong has stolen all the Mini-Mario toys from the Mario Toy Co., and now it's up to Mario to hunt down his longtime nemesis and retrieve the pilfered goods. As Mario, you must race through challenging levels while finding keys and releasing Mini Marios before time runs out. Along the way, you'll master new moves that can help you overcome new puzzles."
+      rom: "https://dl.dropboxusercontent.com/s/lzxv5v9x20afoc5/Mario%20vs.%20Donkey%20Kong%20%28USA%2C%20Australia%29.gba",
+      sinopsis: "Después de años de aparente buena voluntad, Mario y Donkey Kong están de nuevo, esta vez en Game Boy Advance. Donkey Kong ha robado todos los juguetes de Mini-Mario de Mario Toy Co., y ahora le toca a Mario cazar a su némesis de toda la vida y recuperar los bienes robados. Como Mario, debes correr a través de desafiantes niveles mientras encuentras llaves y liberas Mini Marios antes de que se acabe el tiempo. En el camino, dominarás nuevos movimientos que pueden ayudarte a superar nuevos acertijos."
     },
     {
       id: 76,
