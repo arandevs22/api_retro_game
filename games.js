@@ -760,13 +760,8 @@ let games = {
       genre: "rpg",
       title: "Medabots: Metabee",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/5de939108a043bede8e987a80a8ca8d0.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9f91866fed044703e3a6b673ed0c470a.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/140691632b8352f3c2acc83bd4314173.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Medabots%20-%20Metabee%20%28USA%29.gba",
-      sinopsis: "Join Ikki as he begins his journey as a Medafighter and tries to save his hometown of Riverview City from the evil Rubberobo Gang. Ikki must solve various mysteries with the help of his friends and the Phantom Renegade. Interact with characters and control Medabots popular in the Medabots TV animated series. Can Ikki save the world from the treacherous Rubberobo Gang and become the #1 ranked Medafighter...It is all up to you!"
+      rom: "https://dl.dropboxusercontent.com/s/wr1y0g1xcqi5l0h/Medabots%20-%20Metabee%20%28USA%29.gba",
+      sinopsis: "Únete a Ikki mientras comienza su viaje como Medafighter e intenta salvar su ciudad natal de Riverview City de la malvada banda Rubberobo. Ikki debe resolver varios misterios con la ayuda de sus amigos y el Phantom Renegade. Interactúe con personajes y controle Medabots populares en la serie animada Medabots TV. ¿Puede Ikki salvar al mundo de la traicionera banda Rubberobo y convertirse en el Medafighter número 1? ¡Todo depende de ti!"
     },
     {
       id: 77,
@@ -775,13 +770,8 @@ let games = {
       genre: "rpg",
       title: "Medabots: Rokusho",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/ec6847f4e5b3aab870c7a34d6090bf69.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9bc792898a1f66e2ed7c2e2407b3fe8c.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6806c6ea50ea2de3df70f5451156cd06.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Medabots%20-%20Rokusho%20%28USA%29.gba",
-      sinopsis: "Join Ikki as he begins his journey as a Medafighter and tries to save his hometown of Riverview City from the evil Rubberobo Gang. Interact with characters and control Medabots popular in the Medabots TV animated series. Create your own special Medabot from hundreds of unique Medaparts! Robattle and trade Medaparts with friends. Each version of Medabots offers exclusive Medaparts and Medals not found in the other."
+      rom: "https://dl.dropboxusercontent.com/s/p3qsju0n0xrc4mg/Medabots%20-%20Rokusho%20%28USA%29.gba",
+      sinopsis: "Únete a Ikki mientras comienza su viaje como Medafighter e intenta salvar su ciudad natal de Riverview City de la malvada banda Rubberobo. Interactúe con personajes y controle Medabots populares en la serie animada Medabots TV. ¡Cree su propio Medabot especial a partir de cientos de Medaparts únicos! Roba y cambia Medaparts con amigos. Cada versión de Medabots ofrece Medaparts y Medallas exclusivos que no se encuentran en la otra."
     },
     {
       id: 78,
@@ -790,12 +780,8 @@ let games = {
       genre: "shooter",
       title: "Medal of Honor: Infiltrator",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a3d3dbc847cd87afa071a8913e0d12b2.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/ca9f9c4764430f980dca8d70e29d8e5e.png",
-      background: "",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Medal%20of%20Honor%20-%20Infiltrator%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%29.gba",
-      sinopsis: "Medal of Honor Infiltrator puts you in the role of Corporal Jake Murphy, a man who must complete five daring missions to defeat the Axis powers in WWII. From sabotaging enemy resources to capturing key personnel to all-out firefights, you'll need to master a variety of gameplay styles to overcome the enemy. On foot, in a tank, or even in disguise, you must engage opponents on the battlefield with an assortment of WWII-era weapons, including machine guns, grenades, bazookas, and more."
+      rom: "https://dl.dropboxusercontent.com/s/ini7agnz0ahzgwu/Medal%20of%20Honor%20-%20Infiltrator%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%29.gba'",
+      sinopsis: "Medal of Honor Infiltrator te pone en el papel del cabo Jake Murphy, un hombre que debe completar cinco audaces misiones para derrotar a los poderes del Eje en la Segunda Guerra Mundial. Desde sabotear los recursos del enemigo hasta capturar personal clave y tiroteos totales, deberás dominar una variedad de estilos de juego para vencer al enemigo. A pie, en un tanque o incluso disfrazado, debes enfrentarte a tus oponentes en el campo de batalla con una variedad de armas de la era de la Segunda Guerra Mundial, incluidas ametralladoras, granadas, bazucas y más.  "
     },
     {
       id: 79,
@@ -804,13 +790,8 @@ let games = {
       genre: "rpg",
       title: "Mega Man Battle Network",
       year: "2001",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/ac33714c20522712f23f517fc3bbb806.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/596676c0468e1aa77be2d247aa42455e.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/15978ec98cc7fb6d2b95cd397439f23a.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mega%20Man%20Battle%20Network%20%28USA%29.gba",
-      sinopsis: "In the future, a young net-battler named Lan, boots his 'personal exploration terminal' (PET) and prepares to hack into the network to battle net crime. Lan's PET is no ordinary network navigator. It's Mega Man.EXE, the cyber-identity, which infiltrates the crime-ridden network to battle destructive computer viruses. Defeat viruses in real time and collect Battle Chips program data, containing valuable weapons data and critical system info. Collect over 175 Battle Chips to help Land and Mega Man.EXE restore peace and order to the network."
+      rom: "https://dl.dropboxusercontent.com/s/pq6d8quj6a46cpk/Mega%20Man%20Battle%20Network%20%28USA%29.gba",
+      sinopsis: "En el futuro, un joven guerrero de la red llamado Lan inicia su 'terminal de exploración personal' (PET) y se prepara para piratear la red para combatir el crimen en la red. El PET de Lan no es un navegador de red ordinario. Es Mega Man.EXE, la identidad cibernética, que se infiltra en la red plagada de delitos para luchar contra los destructivos virus informáticos. Derrote a los virus en tiempo real y recopile datos del programa Battle Chips, que contienen valiosos datos de armas e información crítica del sistema. Recoge más de 175 fichas de batalla para ayudar a Land y Mega Man.EXE a restablecer la paz y el orden en la red."
     },
     {
       id: 80,
@@ -819,13 +800,8 @@ let games = {
       genre: "shooter",
       title: "Mega Man Zero",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a1d9912bae1066ee6030e8a99bfd2cb7.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/b4892f808f9efbd561cecbfbec3ad20d.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/8e0251b8f27dd86e04c9049a1eeda4a3.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mega%20Man%20Zero%20%28USA%2C%20Europe%29.gba",
-      sinopsis: "It's your mission to help the exiled scientist Ciel discover the source of a new reploid energy! Play as Mega Man's pal Zero, the reploid from the Mega Man X series turned good by the infectious Sigma Virus and 100 years of sleep. Conquer your adversaries and find the energy source... or risk ultimate defeat. It's up to you to defend good from the destructive powers in the universe."
+      rom: "https://dl.dropboxusercontent.com/s/y2bvqqfzo10zoqa/Mega%20Man%20Zero%20%28USA%2C%20Europe%29.gba",
+      sinopsis: "¡Tu misión es ayudar al científico exiliado Ciel a descubrir la fuente de una nueva energía reploide! Juega como el amigo de Mega Man, Zero, el reploid de la serie Mega Man X que se volvió bueno por el infeccioso Sigma Virus y 100 años de sueño. Conquista a tus adversarios y encuentra la fuente de energía... o arriesga la derrota final. Depende de ti defender el bien de los poderes destructivos del universo."
     },
     {
       id: 81,
@@ -834,13 +810,8 @@ let games = {
       genre: "shooter",
       title: "Mega Man Zero 2",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/5c75bc339f546fcada58819fe14baa77.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/653c579e3f9ba5c03f2f2f8cf4512b39.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/fe2e8c9e03498e3bd2c4c2205afdfc44.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mega%20Man%20Zero%202%20%28USA%29.gba",
-      sinopsis: "In Zero's next mission, he falls prey to a trap set by Neo Arcadia's ruthless commander. Planning to trick Zero, he tries to use him to wreak chaos between reploids and humans once again. But, can he succeed?"
+      rom: "https://dl.dropboxusercontent.com/s/tpvxw5k5mone4ec/Mega%20Man%20Zero%202%20%28USA%29.gba",
+      sinopsis: "En la próxima misión de Zero, cae presa de una trampa tendida por el despiadado comandante de Neo Arcadia. Planeando engañar a Zero, intenta usarlo para sembrar el caos entre los reploids y los humanos una vez más. Pero, ¿puede tener éxito?"
     },
     {
       id: 82,
@@ -849,13 +820,8 @@ let games = {
       genre: "shooter",
       title: "Metroid: Zero Mission",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/3b03a73fb6c30e47003e5de9ccdb843a.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9c805dcddc7db4e825949f20601fc73b.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/c58a78e3957eed1e6dcf540cda1a05b3.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Metroid%20-%20Zero%20Mission%20%28USA%29.gba",
-      sinopsis: "The first Metroid game just scratched the surface of the cataclysmic events on planet Zebes, and at long last the rest of the tale has come to light. Experience the first of Samus's legendary adventures through all-new cut-scenes and action sequences as the bounty hunter races through the deeps toward her showdown with the leader of the Space Pirates. But will the end of Mother Brain really mean the end of the story...?"
+      rom: "https://dl.dropboxusercontent.com/s/8nxub6dg4r9zf4p/Metroid%20-%20Zero%20Mission%20%28USA%29.gba",
+      sinopsis: "El primer juego de Metroid acaba de arañar la superficie de los eventos catastróficos en el planeta Zebes, y por fin el resto de la historia ha salido a la luz. Experimenta la primera de las aventuras legendarias de Samus a través de cinemáticas y secuencias de acción completamente nuevas mientras la cazarrecompensas corre a través de las profundidades hacia su enfrentamiento con el líder de los Piratas Espaciales. Pero, ¿el final de Mother Brain realmente significará el final de la historia...?"
     },
     {
       id: 83,
@@ -864,13 +830,8 @@ let games = {
       genre: "shooter",
       title: "Metroid: Fusion",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/1883a19a4983372e803beab695ee77f1.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/33b3214d792caf311e1f00fd22b392c5.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/c31de86411f643ec08e04b38ae397efc.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Metroid%20Fusion%20%28USA%29.gba",
-      sinopsis: "The first Metroid game just scratched the surface of the cataclysmic events on planet Zebes, and at long last the rest of the tale has come to light. Experience the first of Samus's legendary adventures through all-new cut-scenes and action sequences as the bounty hunter races through the deeps toward her showdown with the leader of the Space Pirates. But will the end of Mother Brain really mean the end of the story...?"
+      rom: "https://dl.dropboxusercontent.com/s/oq15qqdoqnfhtbo/Metroid%20Fusion%20%28USA%29.gba",
+      sinopsis: "La famosa serie Metroid regresa en Game Boy Advance con Metroid Fusion. Después de las hazañas de Samus en el clásico Super Metroid de Super Nintendo, el cazarrecompensas intergaláctico se infecta con una forma de vida parasitaria conocida solo como X. Samus es rescatada y revivida por Metroid DNA solo después de sufrir algunos cambios importantes en su cuerpo y traje, lo que resultó en un cambio drástico en su apariencia y una nueva capacidad para absorber y asimilar las habilidades del virus X. Experimenta un capítulo nuevo y apasionante de la serie Metroid y revive el juego y la exploración atemporales que convirtieron a la serie en una leyenda."
     },
     {
       id: 84,
@@ -879,13 +840,8 @@ let games = {
       genre: "peleas",
       title: "Mortal Kombat: Deadly Alliance",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/d40b50156193c80de7820961d0956eb3.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/564127c03caab942e503ee6f810f54fd.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9c8f9728c5c3be5ef64f32ed3d49f02e.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mortal%20Kombat%20-%20Deadly%20Alliance%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
-      sinopsis: "Mortal Kombat: Deadly Alliance is the first Mortal Kombat outing on the next-gen systems. New to DA is a completely revamped fight engine. The graphics are in full 3D and feature somewhat interactive environments. Each character now has different fighting stances, allowing them to be in an offensive stance or a fatality stance."
+      rom: "https://dl.dropboxusercontent.com/s/so5224807umbrdn/Mortal%20Kombat%20-%20Deadly%20Alliance%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
+      sinopsis: "Mortal Kombat: Deadly Alliance es la primera salida de Mortal Kombat en los sistemas de próxima generación. Nuevo en DA es un motor de lucha completamente renovado. Los gráficos están en 3D completo y presentan entornos algo interactivos. Cada personaje ahora tiene diferentes posturas de lucha, lo que les permite estar en una postura ofensiva o fatal."
     },
     {
       id: 85,
@@ -894,13 +850,8 @@ let games = {
       genre: "beat em up",
       title: "Naruto: Ninja Council",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/7e27224842c691af53ac7220aa094d83.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4fadcbb166741cb5e0e1d874f2772fb6.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ccf1db324b72a6343a422a52bed9aac7.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Naruto%20-%20Ninja%20Council%20%28USA%29.gba",
-      sinopsis: "Naruto: Ninja Council, known as Naruto: Saikyou Ninja Daikesshuu in the Japanese version, is the first instalment in the Ninja Council series. There are scrolls that the playable character can obtain to perform abilities at the cost of chakra, which can be used to break down walls or create whirlwinds. The story mode very loosely follows the Prologue — Land of Waves arc to the Chuunin Exams arc."
+      rom: "https://dl.dropboxusercontent.com/s/sf9e6xag87mu6ym/Naruto%20-%20Ninja%20Council%20%28USA%29.gba",
+      sinopsis: "Naruto: Ninja Council, conocido como Naruto: Saikyou Ninja Daikesshuu en la versión japonesa, es la primera entrega de la serie Ninja Council. Hay pergaminos que el personaje jugable puede obtener para realizar habilidades a costa de chakra, que pueden usarse para derribar paredes o crear torbellinos. El modo historia sigue vagamente el arco Prólogo - Tierra de las Olas al arco de los Exámenes de Chuunin."
     },
     {
       id: 86,
@@ -909,13 +860,8 @@ let games = {
       genre: "beat em up",
       title: "Naruto: Ninja Council 2",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/866e042118c685314d9cf790d2842a37.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/179ddc389a9324cebba038fb4ac783d5.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/3debb4bd1655948a1be4894bdb47f60c.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Naruto%20-%20Ninja%20Council%202%20%28USA%29.gba",
-      sinopsis: "Action game, based on the Shonen Jump manga. This sequel to the very first Naruto game on the GBA (the second game was a much different simulation/adventure) has three-times the amount of stages and characters twice the size. The action is streamlined and more dynamic. Players can transform into Naruto, Sasuke and Sakura and use their abilities to defeat the scrolling stages. The game also utilizes the link cable for a two-player co-op mode and for a four-player battle mode."
+      rom: "https://dl.dropboxusercontent.com/s/2fl7qm1nh7afugo/Naruto%20-%20Ninja%20Council%202%20%28USA%29.gba",
+      sinopsis: "Juego de acción, basado en el manga Shonen Jump. Esta secuela del primer juego de Naruto en GBA (el segundo juego fue una simulación/aventura muy diferente) tiene tres veces la cantidad de etapas y personajes el doble de tamaño. La acción es más ágil y dinámica. Los jugadores pueden transformarse en Naruto, Sasuke y Sakura y usar sus habilidades para superar las etapas de desplazamiento. El juego también utiliza el cable de enlace para un modo cooperativo de dos jugadores y para un modo de batalla de cuatro jugadores."
     },
     {
       id: 87,
@@ -924,13 +870,8 @@ let games = {
       genre: "plataforma",
       title: "One Piece",
       year: "2005",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f9a9d8ff10c0344b8e946c54d70d694a.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/90d2301e323b1809708324229782def2.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ad9a866c59fa615f586374a79bfa69f1.png",
       rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Naruto%20-%20Ninja%20Council%202%20%28USA%29.gba",
-      sinopsis: "One Piece also referred to as Shonen Jump's One Piece is a 2-D platforming adventure video game for the Nintendo Game Boy Advance based on the 4kids dub of the One Piece anime. Developed by Dimps and published by Bandai, it was released on September 7, 2005. It is the only One Piece game to be only released in the USA, and the first out of two to not see a release in Japan."
+      sinopsis: "One Piece, también conocido como One Piece de Shonen Jump, es un videojuego de aventuras de plataformas en 2D para Nintendo Game Boy Advance basado en el doblaje de 4kids del anime One Piece. Desarrollado por Dimps y publicado por Bandai, fue lanzado el 7 de septiembre de 2005. Es el único juego de One Piece que solo se lanzó en los EE. UU., y el primero de dos que no se lanzó en Japón."
     },
     {
       id: 88,
@@ -939,13 +880,8 @@ let games = {
       genre: "rpg",
       title: "Onimusha Tactics",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/b683f19ac02d2d1911cf2e4fc24ff3c3.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/5b47e496430dde1ee7c597dca0e2f57d.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/a7849da26d77b0a04581a4ff2d238957.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Onimusha%20Tactics%20%28USA%29.gba",
-      sinopsis: "Onimusha Tactics is a turn-based strategy game between the player's side and the enemy's side. In each level you can bring a squad of no more than 10 people. There are no items to buy or sell, however equipment is available and customizable. Upgrades of existing weapons and armor can be done using the defeated souls of enemies absorbed into the Oni Gauntlet. New weapons and armor can be found or created through fusion of Genma Stones. Recipes must be found for each separate item before it can be fused."
+      rom: "https://dl.dropboxusercontent.com/s/qrqsk8nfobh69yy/Onimusha%20Tactics%20%28USA%29.gba",
+      sinopsis: "Onimusha Tactics es un juego de estrategia por turnos entre el lado del jugador y el lado del enemigo. En cada nivel puedes traer un escuadrón de no más de 10 personas. No hay artículos para comprar o vender, sin embargo, el equipo está disponible y se puede personalizar. Las mejoras de las armas y armaduras existentes se pueden hacer usando las almas derrotadas de los enemigos absorbidos en el Oni Gauntlet. Se pueden encontrar o crear nuevas armas y armaduras mediante la fusión de Genma Stones. Se deben encontrar recetas para cada elemento por separado antes de que se pueda fusionar."
     },
     {
       id: 89,
@@ -954,13 +890,8 @@ let games = {
       genre: "rpg",
       title: "Pokémon Emerald",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/052938e7b425df3acdd9dc4be44404ef.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/69ec5030f78a9b735402d133317bf5f6.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/66bd939ad7010829ab65a6aaf28c9a96.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Pokemon%20-%20Emerald%20Version%20%28USA%2C%20Europe%29.gba",
-      sinopsis: "Pokémon Emerald Version is a sister game to Pokémon Ruby and Sapphire. Emerald Version provided the main storyline with more depth and length, as well as making small aesthetic changes to the world and adding unique animations for each Pokémon."
+      rom: "https://dl.dropboxusercontent.com/s/crjh90qwl6dwhbq/Pokemon%20-%20Emerald%20Version%20%28USA%2C%20Europe%29.gba",
+      sinopsis: "Pokémon Emerald Version es un juego hermano de Pokémon Ruby y Sapphire. Emerald Version proporcionó a la historia principal más profundidad y duración, además de realizar pequeños cambios estéticos en el mundo y agregar animaciones únicas para cada Pokémon."
     },
     {
       id: 90,
@@ -969,13 +900,8 @@ let games = {
       genre: "rpg",
       title: "Pokémon FireRed",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/02364616164166b84371270ca2e6eda2.png",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/dbec0010cebb295ffb1d96b0af9d77f8.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/fca4c59fd05e82348d82e41f72911993.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Pokemon%20-%20FireRed%20Version%20%28USA%2C%20Europe%29%20%28Rev%201%29.gba",
-      sinopsis: "As the first remakes in the Pokémon franchise, the games revisit the original pair of Pokémon games, Pokémon Red and Green Versions, and so feature all of the characters, plot elements, and challenges of them, but with several important upgrades to bring them up to speed with other Generation III games."
+      rom: "https://dl.dropboxusercontent.com/s/7r6vx86wezsfhxq/Pokemon%20-%20FireRed%20Version%20%28USA%2C%20Europe%29%20%28Rev%201%29.gba",
+      sinopsis: "Como los primeros remakes de la franquicia Pokémon, los juegos revisitan el par original de juegos Pokémon, Pokémon Red y Green Versions, y presentan todos los personajes, elementos de la trama y desafíos de ellos, pero con varias actualizaciones importantes para traerlos a colación. a la velocidad con otros juegos de la Generación III."
     },
     {
       id: 91,
@@ -984,13 +910,8 @@ let games = {
       genre: "rpg",
       title: "Pokémon Mystery Dungeon: Red Rescue Team",
       year: "2005",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/08973de6b97df266ebbf555c69294d77.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9ed27554c893b5bad850a422c3538c15.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/97c81649fa58303996aaf556b17043ca.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Pokemon%20Mystery%20Dungeon%20-%20Red%20Rescue%20Team%20%28USA%2C%20Australia%29.gba",
-      sinopsis: "You, a regular human, find yourself trapped in the body of a Pokémon in a world inhabited by Pokémon. Without any other choice, you go on rescue missions through randomly generated dungeons with your newly-acquired partner and friend to save the world and get back to your human life."
+      rom: "https://dl.dropboxusercontent.com/s/p0m7ir5ogwolj7v/Pokemon%20Mystery%20Dungeon%20-%20Red%20Rescue%20Team%20%28USA%2C%20Australia%29.gba",
+      sinopsis: "Tú, un humano normal, te encuentras atrapado en el cuerpo de un Pokémon en un mundo habitado por Pokémon. Sin otra opción, emprendes misiones de rescate a través de mazmorras generadas aleatoriamente con tu compañero y amigo recién adquirido para salvar el mundo y volver a tu vida humana."
     },
     {
       id: 92,
@@ -999,13 +920,8 @@ let games = {
       genre: "aventura",
       title: "Power Rangers: Dino Thunder",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a6ae3a0017dbb3c58acb05c5e6fc8cd3.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/c4efc214b3e14109e4619773eb3fd469.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/2782a1d5af12f430289b3d1db5218e1c.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Power%20Rangers%20-%20Dino%20Thunder%20%28USA%2C%20Europe%29.gba",
-      sinopsis: "A Power Rangers action game based on the latest iteration of the series featuring dinosaur Zords. Whenever Dinos threaten mankind, count on the Power Rangers to be there! With more than 20 levels and loads of puzzles and action, Power Rangers: Dino Thunder will give fans of the action team plenty to shout about. Released ahead of its console cousins, Power Rangers: Dino Thunder mixes puzzles and action for a unique brand of gameplay. Use special attacks and weapon power-ups to beat the competition and collect Dino Gems to control the Dino Zords."
+      rom: "https://dl.dropboxusercontent.com/s/vfc47hlkirrm9a9/Power%20Rangers%20-%20Dino%20Thunder%20%28USA%2C%20Europe%29.gba",
+      sinopsis: "Un juego de acción de Power Rangers basado en la última versión de la serie con dinosaurios Zords. Siempre que los Dinos amenace a la humanidad, ¡cuenta con los Power Rangers para estar allí! Con más de 20 niveles y montones de acertijos y acción, Power Rangers: Dino Thunder les dará a los fanáticos del equipo de acción mucho de qué hablar. Lanzado antes que sus primos de consola, Power Rangers: Dino Thunder combina rompecabezas y acción para una forma de juego única. Usa ataques especiales y potenciadores de armas para vencer a la competencia y recolecta Dino Gems para controlar a los Dino Zords."
     },
     {
       id: 93,
@@ -1014,13 +930,8 @@ let games = {
       genre: "beat em up",
       title: "Power Rangers: Wild Force",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/b2fc570ceb42f465b7a296f9ea80c639.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/0e25d64a0f4e667f8839de12e2e25d4e.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/abd9d609346bb9043efb0b93aab2cedb.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Power%20Rangers%20-%20Wild%20Force%20%28USA%2C%20Europe%29.gba",
-      sinopsis: "In Power Rangers Wild Force for Game Boy Advance, young gamers will play as their favorite Power Ranger, this time armed with the strength and characteristics of the Power Animals including the Bison, Tiger, Shark, Eagle and Lion. The top-down, 3D exploration adventure allows players to take on the Org, an ancient race of villains who are out to destroy the balance of nature."
+      rom: "https://dl.dropboxusercontent.com/s/c5f6aegeppjdf5g/Power%20Rangers%20-%20Wild%20Force%20%28USA%2C%20Europe%29.gba",
+      sinopsis: "En Power Rangers Wild Force para Game Boy Advance, los jóvenes jugadores jugarán como su Power Ranger favorito, esta vez armados con la fuerza y las características de los Power Animals, incluidos el bisonte, el tigre, el tiburón, el águila y el león. La aventura de exploración en 3D desde arriba permite a los jugadores enfrentarse a Org, una antigua raza de villanos que buscan destruir el equilibrio de la naturaleza."
     },
     {
       id: 94,
@@ -1029,13 +940,8 @@ let games = {
       genre: "plataforma",
       title: "Prince of Persia: The Sands of Time",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/6a8cfab2aa11fbb342063df25c16a5f1.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/22f2729737ae3dc9702e4cee0eb3e900.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/c4211b6fddf7ddf821087989ae514550.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Prince%20of%20Persia%20-%20The%20Sands%20of%20Time%20%28USA%29%20%28En%2CFr%2CEs%29.gba",
-      sinopsis: "The Sands of Time, developed internally at Ubisoft Montreal, successfully captures the mechanics of the original platformer and extends it to the 3D generation. An earlier attempt by The Learning Company to transfer the game to 3D (Prince of Persia 3D) was released in 1999, but despite its initial good reception failed to sell enough and the company responsible for the original trilogy was already closing doors. The game was praised for its visual design, finely tuned game mechanics and intriguing storyline, winning the game several awards."
+      rom: "https://dl.dropboxusercontent.com/s/jeu8yc0wgcez567/Prince%20of%20Persia%20-%20The%20Sands%20of%20Time%20%28USA%29%20%28En%2CFr%2CEs%29.gba",
+      sinopsis: "The Sands of Time, desarrollado internamente en Ubisoft Montreal, captura con éxito la mecánica del juego de plataformas original y la extiende a la generación 3D. Un intento anterior de The Learning Company de trasladar el juego a 3D (Prince of Persia 3D) se lanzó en 1999, pero a pesar de su buena acogida inicial no consiguió vender lo suficiente y la empresa responsable de la trilogía original ya estaba cerrando puertas. El juego fue elogiado por su diseño visual, su mecánica de juego finamente afinada y su trama intrigante, lo que le valió varios premios."
     },
     {
       id: 95,
@@ -1044,13 +950,8 @@ let games = {
       genre: "plataforma",
       title: "Rayman Advance",
       year: "2001",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/24b94f325c82cbbc6b84223b961a2d78.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/f46a7537f2a4d9cb860b5969ed5da1db.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/7c3349793d7221d1d89a6f9853009048.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Rayman%20Advance%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
-      sinopsis: "Rayman Advance is a GBA game. It is basically a port of Rayman 1, however bears some minor changes. The evil Mr. Dark has stolen the Great Protoon, kidnapped all of the Electoons and defeated Betilla the Fairy. Rayman has to travel through 5 worlds before finally meeting up with Mr Dark and defeating him."
+      rom: "https://dl.dropboxusercontent.com/s/0d2ybvw3u3i9lv6/Rayman%20Advance%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
+      sinopsis: "Rayman Advance es un juego de GBA. Es básicamente un puerto de Rayman 1, sin embargo, tiene algunos cambios menores. El malvado Mr. Dark robó el Gran Protoon, secuestró a todos los Electoons y derrotó a Betilla the Fairy. Rayman tiene que viajar a través de 5 mundos antes de finalmente encontrarse con el Sr. Dark y derrotarlo."
     },
     {
       id: 96,
@@ -1059,13 +960,8 @@ let games = {
       genre: "rpg",
       title: "Riviera: The Promised Land",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/81126014e2d1cec348b14ee2805e6a12.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/7b889da86fa368b083e6b41f1c879fa9.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/5e7d82fb40873235efb87212f67b1181.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Riviera%20-%20The%20Promised%20Land%20%28USA%29.gba",
-      sinopsis: "In Riviera: The Promised Land, you'll follow two fierce warriors--each armed with godly weapons--in a mission to defeat demons once and for all. The adventure included lets you experience more than 30 hours of role-playing gameplay, complete with minigames, multiple endings, and secret paths and items. The game's unique item system allows items to function differently depending on which characters equip them."
+      rom: "https://dl.dropboxusercontent.com/s/88w1tgeot4uebg5/Riviera%20-%20The%20Promised%20Land%20%28USA%29.gba",
+      sinopsis: "En Riviera: The Promised Land, seguirás a dos feroces guerreros, cada uno armado con armas divinas, en una misión para derrotar a los demonios de una vez por todas. La aventura incluida te permite experimentar más de 30 horas de juego de rol, completo con minijuegos, múltiples finales y caminos y elementos secretos. El sistema de elementos único del juego permite que los elementos funcionen de manera diferente según los personajes que los equipen."
     },
     {
       id: 97,
@@ -1074,13 +970,8 @@ let games = {
       genre: "plataforma",
       title: "Shaman King: Master of Spirits",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/89bfc07b9b24c27ba06628bc3289bfa2.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/eb3ecc0748da0f58287794ef8a55aac4.png",
-      background:
-        "",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Shaman%20King%20-%20Master%20of%20Spirits%20%28USA%29.gba",
-      sinopsis: "Shaman King: Master of Spirits is an Action Adventure game, developed by KCEJ and published by Konami, which was released in 2004."
+      rom: "https://dl.dropboxusercontent.com/s/jxsmyna93avpftf/Shaman%20King%20-%20Master%20of%20Spirits%20%28USA%29.gba",
+      sinopsis: "Shaman King: Master of Spirits es un juego de acción y aventuras, desarrollado por KCEJ y publicado por Konami, que se lanzó en 2004."
     },
     {
       id: 98,
@@ -1089,13 +980,8 @@ let games = {
       genre: "plataforma",
       title: "Shaman King: Master of Spirits 2",
       year: "2005",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/c0dd4d251ad3de4a67f2d7664af91cab.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/556fe7056165f3f6490139ca118e1c49.png",
-      background:
-        "",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Shaman%20King%20-%20Master%20of%20Spirits%202%20%28USA%29.gba",
-      sinopsis: "Sequel to the original Shaman King: Master of Spirits, you once again take the role of Yoh Asakura as you attempt to save all your friends and fellow shamans from Zeke's Fire Spirit, who is devouring the soul of everyone in Dobie Village, where the Shaman Tournament is to take place."
+      rom: "https://dl.dropboxusercontent.com/s/iwr9dt2gdcy9x8s/Shaman%20King%20-%20Master%20of%20Spirits%202%20%28USA%29.gba",
+      sinopsis: "Secuela del Shaman King: Master of Spirits original, una vez más asumes el papel de Yoh Asakura mientras intentas salvar a todos tus amigos y compañeros chamanes del espíritu de fuego de Zeke, que está devorando el alma de todos en Dobie Village, donde el chamán. El torneo se llevará a cabo."
     },
     {
       id: 99,
@@ -1104,13 +990,8 @@ let games = {
       genre: "rpg",
       title: "Shining Soul",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/ad22a0d4e39a7c158e3c167be6322c9c.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/2bd17730427116dbfd936f57fbca0237.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/897f32f21090e0f077c7a4dc93a47994.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Shining%20Soul%20%28USA%29.gba",
-      sinopsis: "Enter a world of magic and mystery, where your closest allies may sometimes turn out to be your worst enemies. Shining Soul puts you in the middle of a desperate struggle between the Dark Dragon and a group of warriors known as the Shining Fleet. In the final stage of the war, you can play one of four character classes: fighter, wizard, archer, or dragonute. Customize your character's color schemes, weapons, and armor, and then explore the world of Shining Soul either alone or with three of your friends."
+      rom: "https://dl.dropboxusercontent.com/s/766eqses5miid36/Shining%20Soul%20%28USA%29.gba",
+      sinopsis: "Ingrese a un mundo de magia y misterio, donde sus aliados más cercanos a veces pueden convertirse en sus peores enemigos. Shining Soul te sitúa en medio de una lucha desesperada entre el Dragón Oscuro y un grupo de guerreros conocido como Shining Fleet. En la etapa final de la guerra, puedes jugar una de las cuatro clases de personajes: luchador, mago, arquero o dragonute. Personaliza los esquemas de color, las armas y la armadura de tu personaje, y luego explora el mundo de Shining Soul solo o con tres de tus amigos."
     },
     {
       id: 100,
@@ -1119,13 +1000,8 @@ let games = {
       genre: "rpg",
       title: "Shining Soul II",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/1e6db62bfdf5b1b27b753066a757d2ff.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/045a1fb3d059ec8dbeefa2a4b616e511.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/4fa0a0925c9527b40fb2353fc03e2bf0.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Shining%20Soul%20II%20%28USA%29.gba",
-      sinopsis: "As monsters begin to appear in the kingdom Klantol, King Marcel announces a grand tournament at the coliseum to find a hero that can protect the country. Now, as a mighty Brawler, Priestess, Dark Wizard, or Ninja, you must accept the king's challenge. Each character has certain strengths and weaknesses that can mean the difference between victory and defeat in single-player, multiplayer, or cooperative multiplayer modes. In addition to valuable weapons and armor, you can equip your party with Force Links, which, when combined, create a Shining Force--a powerful weapon capable of decimating the enemy forces."
+      rom: "https://dl.dropboxusercontent.com/s/rxz6hespo6xue2j/Shining%20Soul%20II%20%28USA%29.gba",
+      sinopsis: "A medida que los monstruos comienzan a aparecer en el reino de Klantol, el rey Marcel anuncia un gran torneo en el coliseo para encontrar un héroe que pueda proteger al país. Ahora, como poderoso luchador, sacerdotisa, mago oscuro o ninja, debes aceptar el desafío del rey. Cada personaje tiene ciertas fortalezas y debilidades que pueden significar la diferencia entre la victoria y la derrota en los modos de un jugador, multijugador o multijugador cooperativo. Además de valiosas armas y armaduras, puedes equipar a tu grupo con Force Links, que, cuando se combinan, crean una Shining Force, un arma poderosa capaz de diezmar a las fuerzas enemigas."
     },
     {
       id: 101,
@@ -1134,13 +1010,8 @@ let games = {
       genre: "carreras",
       title: "The Simpson's Road Rage",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/b56086d2aeaac8ca31834f58bf7af9b6.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/6b62583978106bff7ad1ab4fabd10d19.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ee228bd5b36762c84cd0641eb267440b.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Simpsons%2C%20The%20-%20Road%20Rage%20%28USA%2C%20Europe%29.gba",
-      sinopsis: "The Simpsons: Road Rage is similar to Sega's 1999 video game Crazy Taxi, in that the main objective is to drive picked up passengers to their destinations as quickly as possible. The player receives money upon successfully dropping off each passenger, and bonuses are obtained when they are transported in a short amount of time. Players have to avoid certain hurdles, such as other vehicles and Burns' nuclear transit buses."
+      rom: "https://dl.dropboxusercontent.com/s/essh4fc80nrsbik/Simpsons%2C%20The%20-%20Road%20Rage%20%28USA%2C%20Europe%29.gba",
+      sinopsis: "Los Simpson: Road Rage es similar al videojuego Crazy Taxi de Sega de 1999, en el sentido de que el objetivo principal es llevar a los pasajeros recogidos a sus destinos lo más rápido posible. El jugador recibe dinero al dejar con éxito a cada pasajero, y se obtienen bonos cuando se transportan en un corto período de tiempo. Los jugadores deben evitar ciertos obstáculos, como otros vehículos y los autobuses de tránsito nuclear de Burns."
     },
     {
       id: 102,
@@ -1149,13 +1020,8 @@ let games = {
       genre: "simulator",
       title: "The Sims 2",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/7641de3ae38ab9e744ff12296ae27608.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/83cbc5e9ad9b537435036c2cdc4b0074.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/185c29dc24325934ee377cfda20e414c.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Sims%202%2C%20The%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.gba",
-      sinopsis: "The Sims 2 for Nintendo DS is the first DS game of The Sims 2. Like the many of the console games it takes place in Strangetown with some of the same faces.The aim of the game is to improve the hotel by adding extensions, furnishing rooms, completing goals, rescue guests or help them find missing objects and keeping the hotel clean."
+      rom: "https://dl.dropboxusercontent.com/s/gitb0hmn01s2c8j/Sims%202%2C%20The%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.gba",
+      sinopsis: "Los Sims 2 para GameBoy Advance. Al igual que muchos de los juegos de consola, tiene lugar en Strangetown con algunas de las mismas caras. El objetivo del juego es mejorar el hotel agregando extensiones, amueblando habitaciones, completar objetivos, rescatar a los huéspedes o ayudarlos a encontrar objetos perdidos y mantener limpio el hotel."
     },
     {
       id: 103,
@@ -1164,13 +1030,8 @@ let games = {
       genre: "plataforma",
       title: "Sonic Advance 2",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f08a3a461da7e79858d92456ec525e33.png",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/959a557f5f6beb411fd954f3f34b21c3.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f05fb18fe7e5de0657e22a1dbd2e3b40.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Sonic%20Advance%202%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.gba",
-      sinopsis: "Sonic returns for a second outing on the Game Boy Advance. Once again, Sonic is called upon to save the world from the evil Dr. Eggman. On this occasion, Sonic is joined by friends Tails, Knuckles and Cream the Rabbit, the latest addition to the Sonic team. Each comes with a set of unique moves, allowing you to reach certain areas through-out the levels. However, unlike Sonic Advance, you must complete the game as Sonic to unlock the other characters."
+      rom: "https://dl.dropboxusercontent.com/s/60etxmwol6si3uz/Sonic%20Advance%202%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.gba",
+      sinopsis: "Sonic regresa para una segunda salida en Game Boy Advance. Una vez más, se pide a Sonic que salve al mundo del malvado Dr. Eggman. En esta ocasión, a Sonic se le unen sus amigos Tails, Knuckles y Cream the Rabbit, la última incorporación al equipo de Sonic. Cada uno viene con un conjunto de movimientos únicos, lo que te permite llegar a ciertas áreas a lo largo de los niveles. Sin embargo, a diferencia de Sonic Advance, debes completar el juego como Sonic para desbloquear a los otros personajes."
     },
     {
       id: 104,
@@ -1179,13 +1040,8 @@ let games = {
       genre: "plataforma",
       title: "Sonic Advance 3",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/38a53a52f4de3322241231253815e10a.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/7269e7952aa48c4379151a29d01e25dd.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/fd6c128733fc1d31f48a431ee6dfe1bc.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Sonic%20Advance%203%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.gba",
-      sinopsis: "Sonic is back, and this time, he needs the help of all of his friends to defeat the evil Dr. Eggman. In Sonic Advance 3, Sonic and Tails must reunite with their friends Cream, Knuckles, and Amy. Team up with any of the five characters to gain special attack moves: Sonic increases your speed, Tails increases your jump power, Knuckles increases your attack power, Amy offers the Piko Piko hammer attack, and Cream lets you perform a homing attack. With a Game Boy Advance link, you and three of your friends can battle it out in multiplayer modes."
+      rom: "https://dl.dropboxusercontent.com/s/uut42yl1y9fortr/Sonic%20Advance%203%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.gba",
+      sinopsis: "Sonic ha vuelto y esta vez necesita la ayuda de todos sus amigos para derrotar al malvado Dr. Eggman. En Sonic Advance 3, Sonic y Tails deben reunirse con sus amigos Cream, Knuckles y Amy. Forme un equipo con cualquiera de los cinco personajes para obtener movimientos de ataque especiales: Sonic aumenta su velocidad, Tails aumenta su poder de salto, Knuckles aumenta su poder de ataque, Amy ofrece el ataque de martillo Piko Piko y Cream le permite realizar un ataque homing. Con un enlace de Game Boy Advance, tú y tres de tus amigos pueden luchar en los modos multijugador."
     },
     {
       id: 105,
@@ -1194,13 +1050,8 @@ let games = {
       genre: "plataforma",
       title: "The SpongeBob SquarePants Movie",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/5904581bbdd549b6076ffe870481b1b0.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/34760ceac693e42fec03f15aa139b9e6.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/d22f334e09ef49c292cccb0614f2240f.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/SpongeBob%20SquarePants%20Movie%2C%20The%20%28USA%29%20%28Beta%202%29.gba",
-      sinopsis: "On a heroic, comedic quest through more than 20 levels of platform, driving and sliding action, SpongeBob and Patrick leave Bikini Bottom and journey to new and unexplored lands. Players join their struggle to defeat Plankton's diabolic scheme to take over the world...Plan Z! Plankton has stolen King Neptune's crown and assumed control of the town of Bikini Bottom, placing the blame squarely on Mr. Krabs. Together, SpongeBob and Patrick must journey to far away Shell City to recover the crown, return to Bikini Bottom and save the town and Mr. Krabs."
+      rom: "https://dl.dropboxusercontent.com/s/s88fhrmt91zj7xt/SpongeBob%20SquarePants%20Movie%2C%20The%20%28USA%29%20%28Beta%202%29.gba",
+      sinopsis: "En una búsqueda heroica y cómica a través de más de 20 niveles de plataformas, conducción y acción deslizante, Bob Esponja y Patricio dejan Bikini Bottom y viajan a tierras nuevas e inexploradas. Los jugadores se unen a su lucha para derrotar el plan diabólico de Plankton para conquistar el mundo... ¡Plan Z! Plankton ha robado la corona del Rey Neptuno y ha asumido el control de la ciudad de Fondo de Bikini, culpando directamente a Don Cangrejo. Juntos, Bob Esponja y Patricio deben viajar a la lejana Ciudad Concha para recuperar la corona, regresar a Fondo de Bikini y salvar al pueblo y al Sr. Cangrejo."
     },
     {
       id: 106,
@@ -1209,13 +1060,8 @@ let games = {
       genre: "beat em up",
       title: "Star Wars: Episode III - Revenge of the Sith",
       year: "2005",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/d923cc098f686ed556d96d787e34faaf.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/f3d9de86462c28781cbe5c47ef22c3e5.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/a732804c8566fc8f498947ea59a841f8.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Star%20Wars%20-%20Episode%20III%20-%20Revenge%20of%20the%20Sith%20%28USA%29%20%28En%2CFr%2CEs%29.gba",
-      sinopsis: "Third-person action/adventure game, Star Wars: Episode III, delivers the ultimate Jedi action experience as Anakin Skywalker and Obi-Wan Kenobi join forces in fierce battles and heroic lightsaber duels until one's lust for power and the other's devotion to duty leads to a final confrontation between good and evil."
+      rom: "https://dl.dropboxusercontent.com/s/fzok6sk8o4t3nmb/Star%20Wars%20-%20Episode%20III%20-%20Revenge%20of%20the%20Sith%20%28USA%29%20%28En%2CFr%2CEs%29.gba",
+      sinopsis: "El juego de acción/aventura en tercera persona, Star Wars: Episodio III, ofrece la mejor experiencia de acción Jedi cuando Anakin Skywalker y Obi-Wan Kenobi unen sus fuerzas en feroces batallas y heroicos duelos con sables de luz hasta que el ansia de poder de uno y la devoción al deber del otro conducen a una confrontación final entre el bien y el mal."
     },
     {
       id: 107,
@@ -1224,13 +1070,8 @@ let games = {
       genre: "plataforma",
       title: "Star Wars Trilogy: Apprentice of the Force",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/8611a4c6101b756242a6ce9e2e846fb6.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/f732049757d722d433d4033f05714c1d.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/7492e3f46428d17c5be5a83f588ef72a.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Star%20Wars%20Trilogy%20-%20Apprentice%20of%20the%20Force%20%28USA%29%20%28En%2CFr%2CEs%29.gba",
-      sinopsis: "For the first time, the legendary Star Wars movie trilogy arrives on Game Boy Advance. Players will experience the most exciting and memorable scenes from Star Wars: A New Hope, The Empire Strikes Back, and Return of the Jedi."
+      rom: "https://dl.dropboxusercontent.com/s/7mgmbotyzl1zpi6/Star%20Wars%20Trilogy%20-%20Apprentice%20of%20the%20Force%20%28USA%29%20%28En%2CFr%2CEs%29.gba",
+      sinopsis: "Por primera vez, la legendaria trilogía de películas de Star Wars llega a Game Boy Advance. Los jugadores experimentarán las escenas más emocionantes y memorables de Star Wars: A New Hope, The Empire Strikes Back y Return of the Jedi."
     },
     {
       id: 108,
@@ -1239,13 +1080,8 @@ let games = {
       genre: "peleas",
       title: "Street Fighter Alpha 3",
       year: "1998",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/b05aa5ae598aff32ec94a1156bd7132b.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/331cc28f8747a032890d0429b5a5f0e5.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/e0854e3c03ec877be65d351b90680d46.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Street%20Fighter%20Alpha%203%20%28USA%29.gba",
-      sinopsis: "Street Fighter Alpha 3, the third game in the Alpha series, has a total of 31 fighters, the most in the series so far. New characters include old favorites E. Honda, Blanka, Vega, Cammy, T. Hawk, Dee Jay, Juni and Juli. Some of the newest fighters on the block include a former Final Fight character (Cody, who has been in jail since the last Final Fight game, or so his clothing suggests), Karin Kanzuki and Rainbow Mika. The major difference between this Alpha and the last two are the new play modes World Tour, Arcade, VS, Training and Entry."
+      rom: "https://dl.dropboxusercontent.com/s/ta7zcrsh3c8dtdp/Street%20Fighter%20Alpha%203%20%28USA%29.gba",
+      sinopsis: "Street Fighter Alpha 3, el tercer juego de la serie Alpha, tiene un total de 31 luchadores, la mayor cantidad en la serie hasta el momento. Los nuevos personajes incluyen a los viejos favoritos E. Honda, Blanka, Vega, Cammy, T. Hawk, Dee Jay, Juni y Juli. Algunos de los luchadores más nuevos en el bloque incluyen un ex personaje de Final Fight (Cody, que ha estado en la cárcel desde el último juego de Final Fight, o eso sugiere su ropa), Karin Kanzuki y Rainbow Mika. La principal diferencia entre este Alpha y los dos últimos son los nuevos modos de juego World Tour, Arcade, VS, Training y Entry."
     },
     {
       id: 109,
@@ -1254,13 +1090,8 @@ let games = {
       genre: "plataforma",
       title: "Super Mario Advance 2",
       year: "2001",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/88caa142c1ac0b8a101b05ddbca39336.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4996dcc43b5be197b5887a4e60817b1c.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ac71e0079799a57cc6616312cbbbaf84.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Super%20Mario%20Advance%202%20-%20Super%20Mario%20World%20%28USA%2C%20Australia%29.gba",
-      sinopsis: "Super Mario Advance is a four-part series for the GBA with Super Mario games of the NES and SNES era. The remakes came with adjusted graphics, sound and additional content. Each game of the series includes additionally the arcade-classic Mario Bros which can be played in multiplayer via link cable."
+      rom: "https://dl.dropboxusercontent.com/s/lnf73xsqawa27ve/Super%20Mario%20Advance%202%20-%20Super%20Mario%20World%20%28USA%2C%20Australia%29.gba",
+      sinopsis: "Super Mario Advance es una serie de cuatro partes para GBA con juegos de Super Mario de la era NES y SNES. Los remakes vinieron con gráficos ajustados, sonido y contenido adicional. Cada juego de la serie incluye, además, el clásico arcade Mario Bros, que se puede jugar en modo multijugador a través de un cable de enlace."
     },
     {
       id: 110,
@@ -1269,13 +1100,8 @@ let games = {
       genre: "plataforma",
       title: "Super Mario Advance 3",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/36841e5f7ed7089b83448c537810da13.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/706bf9581a8f1747195e5c190835a9bc.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/70df6d144f02d41e9388530058772c1f.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Super%20Mario%20Advance%203%20-%20Yoshi%27s%20Island%20%28USA%29.gba",
-      sinopsis: "Super Mario Advance is a four-part series for the GBA with Super Mario games of the NES and SNES era. The remakes came with adjusted graphics, sound and additional content. Each game of the series includes additionally the arcade-classic Mario Bros which can be played in multiplayer via link cable."
+      rom: "https://dl.dropboxusercontent.com/s/ipakp1ap83p21bm/Super%20Mario%20Advance%203%20-%20Yoshi%27s%20Island%20%28USA%29.gba",
+      sinopsis: "Super Mario Advance es una serie de cuatro partes para GBA con juegos de Super Mario de la era NES y SNES. Los remakes vinieron con gráficos ajustados, sonido y contenido adicional. Cada juego de la serie incluye, además, el clásico arcade Mario Bros, que se puede jugar en modo multijugador a través de un cable de enlace."
     },
     {
       id: 111,
@@ -1284,13 +1110,8 @@ let games = {
       genre: "peleas",
       title: "Super Street Fighter II Turbo Revival",
       year: "2001",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/737291ac3a9755af620fb94cd91243fe.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/5d36b2dba58acec55fa2a9b197fb3e1d.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6198ed1975c468435895c54b1c19be2d.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Super%20Street%20Fighter%20II%20Turbo%20-%20Revival%20%28USA%29.gba",
-      sinopsis: "Capcom's timeless Street Fighter masterpiece conquers the Game Boy Advance system. Choose from over 16 brawlers from the Street Fighter universe and execute special moves, and super combos to wreak havoc on your opponent and become the best street fighter in the world. Lightning fast animation, unbelievable graphics and Capcom's signature gameplay make Super Street Fighter II Turbo the most respected fighting game of all time."
+      rom: "https://dl.dropboxusercontent.com/s/8tnlxvg0ujl9pcq/Super%20Street%20Fighter%20II%20Turbo%20-%20Revival%20%28USA%29.gba",
+      sinopsis: "La obra maestra atemporal de Street Fighter de Capcom conquista el sistema Game Boy Advance. Elige entre más de 16 luchadores del universo Street Fighter y ejecuta movimientos especiales y súper combos para causar estragos en tu oponente y convertirte en el mejor luchador callejero del mundo. Animaciones ultrarrápidas, gráficos increíbles y la jugabilidad característica de Capcom hacen de Super Street Fighter II Turbo el juego de lucha más respetado de todos los tiempos."
     },
     {
       id: 112,
