@@ -1120,13 +1120,8 @@ let games = {
       genre: "rpg",
       title: "Sword of Mana",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/bd315d3230d476a1aeb8f9087a78310f.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/8ac0b7c1385516a341a29ca733144026.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/92420e6fbfb1ab3ecd4bc48b3bfe904b.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Sword%20of%20Mana%20%28USA%2C%20Australia%29.gba",
-      sinopsis: "The location of the Mana Tree - wellspring of all life - has long been lost to legend. Many centuries have passed, and the Granz Realm's Dark Lord is searching for the secrets of the ancient tree so that he can control the source of Mana. Now, a young hero and heroine must come together to defeat the evil that threatens both the mystical tree and the world itself."
+      rom: "https://dl.dropboxusercontent.com/s/aq6u2prht1jex1u/Sword%20of%20Mana%20%28USA%2C%20Australia%29.gba",
+      sinopsis: "La ubicación del árbol de maná, la fuente de toda vida, se perdió hace mucho tiempo en la leyenda. Han pasado muchos siglos, y el Señor Oscuro del Reino Granz está buscando los secretos del árbol antiguo para poder controlar la fuente de Mana. Ahora, un joven héroe y una heroína deben unirse para derrotar al mal que amenaza tanto al árbol místico como al mundo mismo."
     },
     {
       id: 113,
@@ -1135,13 +1130,8 @@ let games = {
       genre: "rpg",
       title: "Tactics Ogre: The Knight of Lodis",
       year: "2001",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/32e38175cc1892e2cc645dd5194d2958.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/66ff0b5dbb060ef47f756d33cf170f97.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/324018b886fd30f134123fdf7304df5d.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Tactics%20Ogre%20-%20The%20Knight%20of%20Lodis%20%28USA%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/7508tzv95c33i7b/Tactics%20Ogre%20-%20The%20Knight%20of%20Lodis%20%28USA%29.gba",
+      sinopsis: "No hay información"
     },
     {
       id: 114,
@@ -1150,13 +1140,8 @@ let games = {
       genre: "rpg",
       title: "Tales of Phantasia",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/bb4e19183188f766073a21cecb4590a9.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/873111dfe6a0f5f2008f00687567e5d8.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/306be5c84f4338ff865ca4793fb328f3.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Tales%20of%20Phantasia%20%28USA%2C%20Australia%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/xdn37gtby0m7uox/Tales%20of%20Phantasia%20%28USA%2C%20Australia%29.gba",
+      sinopsis: "La versión de Game Boy Advance de Tales of Fantasia se basó en las versiones de Playstation del juego, incluidas las voces de los personajes del remake de PlayStation, la tasa reducida de encuentros con enemigos y ajustes en el juego, pero usa la apertura original y el mapa mundial bidimensional."
     },
     {
       id: 115,
@@ -1165,13 +1150,8 @@ let games = {
       genre: "plataforma",
       title: "Tarzan: Return to the Jungle",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/fbffd6d4a9f2da1b76159d1d6a81a9d1.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9b3933639a931223d3f78f0dffc61254.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/1c616801a555cd123704636785ad3915.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Tarzan%20-%20Return%20to%20the%20Jungle%20%28USA%2C%20Europe%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/r50hiqw5sj10ptb/Tarzan%20-%20Return%20to%20the%20Jungle%20%28USA%2C%20Europe%29.gba",
+      sinopsis: "Basado en el cuento clásico de Edgar Rice Burroughs, Disney's Tarzan: Return to the Jungle encuentra a Tarzán en misiones que van desde localizar la Fuente de la Juventud hasta descubrir El Valle Perdido de los Dinosaurios. Además de poder columpiarse de enredaderas, nadar a través de aguas traicioneras y participar en la acción de surfear árboles, Tarzán ahora podrá blandir su fiel bumerán, su poderosa lanza y su famoso llamado animal para proteger a sus amigos y su hogar en la jungla. En el camino, los amigos de Tarzán, Jane, Terk y el profesor Porter se unirán a él en sus aventuras en la jungla."
     },
     {
       id: 116,
@@ -1180,13 +1160,8 @@ let games = {
       genre: "beat em up",
       title: "Teen Titans",
       year: "2005",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/c73fc3dea6689aacbf97773ad1038288.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9ea2a3d45a641fd927eda133e9c1c248.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/c209163f3e310b6c0a9a2c6489e22a8e.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Teen%20Titans%20%28USA%29%20%28En%2CFr%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/rrr0bw2tyonxm25/Teen%20Titans%20%28USA%29%20%28En%2CFr%29.gba",
+      sinopsis: "No hay información"
     },
     {
       id: 117,
@@ -1195,13 +1170,8 @@ let games = {
       genre: "beat em up",
       title: "Teen Titans 2",
       year: "2006",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/b3a8a798108ed8871a61ebbb4130f80d.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/2782a1d5af12f430289b3d1db5218e1c.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/5d3e52e7bf675beec8e3426f67c2c901.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Teen%20Titans%202%20%28USA%29%20%28En%2CFr%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/3oj3f9nblpt7ek5/Teen%20Titans%202%20%28USA%29%20%28En%2CFr%29.gba",
+      sinopsis: "Juega como Robin, Cyborg, Raven, Beast Boy y Starfire en esta secuela llena de acción del popular juego Game Boy Advance. La Hermandad ha vuelto y, una vez más, depende de los Jóvenes Titanes evitar que se apoderen de la ciudad de Titán. Tomando a los Titanes por sorpresa, Brain secuestra a los cinco superhéroes adolescentes y los mantiene prisioneros. Robin logra escapar y encontrar a sus compañeros Titanes. Una vez libres, el equipo se dispone a enfrentarse a la Hermandad."
     },
     {
       id: 118,
@@ -1210,13 +1180,8 @@ let games = {
       genre: "beat em up",
       title: "Teenage Mutant Ninja Turtles",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/97e1a9031470e7883fd2ecaa6623f723.png",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/004dbbb73c0e3933d191fa195500d018.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/dd363b260a3b26e9ebdc93193730e961.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Teenage%20Mutant%20Ninja%20Turtles%20%28USA%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/uog1fvpri1dz0gd/Teenage%20Mutant%20Ninja%20Turtles%20%28USA%29.gba",
+      sinopsis: "Teenage Mutant Ninja Turtles es un videojuego de Game Boy Advance de 2003, basado en la serie de televisión de 2003. En este juego, cada tortuga tiene su propio conjunto único de niveles para completar. Además de los niveles tradicionales de desplazamiento lateral, hay carreras de vista en tercera persona, un nivel de planeador de caparazón para Donatello y una carrera de bicicletas entre Raphael y Casey Jones. El juego también se publicó en un paquete doble con su secuela TMNT 2: Battle Nexus."
     },
     {
       id: 119,
@@ -1225,13 +1190,8 @@ let games = {
       genre: "beat em up",
       title: "Teenage Mutant Ninja Turtles 2: Battle Nexus",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/ca5b2e4666ebb0827a4029a43ca321fb.png",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/ec571ab7b4d7949853f9bf65e19442d5.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/76565ca91f9be8650a0f81f0d5de106b.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Teenage%20Mutant%20Ninja%20Turtles%202%20-%20Battle%20Nexus%20%28USA%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/0kn9tpmvb9qzs2o/Teenage%20Mutant%20Ninja%20Turtles%202%20-%20Battle%20Nexus%20%28USA%29.gba",
+      sinopsis: "Teenage Mutant Ninja Turtles 2: Battle Nexus fue lanzado para Game Boy Advance; que es un juego de plataformas en 2D, a diferencia de su versión lanzada al mismo tiempo para PS2, GameCube y Xbox, que es una tercera persona de beat 'em up. Fue lanzado en 2004 por Konami y fue la secuela de Teenage Mutant Ninja Turtles y basado en la serie de televisión de 2003."
     },
     {
       id: 120,
@@ -1240,13 +1200,8 @@ let games = {
       genre: "peleas",
       title: "Tekken Advance",
       year: "2001",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/6dccafe6d4eb21b987afc940e3f788a5.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9d5cc282ed8d39ab1f15b2338af14cb2.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/d597e048314596beebb1dba1248fc184.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Tekken%20Advance%20%28USA%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/0259qbhnmjhz88h/Tekken%20Advance%20%28USA%29.gba",
+      sinopsis: "Tekken Advance es un juego de lucha lanzado para Game Boy Advance. No es canónico para la historia de Tekken, pero sigue los eventos de Tekken 3. Utiliza sprites basados en los modelos 3D de Tekken 3 para sus personajes y fue el primer juego de Tekken que se lanzó en una plataforma de Nintendo."
     },
     {
       id: 121,
@@ -1255,13 +1210,8 @@ let games = {
       genre: "deportes",
       title: "Tony Hawk's Pro Skater 3",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/bcc3bc4b265dd4f13ba2296293cec2d9.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4b0a59ddf11c58e7446c9df0da541a84.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/b458201027eb55a7a6dcb41b0af61993.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Tony%20Hawk%27s%20Pro%20Skater%203%20%28USA%2C%20Europe%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/qnn0dfqqgymkep7/Tony%20Hawk%27s%20Pro%20Skater%203%20%28USA%2C%20Europe%29.gba",
+      sinopsis: "Tony Hawk regresa con una nueva alineación de patinadores, una nueva alineación de parques para atravesar y un nivel de gráficos completamente nuevo."
     },
     {
       id: 122,
@@ -1270,13 +1220,8 @@ let games = {
       genre: "shooter",
       title: "Turok: Evolution",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/7d1d8bfc2e16c69a17ac833597e2a9b0.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/52c2edca4131f0eeaff48a3f9a99bce0.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6b19397c392fd148c5873c9ca2a87f26.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Turok%20-%20Evolution%20%28USA%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/gvp5lhmi0j7mqar/Turok%20-%20Evolution%20%28USA%29.gba",
+      sinopsis: "La historia comienza en 1886. La caballería del Capitán Tobias Bruckner aplasta a la Nación Saquin. Tal'Set, el único superviviente, se enfrenta a Bruckner en un duelo a muerte. Una puerta mística repentina aparece y los sumerge en la oscuridad. La puerta lleva a Tal'Set a las Tierras Perdidas. Allí conoce a la Gente del Río. Djunn, el mejor guerrero de la tribu, accede a ayudar a Tal'Set en su búsqueda."
     },
     {
       id: 123,
@@ -1285,13 +1230,8 @@ let games = {
       genre: "plataforma",
       title: "Ultimate Spider-Man",
       year: "2005",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f97e386698e9a9a85d3c5604c042db95.png",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/583cf6a4542809a64ad14586ec00ebe0.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/cede2d63a7c04ebd4cb55a2228c7141a.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Ultimate%20Spider-Man%20%28USA%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/mx05l9uw6zup3zf/Ultimate%20Spider-Man%20%28USA%29.gba",
+      sinopsis: "Basado en el cómic del mismo nombre, Ultimate Spider-Man te permite jugar como el héroe Spider-Man o su archienemigo, Venom. Usa las técnicas de combate únicas de Spider-Man o Venom para luchar contra una gran cantidad de personajes de Spider-Man. Las contribuciones artísticas de los creadores de la serie crean una experiencia auténtica de Spider-Man."
     },
     {
       id: 124,
@@ -1300,13 +1240,8 @@ let games = {
       genre: "shooter",
       title: "Van Helsing",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/834bb7008bd1aaac887ffa69a7e86885.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/eab4f7ba2d678729fc5d205b33bceedd.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/56f2adb3621e53ea278ae1abba795d50.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Van%20Helsing%20%28USA%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/qnc6zt1n2pnzcfi/Van%20Helsing%20%28USA%29.gba",
+      sinopsis: "Van Helsing es un juego de disparos en tercera persona para PlayStation 2, Xbox, Game Boy Advance y teléfono móvil, que se basa en la película de acción y terror de 2004 del mismo nombre de Stephen Sommers. Comenzando con el asesinato de Mr. Hyde en París, uno debe usar el personaje de Van Helsing para cazar a Drácula en Transilvania. El personaje de Carl falta por completo en el videojuego, pero con una precisión razonable, los personajes de Anna Valerious, Velkan Valerious, Igor, Drácula y sus tres novias se representan como en la película."
     },
     {
       id: 125,
@@ -1315,13 +1250,8 @@ let games = {
       genre: "plataforma",
       title: "Wario Land 4",
       year: "2001",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f5aa887b05d60fa00919f3d378816010.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/1a47e38c424a51aba827f45d77a438b1.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6c2fdcf862a752ca2c9e49866a05e1df.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Wario%20Land%204%20%28USA%2C%20Europe%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/mhew4wm1dympfem/Wario%20Land%204%20%28USA%2C%20Europe%29.gba",
+      sinopsis: "¡Ey! ¡Tú! ¡Si, tú! ¡Escucha cuando Wario te está hablando! Acabo de leer sobre esta legendaria Pirámide de Oro, y me vas a ayudar a explorarla. Hay un montón de tesoros allí para tomar, y lo quiero todo. Estoy seguro de que habrá todo tipo de enemigos extraños y grandes y malos jefes allí, así que si no crees que puedes hackearlo, deja el juego ahora. No quiero que ningún perdedor me haga saltar a pozos sin fondo, ¿me oyes?"
     },
     {
       id: 126,
@@ -1330,13 +1260,8 @@ let games = {
       genre: "beat em up",
       title: "X-Men: Reign of Apocalypse",
       year: "2001",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/bddcc5065237c686cb4d89dba8b276f2.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/0d69c6dac2867bd073ec7e4c3df11665.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f328f10044c92a93ed15a76cd6c0058a.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/X-Men%20-%20Reign%20of%20Apocalypse%20%28USA%2C%20Europe%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/kkl2rptmf8f9skl/X-Men%20-%20Reign%20of%20Apocalypse%20%28USA%2C%20Europe%29.gba",
+      sinopsis: "Tú y tus compañeros X-Men están perdidos en una realidad alternativa, solo para descubrir que el supervillano Apocalipsis reina supremo. No solo te encuentras a merced de sus secuaces, sino que también la línea entre amigo y enemigo se difumina peligrosamente en este universo espejo. Tu única esperanza es abrirte camino a través de numerosos enemigos y amenazas hasta llegar a Warp Gate y regresar a casa. ¿Sobrevivirás lo suficiente para llegar allí?"
     },
     {
       id: 127,
@@ -1345,13 +1270,8 @@ let games = {
       genre: "cartas",
       title: "Yu-Gi-Oh! Reshef of Destruction",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/10d7dfa268a7c0ba1b29ba3da5d6100a.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/f637a1490bb06969dd619e1854ee2ebc.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/733bf40648f654e2a0f367c8cb16856a.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Yu-Gi-Oh%21%20-%20Reshef%20of%20Destruction%20%28USA%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/aaws2wqzakl4ilp/Yu-Gi-Oh%21%20-%20Reshef%20of%20Destruction%20%28USA%29.gba",
+      sinopsis: "En tu regreso a Battle City, comienzas otra misión para recuperar cartas del milenio robadas que pueden destruir el mundo. Yu-Gi-Oh! Reshef of Destruction presenta una historia completamente nueva que lo inicia en una búsqueda para evitar que Reshef ahogue el mundo en la oscuridad. Dado que las batallas del juego se libran con cartas, debes construir un mazo fuerte con 800 cartas diferentes (incluidas las tres cartas de dioses egipcios) para tener una oportunidad contra tus enemigos."
     },
     {
       id: 128,
@@ -1360,13 +1280,8 @@ let games = {
       genre: "rpg",
       title: "Yu-Gi-Oh! The Eternal Duelist Soul",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/d7483430ef03eca02442c0e9969836fe.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/65556ffd720276df70c1553bc19168f4.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero_thumb/013d54a73fa466f8e8fe15b32976c8a4.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Yu-Gi-Oh%21%20-%20The%20Eternal%20Duelist%20Soul%20%28USA%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/vpis0me2omt2z1e/Yu-Gi-Oh%21%20-%20The%20Eternal%20Duelist%20Soul%20%28USA%29.gba",
+      sinopsis: "Yu-Gi-Oh! El Alma de Duelista Eterna es un Yu-Gi-Oh! videojuego para Game Boy Advance. Es la versión internacional de Yu-Gi-Oh! Duel Monsters 5 Expert 1. El juego es similar a las reglas de duelo estándar, excepto que el Side Deck permite menos de 15 cartas y es más conveniente para obtener cartas para tu Deck que cambiar entre duelos, ya que los duelos de CPU son duelos individuales en lugar de duelos. partidos (con algunas excepciones en eventos)."
     },
     {
       id: 129,
@@ -1375,13 +1290,8 @@ let games = {
       genre: "cartas",
       title: "Yu-Gi-Oh! The Sacred Cards",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/9f2671e8ae16ceaedcbe315379cfd9f8.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/300813552e095326d31cdd855b300fbf.png",
-      background:
-        "",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Yu-Gi-Oh%21%20-%20The%20Sacred%20Cards%20%28USA%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.coms/2gvae5ra4tc291y/Yu-Gi-Oh%21%20-%20The%20Sacred%20Cards%20%28USA%29.gba",
+      sinopsis: "En Yu-Gi-Oh! Las cartas sagradas, es tan importante jugar bien tus cartas como conseguir las cartas correctas. Este juego de rol único te ofrece cartas como armas contra la dura competencia. Lucharás en un torneo organizado por Kaiba Corporation y ganarás las poderosas Cartas de dioses egipcios. Basado en eventos de Yu-Gi-Oh! La serie de televisión animada The Sacred Cards ofrece cientos de cartas, más de 100 duelistas y rivales, y sorpresas y giros inesperados."
     },
     {
       id: 130,
@@ -1390,13 +1300,8 @@ let games = {
       genre: "cartas",
       title: "Yu-Gi-Oh! GX Duel Academy",
       year: "2006",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/7dbcbe42d4804b5b53ccfbb446052f0e.jpg",
-      logo: "",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/34657b087cb522ecec1cc1ead4026974.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Yu-Gi-Oh%21%20GX%20-%20Duel%20Academy%20%28USA%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/e2yrf5hy0cegnl7/Yu-Gi-Oh%21%20GX%20-%20Duel%20Academy%20%28USA%29.gba",
+      sinopsis: "El objetivo es avanzar en el juego, siguiendo la primera temporada del anime. Principalmente, vienes a Duel Academy para convertirte en el Rey de los Juegos. Al principio, estarás en Slifer Red Dorm con rangos de abandono escolar. Tienes que batirte en duelo y hacer pruebas para conseguir un dormitorio y un rango más altos. Cuando ganes duelos, obtendrás DP por comprar paquetes de refuerzo para mejorar tu Deck y tus habilidades."
     },
     {
       id: 131,
@@ -1405,13 +1310,8 @@ let games = {
       genre: "rpg",
       title: "Zoids: Legacy",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/0278edddd8a644613430170b1e9ad893.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4585ad1e2cbe41891c011a3e0e73e1d4.png",
-      background:
-        "",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Zoids%20Legacy%20%28USA%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/h4c5ygb7wfiev35/Zoids%20Legacy%20%28USA%29.gba",
+      sinopsis: "En los confines del universo, los habitantes humanos del Planeta Zi permanecen trabados en combate. La población, dividida entre el bien y el mal, usa formas de vida gigantescas llamadas Zoids para luchar entre sí por el control de este mundo. Durante un reciente experimento con armas, el Planeta Zi experimentó una fusión temporal-espacial accidental, creando una colisión de guerreros Zoids de dos eras, el Siglo Caótico y el Siglo Nuevo. Ahora, todas las esperanzas de devolver el planeta Zi a la normalidad descansan en Zeru, un prometedor guerrero Zoids. Ayuda a Van, Fiona, Bit Cloud y Zeru a usar todo el poder de los ZOIDS para traer la paz a su mundo. A medida que se desarrolla la historia, los jugadores pueden personalizar y actualizar sus Zoids únicos para mejorar su eficiencia y realizar movimientos de ataque combinados. Lanzado en Japón como Zoids Saga II, Legacy presenta más de 140 tipos diferentes de Zoids, cada uno se puede personalizar con diferentes armas y nuevos esquemas de color."
     },
     {
       id: 132,
@@ -1420,13 +1320,8 @@ let games = {
       genre: "rpg",
       title: "Pokémon Ruby",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/496ebdc49192930a71a477a6c31f110a.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/d18c255f89434eab3211813c0e765c6b.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/ba5e0fe03c25fc5d2e03355af56955e9.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Pokemon%20-%20Ruby%20Version%20%28USA%2C%20Europe%29%20%28Rev%202%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/1sy8drayyukdt0e/Pokemon%20-%20Ruby%20Version%20%28USA%2C%20Europe%29%20%28Rev%202%29.gba",
+      sinopsis: "Secuela de las versiones Oro y Plata de Pokémon (1999), las versiones Rubí y Zafiro de Pokémon ofrecen 135 Pokémon nuevos, sistemas de entrenamiento y lucha más complejos, nuevas organizaciones criminales, una campaña más larga y centrada en la historia y gráficos actualizados para crear un nuevo Pokémon técnicamente mejorado. Experiencia Pokémon."
     },
     {
       id: 133,
@@ -1435,13 +1330,8 @@ let games = {
       genre: "rpg",
       title: "Pokémon Sapphire",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/8f1fbec081c675cb4641784029247c3b.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/3a2ee1496acdeeece4124055b3799c33.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/847180330e07c93237a52b9e01057785.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Pokemon%20-%20Sapphire%20Version%20%28USA%2C%20Europe%29%20%28Rev%202%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/gf1s1va0oe62j6q/Pokemon%20-%20Sapphire%20Version%20%28USA%2C%20Europe%29%20%28Rev%202%29.gba",
+      sinopsis: "Secuela de las versiones Oro y Plata de Pokémon (1999), las versiones Rubí y Zafiro de Pokémon ofrecen 135 Pokémon nuevos, sistemas de entrenamiento y lucha más complejos, nuevas organizaciones criminales, una campaña más larga y centrada en la historia y gráficos actualizados para crear un nuevo Pokémon técnicamente mejorado. Experiencia Pokémon."
     },
     {
       id: 134,
@@ -1450,13 +1340,8 @@ let games = {
       genre: "rpg",
       title: "Harvest Moon: Friends of Mineral Town",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/e955daf28a603289504ea47549b8746a.png",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/b71f5aaf3371c2cdfb7a7c0497f569d4.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/a5451ac57849a2ed0d3938dd4a3efa39.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Harvest%20Moon%20-%20Friends%20of%20Mineral%20Town%20%28U%29%20%5B%21%5D.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/8gk2rko6a9qr62r/Harvest%20Moon%20-%20Friends%20of%20Mineral%20Town%20%28U%29%20%5B%21%5D.gba",
+      sinopsis: "Convierte un campo de rocas y malezas descuidado durante mucho tiempo en una granja exitosa en este juego de rol rústico."
     },
     {
       id: 135,
@@ -1465,13 +1350,8 @@ let games = {
       genre: "deportes",
       title: "Mario Tennis: Power Tour",
       year: "2005",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/6c1f36320a3167e6c35ecc8975624beb.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/1ce927f875864094e3906a4a0b5ece68.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/fc76dcfc15b6be30b1e6d3c296f19e58.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Mario%20Tennis%20Advance%20-%20Power%20Tour%20%28U%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/dsecvfa71xu91zf/Mario%20Tennis%20Advance%20-%20Power%20Tour%20%28U%29.gba",
+      sinopsis: "Los jugadores pueden probar su revés en esta aventura única de tenis de rol. Entrena duro en la Royal Tennis Academy para ser un campeón. Obtenga experiencia y mejore sus habilidades a través de lecciones y torneos, y ascienda a la cima de las clasificaciones. Juega como Mario, Peach, Waluigi o Donkey Kong en una gran cantidad de modos salvajes. Avanza en la historia y desbloquea aún más personajes, todos con sus propios movimientos de poder. Vence a Mario en su propio juego, luego únete a uno o tres amigos para divertirte aún más frenéticamente."
     },
     {
       id: 136,
@@ -1480,13 +1360,8 @@ let games = {
       genre: "rpg",
       title: "Mega Man Battle Network 2",
       year: "2001",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/cb6d627fe0af6e402c4e97bd94ade206.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/ee0c1616bbc82804b2f4b635d4a055fb.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/8ed16b12adc574bb06ec2cb2f5479952.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Megaman%20Battle%20Network%202%20%28U%29%20%5B%21%5D.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/c211u0cngzizvys/Megaman%20Battle%20Network%202%20%28U%29%20%5B%21%5D.gba",
+      sinopsis: "Entra en el universo futurista de Mega Man.EXE en esta nueva aventura de la serie Battle Network. Únete a él en su batalla para luchar contra los delitos cibernéticos en esta mega aventura de rol. Ahora, hay una nueva organización criminal en la red en la ciudad y su piratería informática ha creado un virus que está cobrando impulso rápidamente. Depende de Mega Man.EXE, su amigo Lan y sus amigos unirse a Net-Battlers y ganar esta nueva batalla cibernética. ¡Detenlo antes de que se propague!"
     },
     {
       id: 137,
@@ -1495,13 +1370,8 @@ let games = {
       genre: "rpg",
       title: "Mega Man Battle Network 3: Blue",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/b5e2c77e749f83619063552ea95c3bfa.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/64d4f6639c0f1569f2b3736cdc947a69.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6afb45b1fa88e49d68d1ed2c3481a36a.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Megaman%20Battle%20Network%203%20-%20Blue%20Version%20%28U%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/gebhefiqlofjlkg/Megaman%20Battle%20Network%203%20-%20Blue%20Version%20%28U%29.gba",
+      sinopsis: "Únete a Mega Mega.EXE, su amigo Lan y sus amigos mientras mantienen la red a salvo del caos cibernético en la aventura de red de batalla más expansiva hasta el momento. ¡Junto con la versión blanca, encuentra todos los cambios de estilo de batalla de Mega Man, fichas Giga Class, enemigos y descubre más sorpresas solo para ti!"
     },
     {
       id: 138,
@@ -1510,13 +1380,8 @@ let games = {
       genre: "rpg",
       title: "Mega Man Battle Network 6: Cybeast Falzar",
       year: "2005",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/6404c1c8e70bd8994caf2014003bf0ae.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/5067cd967516f7ee90d0e763afc36f27.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/8321e047fb413f251abf34adf1e49a1b.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Megaman%20Battle%20Network%206%20-%20Cybeast%20Falzar%20%28U%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/i2ljn266fhjh8ot/Mega%20Man%20Battle%20Network%206%20-%20Cybeast%20Gregar%20%28USA%29.gba",
+      sinopsis: "Mega Man Battle Network 6 es la sexta y última entrega de la serie Mega Man Battle Network de Capcom, lanzada para Game Boy Advance. El juego se lanzó en dos versiones: Cybeast Falzar y Cybeast Gregar. Introdujo varios personajes nuevos mientras conservaba los existentes. Cada versión tiene sus propias funciones Cross (Double Souls significativamente modificadas) y Beast Out."
     },
     {
       id: 139,
@@ -1525,13 +1390,8 @@ let games = {
       genre: "shooter",
       title: "Mega Man Zero 3",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/43eb3391333cc20efbd7f812851447e6.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/1ba0846587744383fa518b7e642ff632.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/63cf8ae5aa08cb59818f341fefa94618.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Megaman%20Zero%203%20%28U%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/wnysnqjswr1qjg3/Mega%20Man%20Zero%203%20%28USA%29.gba",
+      sinopsis: "Es el tercer capítulo de la serie de aventuras y acción Mega Man Zero para Game Boy Advance. Con un nuevo sistema de personalización, ahora puedes equipar a Zero con una combinación de chips que afectarán tanto a sus atributos como a sus habilidades, permitiéndote adaptarlo a diferentes desafíos. Entre sus otras habilidades nuevas, Zero ahora tendrá un arma llamada barra de retroceso. Ahora salta al doble de su altura normal. Estas nuevas habilidades le permitirán a nuestro héroe marchar hacia Arcadia para derrotar al malvado Omega sin ayuda... ¿O no?"
     },
     {
       id: 140,
@@ -1540,13 +1400,8 @@ let games = {
       genre: "shooter",
       title: "Mega Man Zero 4",
       year: "2005",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/1a534df4ec7023f89613a24be21a149f.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/d5a1469d699bdf9fdc74cc29643034bf.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/77ecf511cfd57b357a384e225121dc85.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Megaman%20Zero%204%20%28U%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/hjz4qc5qrtbi7sb/Mega%20Man%20Zero%204%20%28USA%29.gba",
+      sinopsis: "Mega Man Zero 4 es un videojuego creado por Capcom e Inti Creates para Game Boy Advance en 2005. Es la cuarta y última entrega de la serie Mega Man Zero, lo que convierte a Zero en la primera subserie de Mega Man en ver una conclusión adecuada. El juego presenta Zero Knuckle, un arma que le permite a Zero robar las armas de otros enemigos y usarlas para sí mismo, así como una nueva mecánica en la que Zero puede alterar las condiciones climáticas antes de ingresar a uno de los ocho niveles principales."
     },
     {
       id: 141,
@@ -1555,13 +1410,8 @@ let games = {
       genre: "rpg",
       title: "Pokémon LeafGreen",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/8cc10a343f7cacddbbc5488786f3f22b.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/8ad6635f33710af6a535e8fb8486975e.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9ca63c9e73a047353e17845c6f4cfe5b.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Pokemon%20-%20Leaf%20Green%20Version%20%28U%29%20%28V1.1%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/42ip4vt822cbrt4/Pokemon%20-%20Leaf%20Green%20Version%20%28U%29%20%28V1.1%29.gba",
+      sinopsis: "Pokémon LeafGreen Version y Pokémon FireRed Version son un par de juegos de la tercera generación de la serie principal que se desarrollan en la región de Kanto. Fueron lanzados en Japón el 29 de enero de 2004, en Norteamérica el 9 de septiembre de 2004, en Australia el 23 de septiembre de 2004 y en Europa el 1 de octubre de 2004. Como los primeros remakes de la franquicia Pokémon, los juegos revisitan el original. un par de juegos de Pokémon, las versiones roja y verde de Pokémon, y presentan todos los personajes, elementos de la trama y desafíos de ellos, pero con varias actualizaciones importantes para ponerlos al día con otros juegos de la Generación III."
     },
     {
       id: 142,
@@ -1570,13 +1420,8 @@ let games = {
       genre: "deportes",
       title: "Pokémon Pinball: Ruby & Sapphire",
       year: "2004",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f96678284159ab3ba5de5170864ea9cc.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/f4492508850c58446d4784339470a8f6.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/07193c44ba3be8df1f67e96110c2006e.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Pokemon%20Pinball%20-%20Ruby%20%26%20Sapphire%20%28U%29%20%28V1.0%29%20%5BhI%5D.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/5ghfzdm7h0evwyn/Pokemon%20Pinball%20-%20Ruby%20%26%20Sapphire%20%28U%29%20%28V1.0%29%20%5BhI%5D.gba",
+      sinopsis: "Pokemon Pinball tiene todas las características que esperarías de un juego de pinball, incluidas mesas de bonificación, muchos parachoques y formas de ganar puntos masivos. Al igual que con su juego de pinball de videojuego estándar, el botón izquierdo en el D-pad y el botón A controlan las aletas con los gatillos R / L que se usan para sacudir la mesa. El problema aquí es que todo tiene un tema en Pokémon. En lugar de una pelota, usas una Pokébola. En lugar de los parachoques estándar, estás golpeando la Pokébola contra otros Pokémon, y el objetivo final es, por supuesto, atraparlos a todos. El juego cuenta con 200 Pokémon, dos mesas principales y soporte para cable de enlace."
     },
     {
       id: 143,
@@ -1585,13 +1430,8 @@ let games = {
       genre: "plataforma",
       title: "SpongeBob SquarePants: Battle for Bikini Bottom",
       year: "2003",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/734e6a616360c12cbb4777d02010a68d.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/fe2da9ceaf2c691abb706a49c22ba094.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/cdcb2f5c7b071143529ef7f2705dfbc4.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/SpongeBob%20SquarePants%20-%20Battle%20for%20Bikini%20Bottom%20%28U%29%20%5BhI%5D.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/m2astzzk6gt6yua/SpongeBob%20SquarePants%20-%20Battle%20for%20Bikini%20Bottom%20%28U%29%20%5BhI%5D.gba",
+      sinopsis: "Versión GBA de Spongebob Squarepants: Battle For Bikini Bottom. A diferencia de su contraparte de consola, es un juego de plataformas en 2D."
     },
     {
       id: 144,
@@ -1600,13 +1440,8 @@ let games = {
       genre: "plataforma",
       title: "Super Ghouls 'n Ghosts",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/06dad38c1e8fbf3541863aa38718b4d6.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/1f8107db1348b9e5ddcf83489018a5d2.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/49ad23d1ec9fa4bd8d77d02681df5cfa.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Super%20Ghouls%20%27N%20Ghosts%20%28U%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/5wbhnn99xvm5pat/Super%20Ghouls%20%27N%20Ghosts%20%28U%29.gba",
+      sinopsis: "La versión Game Boy Advance de Super Ghouls 'n Ghosts incluye un modo Organizar que no está presente en el original. El modo Arrange carece de una segunda ejecución, por lo que el brazalete de la diosa se puede obtener en cualquier momento cuando Arthur está equipado con la armadura dorada. Ambos modos contienen una nueva función Guardar, que permite al jugador continuar en el último punto de control con la armadura y el arma que haya equipado. El modo Arrange también presenta nuevas rutas y nuevos jefes."
     },
     {
       id: 145,
@@ -1615,13 +1450,8 @@ let games = {
       genre: "beat em up",
       title: "The Grim Adventures of Billy & Mandy",
       year: "2006",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/0d30c935315fc29c87bd8d3ada2f1bd3.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/a74c0747f5bc0e2eb5e156ce432a3879.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6c9882bbac1c7093bd25041881277658.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Grim%20Adventures%20of%20Billy%20%26%20Mandy%2C%20The%20%28USA%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/ezda2wbxgwfg3n1/Grim%20Adventures%20of%20Billy%20%26%20Mandy%2C%20The%20%28USA%29.gba",
+      sinopsis: "The Grim Adventures of Billy & Mandy enfrenta a los personajes del popular programa de televisión Cartoon Network en un juego de aventura/lucha, lleno de caos y violencia. En el Modo Batalla, los jugadores pueden usar una multitud de armas en arenas destructibles como el Desierto de la Perdición y el Inframundo. Los jugadores también tienen la opción de jugar solos o con un amigo en el Modo Aventura, una serie de misiones basadas en historias donde los jugadores pueden desbloquear nuevas armas y nuevos personajes jugables."
     },
     {
       id: 146,
@@ -1630,13 +1460,8 @@ let games = {
       genre: "aventura",
       title: "Harry Potter and the Goblet of Fire",
       year: "2005",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/9764313a56bacfec78c4e427b7dd1701.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/62a7e2da310bdb98fb0b60102a6876e2.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/22cd4d66fc24fc0163ac00d27c1433c5.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/stc5iyqcv0nj4i7/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.gba",
+      sinopsis: "Harry Potter y el cáliz de fuego para Nintendo DS y Game Boy Advance es un juego de acción/aventura de arriba hacia abajo en el que juegas como los tres amigos y progresas a través de la historia basada en el libro y la película. Ábrete camino a través de varios escenarios atacando enemigos y resolviendo acertijos usando hechizos. Un botón dispara un hechizo a distancia, como Confoundus, mientras que otro se usa para hechizos de flujo, como Wingardium Leviosa, que se puede mover con el Panel de control. También puedes llamar a tus amigos para darle más poder a tus hechizos mágicos. La versión de DS incluye un pequeño juego de bonificación en el que te encargas de una criatura mágica llamada 'Niffler'. Es un juego de simulación, como un Tamagotchi muy simple. Puedes alimentar al escarbato, limpiarlo y darle juguetes. Dependiendo de lo que hagas, estará más o menos complacido contigo. Actúa lo suficientemente bien, y se volverá realmente feliz, y te permitirá darle palmaditas para hacerlo aún más feliz."
     },
     {
       id: 147,
@@ -1645,13 +1470,8 @@ let games = {
       genre: "aventura",
       title: "Harry Potter and the Order of the Phoenix",
       year: "2007",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/819c46cd9742d2ed5cd2a9a5e4060375.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/4e6bdf8e5aed24d7a26d7318e0c87417.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/b670dfc593340027581047db105f3347.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/gqt6eey3ctiqsk8/Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CDa%29.gba",
+      sinopsis: "Tanto en la versión de Nintendo DS como en la de GBA, el jugador puede caminar por Hogwarts en fondos renderizados casi en 3D, como en los primeros juegos de Resident Evil. El modo de juego consiste en varios minijuegos, a los que juegas presionando los botones en el momento adecuado o haciendo diferentes tipos de movimientos con el lápiz óptico en la pantalla táctil."
     },
     {
       id: 148,
@@ -1660,13 +1480,8 @@ let games = {
       genre: "shooter",
       title: "Tomb Raider: Legend",
       year: "2006",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a16f1bb307068c3c9e396d49fb9a8e05.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/8c7bbbba95c1025975e548cee86dfadc.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/49ade09afce7a9f8389e13a0a62db65f.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Lara%20Croft%20Tomb%20Raider%20-%20Legend%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/vmbqsu06c2v7sbd/Lara%20Croft%20Tomb%20Raider%20-%20Legend%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba",
+      sinopsis: "La versión GBA de Lara Croft Tomb Raider: Legend es un juego de plataformas de desplazamiento lateral más similar a la versión de DS en lugar de las versiones de consola 3D de un estudio de desarrollo diferente. A diferencia del juego GBA anterior de la serie, se usa una vista lateral en lugar de una perspectiva de cámara aérea más titulada. Lara también puede saltar, atacar con sus armas y necesita moverse a nuevas plataformas, evitar obstáculos y eliminar enemigos y animales en su camino. El tiempo y la precisión son esenciales para llegar a las plataformas, como en los primeros juegos de Prince of Persia. Se recolectan nuevas armas cuando los enemigos las sueltan, pero esto no cambia el sprite del arma que sostiene Lara. También hay una serie de secuencias de vehículos en las que Lara conduce una bicicleta."
     },
     {
       id: 149,
@@ -1675,13 +1490,8 @@ let games = {
       genre: "beat em up",
       title: "Spider-man 3",
       year: "2007",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/9e0a3bbf6b8fabc2edd941c1f9aa2ea0.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/668c7d9d4728fc9eebbe7a8202c95c26.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/9ac99aa820030753f4101f35de5ce163.png",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Spider-Man%203%20%28USA%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/etw1lvqu7ril1in/Spider-Man%203%20%28USA%29.gba",
+      sinopsis: "Experimenta un sistema de combate completamente nuevo, de dos maneras emocionantes. Rediseñado desde cero, un sistema de combate único permite que tanto Spider-Man como Black-Suited Spider-Man realicen poderes y habilidades específicos de cada traje. Las animaciones, los combos y los finalizadores de última generación hacen que los puñetazos, las patadas y los ataques web sean más heroicos que nunca. Lucha contra 10 de los enemigos más infames de Spider-Man de la película y el universo de Marvel, incluidos Sandman y Venom."
     },
     {
       id: 150,
@@ -1690,13 +1500,8 @@ let games = {
       genre: "rpg",
       title: "Super Robot Taisen Original Generation",
       year: "2002",
-      poster:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/e07bd28857d62b43d0e4b2598a366cce.jpg",
-      logo: "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/9e2c1a75152b64671ddb83ae0a4ee310.png",
-      background:
-        "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/f164ba76f5fba1522bfbb098c4597aa6.jpg",
-      rom: "https://f004.backblazeb2.com/file/arandevs2022/cloud-retro-gaming/roms/gameboy-advance/Super%20Robot%20Taisen%20-%20Original%20Generation%202%20%28USA%29.gba",
-      favorite: false,
+      rom: "https://dl.dropboxusercontent.com/s/9yqmlzsszy0rz45/Super%20Robot%20Taisen%20-%20Original%20Generation%20%28USA%29.gba",
+      sinopsis: "Han pasado doscientos años desde el comienzo de la Era espacial, un período de tiempo en el que la civilización comenzó a expandirse en el espacio. Sin embargo, a principios del siglo XXI, dos meteoritos impactaron y destruyeron gran parte de la Tierra, sumiendo a la humanidad en el caos. Para el año 179 de la Era Espacial, el Gobierno Federal de la Tierra descubrió una tecnología secreta, denominada Extra-Over Technology, o EOT, dentro de un tercer meteorito que había golpeado la Tierra en las Islas Marquesas en el Pacífico Sur. El Dr. Bian Zoldark, mientras investigaba el meteorito, también descubrió que los creadores de la Tecnología Extra-Over se dirigían a la Tierra para recuperarlo. Para defender la tierra, el gobierno comienza a desarrollar un grupo de mechas humanoides, conocidos como Personal Troopers."
     },
   ],
 
