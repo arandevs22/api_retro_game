@@ -79,6 +79,13 @@ app.get("/api/channels/genre/:genre", (req, res) => {
   res.send(JSON.stringify(resultados));
 });
 
+app.get("/api/movies/genre/:genre", (req, res) => {
+  const genre = req.params.genre;
+  const resultados = movies.filter(
+    (movie) => movie.genre === genre
+  );
+})
+
 
 
 
