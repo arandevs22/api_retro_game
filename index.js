@@ -84,6 +84,12 @@ app.get("/api/movies/genre/:genre", (req, res) => {
   const resultados = movies.filter(
     (movie) => movie.genre === genre
   );
+
+  if (resultados.length === 0) {
+    return res.status(404).send(`No se encontraron peliculas de ${genre}`);
+  }
+  res.send(JSON.stringify(resultados));
+
 })
 
 
