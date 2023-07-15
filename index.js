@@ -5,6 +5,8 @@ const { games } = require("./games.js");
 
 const { channels } = require("./channels.js")
 
+const { movies } = require("./movies.js")
+
 const app = express();
 
 app.use(express.json());
