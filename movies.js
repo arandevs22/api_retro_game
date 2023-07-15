@@ -6,3 +6,5 @@ let movies = [
         poster_path: "kcDL57ZP833yQLC4kIqNpRziWOF.jpg" 
     }
 ]
+
+module.exports.movies = movies;
